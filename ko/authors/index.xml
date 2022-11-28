@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Tech Terminologies</title>
+    <title>TechTerminologies 웹사이트에 글을 쓰는 모든 기고자 목록 on Tech Terminologies</title>
     <link>https://techterminologies.com/ko/authors/</link>
-    <description>Recent content in Authors on Tech Terminologies</description>
+    <description>Recent content in TechTerminologies 웹사이트에 글을 쓰는 모든 기고자 목록 on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://techterminologies.com/ko/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daniel Gonzales의 기사</title>
+      <link>https://techterminologies.com/ko/authors/daniel-gonzales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/authors/daniel-gonzales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Graham의 기사</title>
+      <link>https://techterminologies.com/ko/authors/john-graham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/authors/john-graham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marvin Kaufman의 기사</title>
+      <link>https://techterminologies.com/ko/authors/marvin-kaufman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/authors/marvin-kaufman/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

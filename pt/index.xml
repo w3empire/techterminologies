@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech Terminologies</title>
+    <title>Tech Terminologies — Mais de 10.000 definições, explicações e exemplos de termos técnicos on Tech Terminologies</title>
     <link>https://techterminologies.com/pt/</link>
-    <description>Recent content on Tech Terminologies</description>
+    <description>Recent content in Tech Terminologies — Mais de 10.000 definições, explicações e exemplos de termos técnicos on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://techterminologies.com/pt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Procurar</title>
+      <link>https://techterminologies.com/pt/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/pt/search/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

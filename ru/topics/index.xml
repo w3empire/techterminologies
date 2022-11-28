@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topics on Tech Terminologies</title>
+    <title>Просмотрите все темы технических терминов на TechTerminologies on Tech Terminologies</title>
     <link>https://techterminologies.com/ru/topics/</link>
-    <description>Recent content in Topics on Tech Terminologies</description>
+    <description>Recent content in Просмотрите все темы технических терминов на TechTerminologies on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://techterminologies.com/ru/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Полный список аппаратных терминов и их определений</title>
+      <link>https://techterminologies.com/ru/topics/hardware-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/hardware-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Полный список интернет-терминов и их определений</title>
+      <link>https://techterminologies.com/ru/topics/internet-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/internet-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Полный список терминов программного обеспечения и их определений</title>
+      <link>https://techterminologies.com/ru/topics/software-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/software-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Полный список терминов разработки программного обеспечения и их определений</title>
+      <link>https://techterminologies.com/ru/topics/software-development-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/software-development-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Полный список терминов управления данными и их определений</title>
+      <link>https://techterminologies.com/ru/topics/data-management-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/data-management-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Полный список терминов форматов файлов и их определений</title>
+      <link>https://techterminologies.com/ru/topics/file-format-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/file-format-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Полный список технических сокращений и их определений</title>
+      <link>https://techterminologies.com/ru/topics/technical-acronyms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/technical-acronyms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Полный список технических терминов и их определений</title>
+      <link>https://techterminologies.com/ru/topics/technical-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/technical-terms/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

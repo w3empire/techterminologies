@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topics on Tech Terminologies</title>
+    <title>Browse all tech terms topics on TechTerminologies on Tech Terminologies</title>
     <link>https://techterminologies.com/topics/</link>
-    <description>Recent content in Topics on Tech Terminologies</description>
+    <description>Recent content in Browse all tech terms topics on TechTerminologies on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 25 Nov 2022 16:06:18 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Complete List of Software Development Terms And Their Definitions</title>
-      <link>https://techterminologies.com/topics/software-development/</link>
+      <link>https://techterminologies.com/topics/software-development-terms/</link>
       <pubDate>Fri, 25 Nov 2022 16:06:18 -0300</pubDate>
       
-      <guid>https://techterminologies.com/topics/software-development/</guid>
+      <guid>https://techterminologies.com/topics/software-development-terms/</guid>
       <description></description>
     </item>
     
@@ -22,6 +22,60 @@
       <pubDate>Fri, 25 Nov 2022 16:06:18 -0300</pubDate>
       
       <guid>https://techterminologies.com/topics/software-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complete List of Data Management Terms And Their Definitions</title>
+      <link>https://techterminologies.com/topics/data-management-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/topics/data-management-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complete List of File Format Terms And Their Definitions</title>
+      <link>https://techterminologies.com/topics/file-format-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/topics/file-format-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complete List of Hardware Terms And Their Definitions</title>
+      <link>https://techterminologies.com/topics/hardware-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/topics/hardware-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complete List of Internet Terms And Their Definitions</title>
+      <link>https://techterminologies.com/topics/internet-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/topics/internet-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complete List of Technical Acronyms And Their Definitions</title>
+      <link>https://techterminologies.com/topics/technical-acronyms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/topics/technical-acronyms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Complete List of Technical Terms And Their Definitions</title>
+      <link>https://techterminologies.com/topics/technical-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/topics/technical-terms/</guid>
       <description></description>
     </item>
     

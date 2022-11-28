@@ -1,10 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Tech Terminologies</title>
+    <title>Una lista de todos los colaboradores que escriben para el sitio web TechTerminologies on Tech Terminologies</title>
     <link>https://techterminologies.com/es/authors/</link>
-    <description>Recent content in Authors on Tech Terminologies</description>
+    <description>Recent content in Una lista de todos los colaboradores que escriben para el sitio web TechTerminologies on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://techterminologies.com/es/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artículos de Daniel Gonzales</title>
+      <link>https://techterminologies.com/es/authors/daniel-gonzales/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/es/authors/daniel-gonzales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artículos de John Graham</title>
+      <link>https://techterminologies.com/es/authors/john-graham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/es/authors/john-graham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Artículos de Marvin Kaufman</title>
+      <link>https://techterminologies.com/es/authors/marvin-kaufman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/es/authors/marvin-kaufman/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

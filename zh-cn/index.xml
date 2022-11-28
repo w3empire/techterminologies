@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech Terminologies</title>
+    <title>Tech Terminologies — 10000 多个技术术语定义、解释和示例 on Tech Terminologies</title>
     <link>https://techterminologies.com/zh-cn/</link>
-    <description>Recent content on Tech Terminologies</description>
+    <description>Recent content in Tech Terminologies — 10000 多个技术术语定义、解释和示例 on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://techterminologies.com/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搜索</title>
+      <link>https://techterminologies.com/zh-cn/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/zh-cn/search/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

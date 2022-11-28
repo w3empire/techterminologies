@@ -1,10 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topics on Tech Terminologies</title>
+    <title>TechTerminologies에서 모든 기술 용어 주제 찾아보기 on Tech Terminologies</title>
     <link>https://techterminologies.com/ko/topics/</link>
-    <description>Recent content in Topics on Tech Terminologies</description>
+    <description>Recent content in TechTerminologies에서 모든 기술 용어 주제 찾아보기 on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://techterminologies.com/ko/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>기술 약어 및 해당 정의의 전체 목록</title>
+      <link>https://techterminologies.com/ko/topics/technical-acronyms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/topics/technical-acronyms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>기술 용어 및 정의의 전체 목록</title>
+      <link>https://techterminologies.com/ko/topics/technical-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/topics/technical-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>데이터 관리 용어 및 정의의 전체 목록</title>
+      <link>https://techterminologies.com/ko/topics/data-management-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/topics/data-management-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>소프트웨어 개발 용어 및 정의의 전체 목록</title>
+      <link>https://techterminologies.com/ko/topics/software-development-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/topics/software-development-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>소프트웨어 용어 및 정의의 전체 목록</title>
+      <link>https://techterminologies.com/ko/topics/software-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/topics/software-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>인터넷 용어 및 정의의 전체 목록</title>
+      <link>https://techterminologies.com/ko/topics/internet-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/topics/internet-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>파일 형식 용어 및 해당 정의의 전체 목록</title>
+      <link>https://techterminologies.com/ko/topics/file-format-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/topics/file-format-terms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>하드웨어 용어 및 정의의 전체 목록</title>
+      <link>https://techterminologies.com/ko/topics/hardware-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/topics/hardware-terms/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
