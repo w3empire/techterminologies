@@ -5,14 +5,42 @@
     <link>https://techterminologies.com/pt/authors/</link>
     <description>Recent content in Uma lista de todos os contribuidores que escrevem para o site TechTerminologies on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/pt/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 08:42:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/pt/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artigos de Daniel Gonzales</title>
       <link>https://techterminologies.com/pt/authors/daniel-gonzales/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
       
       <guid>https://techterminologies.com/pt/authors/daniel-gonzales/</guid>
-      <description></description>
+      <description>Daniel é um profissional autodidata na área de tecnologia da informação, com foco em desenvolvimento de negócios e TI.</description>
+    </item>
+    
+    <item>
+      <title>Artigos de Adam Sabin</title>
+      <link>https://techterminologies.com/pt/authors/adam-sabin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/pt/authors/adam-sabin/</guid>
+      <description>Adam é um indivíduo experiente em tecnologia com um diploma em ciência da computação.</description>
+    </item>
+    
+    <item>
+      <title>Artigos de Eduardo Martel</title>
+      <link>https://techterminologies.com/pt/authors/edward-martel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/pt/authors/edward-martel/</guid>
+      <description>Eduardo é um especialista em hardware de computador e rede que adora acompanhar os desenvolvimentos mais recentes no setor de tecnologia.</description>
+    </item>
+    
+    <item>
+      <title>Artigos de Eli Roy</title>
+      <link>https://techterminologies.com/pt/authors/eli-roy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/pt/authors/eli-roy/</guid>
+      <description>Eli é um entusiasta de computadores que gosta de construir e personalizar sistemas.</description>
     </item>
     
     <item>
@@ -21,7 +49,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/pt/authors/john-graham/</guid>
-      <description></description>
+      <description>John é um evangelista digital e cientista da computação com grande interesse em melhorar a segurança cibernética e como os mecanismos de pesquisa funcionam.</description>
     </item>
     
     <item>
@@ -30,7 +58,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/pt/authors/marvin-kaufman/</guid>
-      <description></description>
+      <description>Marvin é um profissional experiente em ciência da computação com experiência em uma ampla gama de tecnologias e plataformas.</description>
+    </item>
+    
+    <item>
+      <title>Artigos de Willie Dillon</title>
+      <link>https://techterminologies.com/pt/authors/willie-dillon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/pt/authors/willie-dillon/</guid>
+      <description>Willie sempre teve um grande interesse em tecnologia e em como ela pode ser usada para resolver problemas e facilitar nossas vidas.</description>
     </item>
     
   </channel>

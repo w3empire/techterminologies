@@ -5,6 +5,169 @@
     <link>https://techterminologies.com/topics/hardware-terms/</link>
     <description>Recent content in The Complete List of Hardware Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/topics/hardware-terms/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Dec 2022 20:07:35 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/hardware-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is UPS (Uninterruptible Power Supply)?</title>
+      <link>https://techterminologies.com/definitions/uninterruptible-power-supply-ups/</link>
+      <pubDate>Tue, 20 Dec 2022 20:07:35 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/uninterruptible-power-supply-ups/</guid>
+      <description>An uninterruptible power supply (UPS) is a device that provides backup power to a computer, server, or other electronic equipment in the event of an interruption or fluctuation in the main power supply.</description>
+    </item>
+    
+    <item>
+      <title>What is a Base Station?</title>
+      <link>https://techterminologies.com/definitions/base-station/</link>
+      <pubDate>Sun, 18 Dec 2022 07:36:41 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/base-station/</guid>
+      <description>A base station is a device that serves as a central hub for wireless communication in a local area network (LAN).</description>
+    </item>
+    
+    <item>
+      <title>What is Barebones?</title>
+      <link>https://techterminologies.com/definitions/barebones/</link>
+      <pubDate>Sun, 18 Dec 2022 07:31:16 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/barebones/</guid>
+      <description>A barebones PC is a computer that comes with only the essential components, such as a motherboard, processor, and power supply.</description>
+    </item>
+    
+    <item>
+      <title>What is Bare Metal?</title>
+      <link>https://techterminologies.com/definitions/bare-metal/</link>
+      <pubDate>Sun, 18 Dec 2022 07:26:16 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/bare-metal/</guid>
+      <description>A bare metal system is a computer that does not include an operating system or any other software, so the user must install an operating system in order to use the hardware.</description>
+    </item>
+    
+    <item>
+      <title>What is BSB (Backside Bus)?</title>
+      <link>https://techterminologies.com/definitions/backside-bus-bsb/</link>
+      <pubDate>Sat, 17 Dec 2022 18:30:28 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/backside-bus-bsb/</guid>
+      <description>The backside bus (BSB) is a bus that connects the CPU to the level 2 (L2) cache on a computer.</description>
+    </item>
+    
+    <item>
+      <title>What is APU (Analytics Processing Unit)?</title>
+      <link>https://techterminologies.com/definitions/analytics-processing-unit-apu/</link>
+      <pubDate>Sat, 17 Dec 2022 18:14:57 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/analytics-processing-unit-apu/</guid>
+      <description>An Analytics Processing Unit (APU) is a type of microprocessor that is specifically designed to handle data analytics tasks efficiently.</description>
+    </item>
+    
+    <item>
+      <title>What is APU (Accelerated Processing Unit)?</title>
+      <link>https://techterminologies.com/definitions/accelerated-processing-unit-apu/</link>
+      <pubDate>Sat, 17 Dec 2022 17:49:50 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/accelerated-processing-unit-apu/</guid>
+      <description>An APU, or accelerated processing unit, is a type of processor that combines a CPU and GPU on a single chip.</description>
+    </item>
+    
+    <item>
+      <title>What is Apple Silicon?</title>
+      <link>https://techterminologies.com/definitions/apple-silicon/</link>
+      <pubDate>Sat, 17 Dec 2022 15:48:38 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/apple-silicon/</guid>
+      <description>Apple Silicon is a line of computer processors developed and manufactured by Apple Inc.</description>
+    </item>
+    
+    <item>
+      <title>What is a SCSI Host Adapter?</title>
+      <link>https://techterminologies.com/definitions/scsi-host-adapter/</link>
+      <pubDate>Sat, 17 Dec 2022 15:38:57 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/scsi-host-adapter/</guid>
+      <description>A SCSI (Small Computer System Interface) host adapter is a device that connects to a computer and allows it to communicate with SCSI devices, such as hard drives, tape drives, and scanners.</description>
+    </item>
+    
+    <item>
+      <title>What is a Wireless Adapter?</title>
+      <link>https://techterminologies.com/definitions/wireless-adapter/</link>
+      <pubDate>Sat, 17 Dec 2022 15:18:26 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/wireless-adapter/</guid>
+      <description>A wireless adapter is a device that connects to a computer or other device and allows it to communicate over a wireless network.</description>
+    </item>
+    
+    <item>
+      <title>What is a Network Adapter?</title>
+      <link>https://techterminologies.com/definitions/network-adapter/</link>
+      <pubDate>Sat, 17 Dec 2022 15:07:13 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/network-adapter/</guid>
+      <description>A network adapter, also known as a network interface card (NIC), is a hardware component that allows a computer to connect to a network.</description>
+    </item>
+    
+    <item>
+      <title>What is an Adapter?</title>
+      <link>https://techterminologies.com/definitions/adapter/</link>
+      <pubDate>Sat, 17 Dec 2022 14:44:04 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/adapter/</guid>
+      <description>An adapter is a device that allows two different systems or devices to connect and work together.</description>
+    </item>
+    
+    <item>
+      <title>What is Active-Matrix Liquid Crystal Display (AMLCD)</title>
+      <link>https://techterminologies.com/definitions/active-matrix-liquid-crystal-display-amlcd/</link>
+      <pubDate>Sat, 17 Dec 2022 12:45:17 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/active-matrix-liquid-crystal-display-amlcd/</guid>
+      <description>An Active-Matrix Liquid Crystal Display (AMLCD) is a type of liquid crystal display (LCD) that is used in many electronic devices, such as laptops, televisions, and smartphones.</description>
+    </item>
+    
+    <item>
+      <title>What is Active-Matrix Organic Light-Emitting Diode (AMOLED)</title>
+      <link>https://techterminologies.com/definitions/active-matrix-organic-light-emitting-diode-amoled/</link>
+      <pubDate>Sat, 17 Dec 2022 12:27:01 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/active-matrix-organic-light-emitting-diode-amoled/</guid>
+      <description>Active-matrix organic light-emitting diode (AMOLED) is a type of OLED display technology in which the pixels are driven by an active matrix circuit, which consists of thin-film transistors (TFTs) and capacitors.</description>
+    </item>
+    
+    <item>
+      <title>What is Active-Matrix?</title>
+      <link>https://techterminologies.com/definitions/active-matrix/</link>
+      <pubDate>Sat, 17 Dec 2022 12:13:46 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/active-matrix/</guid>
+      <description>Active-matrix is a type of display technology that is used in many electronic devices, such as laptops, smartphones, and televisions.</description>
+    </item>
+    
+    <item>
+      <title>What is an Access Point (AP)?</title>
+      <link>https://techterminologies.com/definitions/access-point/</link>
+      <pubDate>Sat, 17 Dec 2022 11:56:45 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/access-point/</guid>
+      <description>An access point (AP) is a device that allows wireless devices to connect to a network using Wi-Fi or a similar wireless technology.</description>
+    </item>
+    
+    <item>
+      <title>What is a 3D Printer?</title>
+      <link>https://techterminologies.com/definitions/3d-printer/</link>
+      <pubDate>Sat, 17 Dec 2022 11:31:44 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/3d-printer/</guid>
+      <description>A 3D printer is a machine that creates physical objects from digital designs.</description>
+    </item>
+    
+    <item>
+      <title>What is a Memory Address?</title>
+      <link>https://techterminologies.com/definitions/memory-address/</link>
+      <pubDate>Mon, 12 Dec 2022 07:14:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/memory-address/</guid>
+      <description>A memory address is a unique identifier for a specific location in a computer&amp;rsquo;s memory.</description>
+    </item>
+    
   </channel>
 </rss>

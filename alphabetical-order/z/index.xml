@@ -5,6 +5,16 @@
     <link>https://techterminologies.com/alphabetical-order/z/</link>
     <description>Recent content in The complete list of tech terms starting with the letter &#39;Z&#39; on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/alphabetical-order/z/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Dec 2022 16:44:03 -0300</lastBuildDate><atom:link href="https://techterminologies.com/alphabetical-order/z/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Zone File?</title>
+      <link>https://techterminologies.com/definitions/zone-file/</link>
+      <pubDate>Wed, 21 Dec 2022 16:44:03 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/zone-file/</guid>
+      <description>A zone file is a configuration file that is used to define the DNS (Domain Name System) information for a particular domain.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -5,23 +5,51 @@
     <link>https://techterminologies.com/fr/topics/</link>
     <description>Recent content in Parcourir tous les sujets de termes techniques sur TechTerminologies on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/fr/topics/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 08:42:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/fr/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La liste complète des termes de développement logiciel et leurs définitions</title>
+      <link>https://techterminologies.com/fr/topics/software-development-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/fr/topics/software-development-terms/</guid>
+      <description>Les termes de développement de logiciels font référence au vocabulaire spécialisé et au langage technique utilisés dans le domaine du développement de logiciels.</description>
+    </item>
+    
+    <item>
+      <title>La liste complète des termes du langage de programmation et leurs définitions</title>
+      <link>https://techterminologies.com/fr/topics/programming-language-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/fr/topics/programming-language-terms/</guid>
+      <description>Les termes du langage de programmation sont des mots ou des phrases spécifiques au domaine de la programmation informatique et sont utilisés pour décrire divers concepts, techniques et éléments des langages de programmation.</description>
+    </item>
+    
+    <item>
+      <title>La liste complète des termes logiciels et leurs définitions</title>
+      <link>https://techterminologies.com/fr/topics/software-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/fr/topics/software-terms/</guid>
+      <description>Les termes logiciels font référence au vocabulaire et à la terminologie utilisés dans les domaines du développement de logiciels et de l&amp;rsquo;informatique.</description>
+    </item>
+    
+    <item>
+      <title>La liste complète des termes de gestion des données et leurs définitions</title>
+      <link>https://techterminologies.com/fr/topics/data-management-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/fr/topics/data-management-terms/</guid>
+      <description>La gestion des données dans le contexte de la technologie informatique fait référence aux divers processus et technologies utilisés pour stocker, organiser et manipuler les données au sein d&amp;rsquo;un système informatique.</description>
+    </item>
+    
     <item>
       <title>La liste complète des acronymes techniques et leurs définitions</title>
       <link>https://techterminologies.com/fr/topics/technical-acronyms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/fr/topics/technical-acronyms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>La liste complète des termes de développement logiciel et leurs définitions</title>
-      <link>https://techterminologies.com/fr/topics/software-development-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/fr/topics/software-development-terms/</guid>
-      <description></description>
+      <description>Les acronymes techniques sont des formes abrégées de termes ou d&amp;rsquo;expressions techniques couramment utilisés dans une industrie ou un domaine particulier.</description>
     </item>
     
     <item>
@@ -30,16 +58,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/fr/topics/file-format-terms/</guid>
-      <description></description>
+      <description>Les formats de fichiers font référence aux manières spécifiques dont les informations numériques sont structurées et stockées sur un ordinateur ou un autre appareil électronique.</description>
     </item>
     
     <item>
-      <title>La liste complète des termes de gestion des données et leurs définitions</title>
-      <link>https://techterminologies.com/fr/topics/data-management-terms/</link>
+      <title>La liste complète des termes de mise en réseau et leurs définitions</title>
+      <link>https://techterminologies.com/fr/topics/networking-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techterminologies.com/fr/topics/data-management-terms/</guid>
-      <description></description>
+      <guid>https://techterminologies.com/fr/topics/networking-terms/</guid>
+      <description>Les termes de mise en réseau sont les mots et les idées utilisés dans les réseaux informatiques, qui consistent à relier des ordinateurs et d&amp;rsquo;autres appareils afin qu&amp;rsquo;ils puissent partager des informations et des ressources.</description>
     </item>
     
     <item>
@@ -48,16 +76,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/fr/topics/internet-terms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>La liste complète des termes logiciels et leurs définitions</title>
-      <link>https://techterminologies.com/fr/topics/software-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/fr/topics/software-terms/</guid>
-      <description></description>
+      <description>Les termes Internet font référence au vocabulaire et à l&amp;rsquo;argot utilisés dans le contexte d&amp;rsquo;Internet et de la communication en ligne.</description>
     </item>
     
     <item>
@@ -66,16 +85,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/fr/topics/hardware-terms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>La liste complète des termes techniques et leurs définitions</title>
-      <link>https://techterminologies.com/fr/topics/technical-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/fr/topics/technical-terms/</guid>
-      <description></description>
+      <description>Les termes matériels font référence aux composants physiques d&amp;rsquo;un système ou d&amp;rsquo;un périphérique informatique.</description>
     </item>
     
   </channel>

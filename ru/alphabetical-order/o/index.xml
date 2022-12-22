@@ -5,6 +5,16 @@
     <link>https://techterminologies.com/ru/alphabetical-order/o/</link>
     <description>Recent content in Полный список технических терминов, начинающихся с буквы «О» on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/ru/alphabetical-order/o/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 08:42:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/ru/alphabetical-order/o/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Кто такой оператор (компьютерное программирование)?</title>
+      <link>https://techterminologies.com/ru/definitions/operator-programming/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/ru/definitions/operator-programming/</guid>
+      <description>В компьютерном программировании оператор — это символ, представляющий конкретную операцию, которая может быть выполнена с одним или несколькими значениями или переменными.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniel Gonzales의 기사 on Tech Terminologies</title>
+    <title>다니엘 곤잘레스의 기사 on Tech Terminologies</title>
     <link>https://techterminologies.com/ko/authors/daniel-gonzales/</link>
-    <description>Recent content in Daniel Gonzales의 기사 on Tech Terminologies</description>
+    <description>Recent content in 다니엘 곤잘레스의 기사 on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/ko/authors/daniel-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 08:42:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/ko/authors/daniel-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>오퍼레이터(컴퓨터 프로그래밍)란?</title>
+      <link>https://techterminologies.com/ko/definitions/operator-programming/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/ko/definitions/operator-programming/</guid>
+      <description>컴퓨터 프로그래밍에서</description>
+    </item>
+    
+    <item>
+      <title>&amp;(address-of 연산자)란 무엇입니까?</title>
+      <link>https://techterminologies.com/ko/definitions/address-of-operator/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/ko/definitions/address-of-operator/</guid>
+      <description>대부분의 프로그래밍 언</description>
+    </item>
+    
   </channel>
 </rss>

@@ -5,6 +5,106 @@
     <link>https://techterminologies.com/alphabetical-order/c/</link>
     <description>Recent content in The complete list of tech terms starting with the letter &#39;C&#39; on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/alphabetical-order/c/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Dec 2022 11:13:10 -0300</lastBuildDate><atom:link href="https://techterminologies.com/alphabetical-order/c/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a CLI (Command-Line Interface)?</title>
+      <link>https://techterminologies.com/definitions/command-line-interface-cli/</link>
+      <pubDate>Thu, 22 Dec 2022 11:13:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/command-line-interface-cli/</guid>
+      <description>A command-line interface (CLI) is a text-based interface that allows users to interact with a computer by typing commands and receiving output.</description>
+    </item>
+    
+    <item>
+      <title>What is a Command-Line Installer?</title>
+      <link>https://techterminologies.com/definitions/command-line-installer/</link>
+      <pubDate>Thu, 22 Dec 2022 08:23:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/command-line-installer/</guid>
+      <description>A command-line installer is a type of software that installs programs or files onto a computer through the use of commands entered into a command-line interface (CLI).</description>
+    </item>
+    
+    <item>
+      <title>What is a Compiler?</title>
+      <link>https://techterminologies.com/definitions/compiler/</link>
+      <pubDate>Wed, 21 Dec 2022 19:29:23 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/compiler/</guid>
+      <description>A compiler is a computer program that translates code written in a programming language into machine code that can be executed by a computer.</description>
+    </item>
+    
+    <item>
+      <title>What is a Codec?</title>
+      <link>https://techterminologies.com/definitions/codec/</link>
+      <pubDate>Wed, 21 Dec 2022 19:14:27 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/codec/</guid>
+      <description>A codec is a device or software that is used to encode or decode a digital data stream or signal.</description>
+    </item>
+    
+    <item>
+      <title>What is a Cybersquatter?</title>
+      <link>https://techterminologies.com/definitions/cybersquatter/</link>
+      <pubDate>Wed, 21 Dec 2022 11:13:56 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/cybersquatter/</guid>
+      <description>A cybersquatter is an individual or organization that registers, traffics in, or uses a domain name in bad faith with the intent to benefit from the reputation of another person&amp;rsquo;s trademark.</description>
+    </item>
+    
+    <item>
+      <title>What is Cyberbullying?</title>
+      <link>https://techterminologies.com/definitions/cyberbullying/</link>
+      <pubDate>Wed, 21 Dec 2022 10:44:57 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/cyberbullying/</guid>
+      <description>Cyberbullying is the use of technology to harass, threaten, or intimidate someone, often repeatedly.</description>
+    </item>
+    
+    <item>
+      <title>What is CDN (Content Delivery Network)?</title>
+      <link>https://techterminologies.com/definitions/content-delivery-network-cdn/</link>
+      <pubDate>Tue, 20 Dec 2022 20:32:12 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/content-delivery-network-cdn/</guid>
+      <description>A Content Delivery Network (CDN) is a globally distributed network of servers that work together to deliver content to users as efficiently as possible.</description>
+    </item>
+    
+    <item>
+      <title>What is CGI (Computer-generated Imagery)?</title>
+      <link>https://techterminologies.com/definitions/computer-generated-imagery-cgi/</link>
+      <pubDate>Tue, 20 Dec 2022 10:51:28 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/computer-generated-imagery-cgi/</guid>
+      <description>Computer-generated imagery (CGI) is a technique used to create digital images or animations using computer software.</description>
+    </item>
+    
+    <item>
+      <title>What is CGI (Common Gateway Interface)?</title>
+      <link>https://techterminologies.com/definitions/common-gateway-interface-cgi/</link>
+      <pubDate>Tue, 20 Dec 2022 09:56:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/common-gateway-interface-cgi/</guid>
+      <description>CGI (Common Gateway Interface) is a standard protocol for executing scripts or programs over the Internet.</description>
+    </item>
+    
+    <item>
+      <title>What is Catalina?</title>
+      <link>https://techterminologies.com/definitions/catalina/</link>
+      <pubDate>Tue, 20 Dec 2022 09:44:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/catalina/</guid>
+      <description>Catalina is the name of one of the versions of Apple&amp;rsquo;s macOS operating system, also known as &amp;ldquo;macOS 10.</description>
+    </item>
+    
+    <item>
+      <title>What is Cloud Waste?</title>
+      <link>https://techterminologies.com/definitions/cloud-waste/</link>
+      <pubDate>Fri, 25 Nov 2022 16:36:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/cloud-waste/</guid>
+      <description>Cloud waste refers to the inefficient use of resources, such as computing power and storage, in cloud computing environments.</description>
+    </item>
+    
   </channel>
 </rss>

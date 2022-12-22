@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The Complete List of Programming Language Terms And Their Definitions on Tech Terminologies</title>
+    <link>https://techterminologies.com/topics/programming-language-terms/</link>
+    <description>Recent content in The Complete List of Programming Language Terms And Their Definitions on Tech Terminologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Dec 2022 11:56:19 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/programming-language-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is ODBC (Open Database Connectivity)?</title>
+      <link>https://techterminologies.com/definitions/open-database-connectivity-odbc/</link>
+      <pubDate>Thu, 22 Dec 2022 11:56:19 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/open-database-connectivity-odbc/</guid>
+      <description>ODBC (Open Database Connectivity) is a standard application programming interface (API) that allows software programs to access data stored in databases.</description>
+    </item>
+    
+    <item>
+      <title>What is a CLI (Command-Line Interface)?</title>
+      <link>https://techterminologies.com/definitions/command-line-interface-cli/</link>
+      <pubDate>Thu, 22 Dec 2022 11:13:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/command-line-interface-cli/</guid>
+      <description>A command-line interface (CLI) is a text-based interface that allows users to interact with a computer by typing commands and receiving output.</description>
+    </item>
+    
+    <item>
+      <title>What is a GUI (Graphical User Interface)?</title>
+      <link>https://techterminologies.com/definitions/graphical-user-interface-gui/</link>
+      <pubDate>Thu, 22 Dec 2022 10:40:14 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/graphical-user-interface-gui/</guid>
+      <description>A GUI, or Graphical User Interface, is a type of interface that allows users to interact with electronic devices through visual elements such as icons and graphics, rather than typing commands in a command-line interface.</description>
+    </item>
+    
+    <item>
+      <title>What is a Web-Based Installer?</title>
+      <link>https://techterminologies.com/definitions/web-based-installer/</link>
+      <pubDate>Thu, 22 Dec 2022 08:40:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/web-based-installer/</guid>
+      <description>A web-based installer is a software installation package that is delivered and executed over the internet.</description>
+    </item>
+    
+    <item>
+      <title>What is a Command-Line Installer?</title>
+      <link>https://techterminologies.com/definitions/command-line-installer/</link>
+      <pubDate>Thu, 22 Dec 2022 08:23:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/command-line-installer/</guid>
+      <description>A command-line installer is a type of software that installs programs or files onto a computer through the use of commands entered into a command-line interface (CLI).</description>
+    </item>
+    
+    <item>
+      <title>What is a Graphical Installer?</title>
+      <link>https://techterminologies.com/definitions/graphical-installer/</link>
+      <pubDate>Thu, 22 Dec 2022 08:08:46 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/graphical-installer/</guid>
+      <description>A &amp;ldquo;graphical installer&amp;rdquo; is a software installation program that presents users with a graphical user interface (GUI) rather than a command-line interface (CLI).</description>
+    </item>
+    
+    <item>
+      <title>What is a Self-Extracting Installer?</title>
+      <link>https://techterminologies.com/definitions/self-extracting-installer/</link>
+      <pubDate>Thu, 22 Dec 2022 07:50:33 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/self-extracting-installer/</guid>
+      <description>A self-extracting installer is a software application that allows users to install a program or application onto their computer without the need for additional decompression tools.</description>
+    </item>
+    
+    <item>
+      <title>What is an Installer?</title>
+      <link>https://techterminologies.com/definitions/installer/</link>
+      <pubDate>Thu, 22 Dec 2022 07:30:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/installer/</guid>
+      <description>An installer is a software application that is used to install, update, and configure a computer program or software package.</description>
+    </item>
+    
+    <item>
+      <title>What is GNU (GNU&#39;s Not Unix)?</title>
+      <link>https://techterminologies.com/definitions/gnu/</link>
+      <pubDate>Wed, 21 Dec 2022 20:38:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/gnu/</guid>
+      <description>GNU is a free software operating system that was created in 1983 by Richard Stallman.</description>
+    </item>
+    
+    <item>
+      <title>What is Garbage Collection?</title>
+      <link>https://techterminologies.com/definitions/garbage-collection/</link>
+      <pubDate>Wed, 21 Dec 2022 20:24:13 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/garbage-collection/</guid>
+      <description>Garbage collection is a fundamental concept in computer science, particularly in the field of programming languages.</description>
+    </item>
+    
+    <item>
+      <title>What is DirectX?</title>
+      <link>https://techterminologies.com/definitions/directx/</link>
+      <pubDate>Wed, 21 Dec 2022 20:13:51 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/directx/</guid>
+      <description>DirectX is a collection of APIs (Application Programming Interfaces) that are used to create and handle multimedia tasks such as rendering graphics, playing audio, and handling input in Windows operating systems.</description>
+    </item>
+    
+    <item>
+      <title>What is a DLC (Downloadable Content)?</title>
+      <link>https://techterminologies.com/definitions/downloadable-content-dlc/</link>
+      <pubDate>Wed, 21 Dec 2022 19:46:47 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/downloadable-content-dlc/</guid>
+      <description>A DLC, or downloadable content, is additional content that can be downloaded and added to a video game after its initial release.</description>
+    </item>
+    
+    <item>
+      <title>What is a Compiler?</title>
+      <link>https://techterminologies.com/definitions/compiler/</link>
+      <pubDate>Wed, 21 Dec 2022 19:29:23 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/compiler/</guid>
+      <description>A compiler is a computer program that translates code written in a programming language into machine code that can be executed by a computer.</description>
+    </item>
+    
+    <item>
+      <title>What is a Codec?</title>
+      <link>https://techterminologies.com/definitions/codec/</link>
+      <pubDate>Wed, 21 Dec 2022 19:14:27 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/codec/</guid>
+      <description>A codec is a device or software that is used to encode or decode a digital data stream or signal.</description>
+    </item>
+    
+    <item>
+      <title>What is a Build?</title>
+      <link>https://techterminologies.com/definitions/build-process/</link>
+      <pubDate>Wed, 21 Dec 2022 19:02:50 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/build-process/</guid>
+      <description>A build (also known as a &amp;ldquo;build process&amp;rdquo;) is the process of transforming source code into a stand-alone, executable form that can be run on a computer or other device.</description>
+    </item>
+    
+    <item>
+      <title>What is a Browser Extension?</title>
+      <link>https://techterminologies.com/definitions/browser-extension/</link>
+      <pubDate>Wed, 21 Dec 2022 18:40:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/browser-extension/</guid>
+      <description>A browser extension is a small software program that adds additional functionality to a web browser.</description>
+    </item>
+    
+    <item>
+      <title>What is an Application?</title>
+      <link>https://techterminologies.com/definitions/application/</link>
+      <pubDate>Wed, 21 Dec 2022 18:29:26 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/application/</guid>
+      <description>An application, or application program, is a software program designed to perform a specific task or set of tasks.</description>
+    </item>
+    
+    <item>
+      <title>What is an Algorithm?</title>
+      <link>https://techterminologies.com/definitions/algorithm/</link>
+      <pubDate>Wed, 21 Dec 2022 18:04:06 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/algorithm/</guid>
+      <description>An algorithm is a set of instructions or a step-by-step process that is followed to solve a problem or accomplish a task.</description>
+    </item>
+    
+    <item>
+      <title>What is DevOps?</title>
+      <link>https://techterminologies.com/definitions/devops/</link>
+      <pubDate>Tue, 20 Dec 2022 11:03:31 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/devops/</guid>
+      <description>DevOps is a software development and delivery approach that aims to bridge the gap between development and operations.</description>
+    </item>
+    
+    <item>
+      <title>What is CGI (Common Gateway Interface)?</title>
+      <link>https://techterminologies.com/definitions/common-gateway-interface-cgi/</link>
+      <pubDate>Tue, 20 Dec 2022 09:56:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/common-gateway-interface-cgi/</guid>
+      <description>CGI (Common Gateway Interface) is a standard protocol for executing scripts or programs over the Internet.</description>
+    </item>
+    
+    <item>
+      <title>What is an Operator (Computer Programing)?</title>
+      <link>https://techterminologies.com/definitions/operator-programming/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/operator-programming/</guid>
+      <description>In computer programming, an operator is a symbol that represents a specific operation that can be performed on one or more values or variables.</description>
+    </item>
+    
+    <item>
+      <title>What is &amp; (Address-of Operator)?</title>
+      <link>https://techterminologies.com/definitions/address-of-operator/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/address-of-operator/</guid>
+      <description>In most programming languages, the address-of operator &amp;amp; is used to get the memory address of a variable.</description>
+    </item>
+    
+    <item>
+      <title>What is APL (A Programming Language)?</title>
+      <link>https://techterminologies.com/definitions/a-programming-language-apl/</link>
+      <pubDate>Fri, 25 Nov 2022 16:06:18 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/a-programming-language-apl/</guid>
+      <description>APL (A Programming Language) is a programming language that was developed in the 1960s by Kenneth E.</description>
+    </item>
+    
+  </channel>
+</rss>

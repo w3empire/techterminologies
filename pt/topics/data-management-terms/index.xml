@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A lista completa de termos de gerenciamento de dados e suas definições on Tech Terminologies</title>
+    <title>Lista completa de termos de gerenciamento de dados e suas definições on Tech Terminologies</title>
     <link>https://techterminologies.com/pt/topics/data-management-terms/</link>
-    <description>Recent content in A lista completa de termos de gerenciamento de dados e suas definições on Tech Terminologies</description>
+    <description>Recent content in Lista completa de termos de gerenciamento de dados e suas definições on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/pt/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 07:19:10 -0300</lastBuildDate><atom:link href="https://techterminologies.com/pt/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>O que é &amp; (operador &#39;address-of&#39;)?</title>
+      <link>https://techterminologies.com/pt/definitions/address-of-operator/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/pt/definitions/address-of-operator/</guid>
+      <description>Na maioria das linguagens de programação, o operador address-of &amp;amp; é usado para obter o endereço de memória de uma variável.</description>
+    </item>
+    
   </channel>
 </rss>

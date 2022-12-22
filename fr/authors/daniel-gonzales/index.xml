@@ -5,6 +5,25 @@
     <link>https://techterminologies.com/fr/authors/daniel-gonzales/</link>
     <description>Recent content in Articles de Daniel Gonzales on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/fr/authors/daniel-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 08:42:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/fr/authors/daniel-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qu&#39;est-ce qu&#39;un opérateur (programmation informatique)?</title>
+      <link>https://techterminologies.com/fr/definitions/operator-programming/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/fr/definitions/operator-programming/</guid>
+      <description>En programmation informatique, un opérateur est un symbole qui représente une opération spécifique pouvant être effectuée sur une ou plusieurs valeurs ou variables.</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce que &amp; (opérateur address-of)?</title>
+      <link>https://techterminologies.com/fr/definitions/address-of-operator/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/fr/definitions/address-of-operator/</guid>
+      <description>Dans la plupart des langages de programmation, l&amp;rsquo;opérateur address-of &amp;amp; est utilisé pour obtenir l&amp;rsquo;adresse mémoire d&amp;rsquo;une variable.</description>
+    </item>
+    
   </channel>
 </rss>

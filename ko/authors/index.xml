@@ -5,32 +5,69 @@
     <link>https://techterminologies.com/ko/authors/</link>
     <description>Recent content in TechTerminologies 웹사이트에 글을 쓰는 모든 기고자 목록 on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/ko/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 08:42:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/ko/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Daniel Gonzales의 기사</title>
+      <title>다니엘 곤잘레스의 기사</title>
       <link>https://techterminologies.com/ko/authors/daniel-gonzales/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
       
       <guid>https://techterminologies.com/ko/authors/daniel-gonzales/</guid>
-      <description></description>
+      <description>Daniel은 비즈니</description>
     </item>
     
     <item>
-      <title>John Graham의 기사</title>
-      <link>https://techterminologies.com/ko/authors/john-graham/</link>
+      <title>Adam Sabin의 기사</title>
+      <link>https://techterminologies.com/ko/authors/adam-sabin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techterminologies.com/ko/authors/john-graham/</guid>
-      <description></description>
+      <guid>https://techterminologies.com/ko/authors/adam-sabin/</guid>
+      <description>Adam은 컴퓨터 과학</description>
     </item>
     
     <item>
-      <title>Marvin Kaufman의 기사</title>
+      <title>Edward Martel의 기사</title>
+      <link>https://techterminologies.com/ko/authors/edward-martel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/authors/edward-martel/</guid>
+      <description>Edward는 기술 산</description>
+    </item>
+    
+    <item>
+      <title>마빈 카우프만의 기사</title>
       <link>https://techterminologies.com/ko/authors/marvin-kaufman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/ko/authors/marvin-kaufman/</guid>
-      <description></description>
+      <description>Marvin은 다양한</description>
+    </item>
+    
+    <item>
+      <title>엘리 로이의 기사</title>
+      <link>https://techterminologies.com/ko/authors/eli-roy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/authors/eli-roy/</guid>
+      <description>Eli는 시스템 구축 및</description>
+    </item>
+    
+    <item>
+      <title>윌리 딜런의 기사</title>
+      <link>https://techterminologies.com/ko/authors/willie-dillon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/authors/willie-dillon/</guid>
+      <description>Willie는 항상 기</description>
+    </item>
+    
+    <item>
+      <title>존 그레이엄의 기사</title>
+      <link>https://techterminologies.com/ko/authors/john-graham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ko/authors/john-graham/</guid>
+      <description>John은 사이버 보안</description>
     </item>
     
   </channel>

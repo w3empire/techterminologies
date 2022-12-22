@@ -5,6 +5,160 @@
     <link>https://techterminologies.com/topics/technical-acronyms/</link>
     <description>Recent content in The Complete List of Technical Acronyms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/topics/technical-acronyms/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Dec 2022 11:13:10 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/technical-acronyms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a CLI (Command-Line Interface)?</title>
+      <link>https://techterminologies.com/definitions/command-line-interface-cli/</link>
+      <pubDate>Thu, 22 Dec 2022 11:13:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/command-line-interface-cli/</guid>
+      <description>A command-line interface (CLI) is a text-based interface that allows users to interact with a computer by typing commands and receiving output.</description>
+    </item>
+    
+    <item>
+      <title>What is a GUI (Graphical User Interface)?</title>
+      <link>https://techterminologies.com/definitions/graphical-user-interface-gui/</link>
+      <pubDate>Thu, 22 Dec 2022 10:40:14 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/graphical-user-interface-gui/</guid>
+      <description>A GUI, or Graphical User Interface, is a type of interface that allows users to interact with electronic devices through visual elements such as icons and graphics, rather than typing commands in a command-line interface.</description>
+    </item>
+    
+    <item>
+      <title>What is a Codec?</title>
+      <link>https://techterminologies.com/definitions/codec/</link>
+      <pubDate>Wed, 21 Dec 2022 19:14:27 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/codec/</guid>
+      <description>A codec is a device or software that is used to encode or decode a digital data stream or signal.</description>
+    </item>
+    
+    <item>
+      <title>What is NoSQL Database?</title>
+      <link>https://techterminologies.com/definitions/nosql/</link>
+      <pubDate>Wed, 21 Dec 2022 15:47:14 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/nosql/</guid>
+      <description>NoSQL, also known as &amp;ldquo;Not Only SQL,&amp;rdquo; is a type of database that is designed to handle large volumes of structured, semi-structured, or unstructured data.</description>
+    </item>
+    
+    <item>
+      <title>What is a DNS (Domain Name System)?</title>
+      <link>https://techterminologies.com/definitions/domain-name-system-dns/</link>
+      <pubDate>Wed, 21 Dec 2022 11:56:28 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/domain-name-system-dns/</guid>
+      <description>A Domain Name System (DNS) is a decentralized system that translates human-readable domain names, such as example.</description>
+    </item>
+    
+    <item>
+      <title>What is Adware?</title>
+      <link>https://techterminologies.com/definitions/advertising-supported-software-adware/</link>
+      <pubDate>Wed, 21 Dec 2022 10:06:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/advertising-supported-software-adware/</guid>
+      <description>Adware, short for &amp;ldquo;advertising-supported software,&amp;rdquo; is a type of software that displays advertisements on a computer or mobile device.</description>
+    </item>
+    
+    <item>
+      <title>What is 5G?</title>
+      <link>https://techterminologies.com/definitions/5g/</link>
+      <pubDate>Wed, 21 Dec 2022 09:12:06 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/5g/</guid>
+      <description>5G is the fifth generation of mobile network technology that is designed to provide faster and more reliable internet connectivity to devices such as smartphones, tablets, and laptops.</description>
+    </item>
+    
+    <item>
+      <title>What is 4G?</title>
+      <link>https://techterminologies.com/definitions/4g/</link>
+      <pubDate>Wed, 21 Dec 2022 08:55:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/4g/</guid>
+      <description>4G is a mobile telecommunications technology that lets smartphones and tablets connect to the internet at high speeds.</description>
+    </item>
+    
+    <item>
+      <title>What is the 404 Error (Not Found)?</title>
+      <link>https://techterminologies.com/definitions/404-error/</link>
+      <pubDate>Wed, 21 Dec 2022 07:58:29 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/404-error/</guid>
+      <description>The 404 error is an HTTP (Hypertext Transfer Protocol) status code that indicates that the server was unable to find the requested resource.</description>
+    </item>
+    
+    <item>
+      <title>What is the 403 Error (Forbidden)?</title>
+      <link>https://techterminologies.com/definitions/403-error/</link>
+      <pubDate>Wed, 21 Dec 2022 07:41:24 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/403-error/</guid>
+      <description>A 403 error is an HTTP status code that indicates that a client is forbidden from accessing a requested resource.</description>
+    </item>
+    
+    <item>
+      <title>What is 3G?</title>
+      <link>https://techterminologies.com/definitions/3g/</link>
+      <pubDate>Wed, 21 Dec 2022 07:21:16 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/3g/</guid>
+      <description>3G, or third generation, is a generation of wireless mobile telecommunications technology.</description>
+    </item>
+    
+    <item>
+      <title>What is NBA (Network Behavior Analysis)?</title>
+      <link>https://techterminologies.com/definitions/network-behavior-analysis-nba/</link>
+      <pubDate>Tue, 20 Dec 2022 20:43:00 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/network-behavior-analysis-nba/</guid>
+      <description>Network behavior analysis is a cybersecurity technique that involves the continuous monitoring and analysis of network traffic and activity to identify unusual or malicious behavior.</description>
+    </item>
+    
+    <item>
+      <title>What is CDN (Content Delivery Network)?</title>
+      <link>https://techterminologies.com/definitions/content-delivery-network-cdn/</link>
+      <pubDate>Tue, 20 Dec 2022 20:32:12 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/content-delivery-network-cdn/</guid>
+      <description>A Content Delivery Network (CDN) is a globally distributed network of servers that work together to deliver content to users as efficiently as possible.</description>
+    </item>
+    
+    <item>
+      <title>What is UPS (Uninterruptible Power Supply)?</title>
+      <link>https://techterminologies.com/definitions/uninterruptible-power-supply-ups/</link>
+      <pubDate>Tue, 20 Dec 2022 20:07:35 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/uninterruptible-power-supply-ups/</guid>
+      <description>An uninterruptible power supply (UPS) is a device that provides backup power to a computer, server, or other electronic equipment in the event of an interruption or fluctuation in the main power supply.</description>
+    </item>
+    
+    <item>
+      <title>What is NFC (Near Field Communication)?</title>
+      <link>https://techterminologies.com/definitions/near-field-communication-nfc/</link>
+      <pubDate>Tue, 20 Dec 2022 18:09:51 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/near-field-communication-nfc/</guid>
+      <description>Near Field Communication (NFC) is a short-range wireless technology that allows for the exchange of data or power between devices.</description>
+    </item>
+    
+    <item>
+      <title>What is ICT (Information and Communications Technology)?</title>
+      <link>https://techterminologies.com/definitions/information-and-communications-technology-ict/</link>
+      <pubDate>Tue, 20 Dec 2022 16:50:03 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/information-and-communications-technology-ict/</guid>
+      <description>Information and communications technology, or ICT, refers to the various technologies and tools used to facilitate the exchange of information and communication.</description>
+    </item>
+    
+    <item>
+      <title>What is CGI (Computer-generated Imagery)?</title>
+      <link>https://techterminologies.com/definitions/computer-generated-imagery-cgi/</link>
+      <pubDate>Tue, 20 Dec 2022 10:51:28 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/computer-generated-imagery-cgi/</guid>
+      <description>Computer-generated imagery (CGI) is a technique used to create digital images or animations using computer software.</description>
+    </item>
+    
   </channel>
 </rss>

@@ -5,6 +5,25 @@
     <link>https://techterminologies.com/ru/topics/software-development-terms/</link>
     <description>Recent content in Полный список терминов разработки программного обеспечения и их определений on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/ru/topics/software-development-terms/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 08:42:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/ru/topics/software-development-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Кто такой оператор (компьютерное программирование)?</title>
+      <link>https://techterminologies.com/ru/definitions/operator-programming/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/ru/definitions/operator-programming/</guid>
+      <description>В компьютерном программировании оператор — это символ, представляющий конкретную операцию, которая может быть выполнена с одним или несколькими значениями или переменными.</description>
+    </item>
+    
+    <item>
+      <title>Что такое &amp; (оператор address-of)?</title>
+      <link>https://techterminologies.com/ru/definitions/address-of-operator/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/ru/definitions/address-of-operator/</guid>
+      <description>В большинстве языков программирования оператор address-of &amp;amp; используется для получения адреса памяти переменной.</description>
+    </item>
+    
   </channel>
 </rss>

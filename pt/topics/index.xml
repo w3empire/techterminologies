@@ -5,77 +5,87 @@
     <link>https://techterminologies.com/pt/topics/</link>
     <description>Recent content in Navegue por todos os tópicos de termos técnicos em TechTerminologies on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/pt/topics/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 08:42:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/pt/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A lista completa de siglas técnicas e suas definições</title>
+      <title>Lista completa de termos de desenvolvimento de software e suas definições</title>
+      <link>https://techterminologies.com/pt/topics/software-development-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/pt/topics/software-development-terms/</guid>
+      <description>Os termos de desenvolvimento de software referem-se ao vocabulário especializado e à linguagem técnica usada no campo de desenvolvimento de software.</description>
+    </item>
+    
+    <item>
+      <title>Lista completa de termos de linguagem de programação e suas definições</title>
+      <link>https://techterminologies.com/pt/topics/programming-language-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/pt/topics/programming-language-terms/</guid>
+      <description>Termos de linguagem de programação são palavras ou frases específicas do campo da programação de computadores e são usadas para descrever vários conceitos, técnicas e elementos de linguagens de programação.</description>
+    </item>
+    
+    <item>
+      <title>Lista completa de termos de software e suas definições</title>
+      <link>https://techterminologies.com/pt/topics/software-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/pt/topics/software-terms/</guid>
+      <description>Os termos de software referem-se ao vocabulário e à terminologia usados nas áreas de desenvolvimento de software e ciência da computação.</description>
+    </item>
+    
+    <item>
+      <title>Lista completa de termos de gerenciamento de dados e suas definições</title>
+      <link>https://techterminologies.com/pt/topics/data-management-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/pt/topics/data-management-terms/</guid>
+      <description>O gerenciamento de dados no contexto da tecnologia de computador refere-se aos vários processos e tecnologias usados para armazenar, organizar e manipular dados em um sistema de computador.</description>
+    </item>
+    
+    <item>
+      <title>Lista completa de siglas técnicas e suas definições</title>
       <link>https://techterminologies.com/pt/topics/technical-acronyms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/pt/topics/technical-acronyms/</guid>
-      <description></description>
+      <description>Acrônimos técnicos são formas abreviadas de termos técnicos ou frases comumente usadas em um determinado setor ou campo.</description>
     </item>
     
     <item>
-      <title>A lista completa de termos da Internet e suas definições</title>
+      <title>Lista completa de termos da Internet e suas definições</title>
       <link>https://techterminologies.com/pt/topics/internet-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/pt/topics/internet-terms/</guid>
-      <description></description>
+      <description>Os termos da Internet referem-se ao vocabulário e gírias usados no contexto da Internet e da comunicação online.</description>
     </item>
     
     <item>
-      <title>A lista completa de termos de desenvolvimento de software e suas definições</title>
-      <link>https://techterminologies.com/pt/topics/software-development-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/pt/topics/software-development-terms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A lista completa de termos de formato de arquivo e suas definições</title>
+      <title>Lista completa de termos de formato de arquivo e suas definições</title>
       <link>https://techterminologies.com/pt/topics/file-format-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/pt/topics/file-format-terms/</guid>
-      <description></description>
+      <description>Os formatos de arquivo referem-se às formas específicas pelas quais as informações digitais são estruturadas e armazenadas em um computador ou outro dispositivo eletrônico.</description>
     </item>
     
     <item>
-      <title>A lista completa de termos de gerenciamento de dados e suas definições</title>
-      <link>https://techterminologies.com/pt/topics/data-management-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/pt/topics/data-management-terms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A lista completa de termos de hardware e suas definições</title>
+      <title>Lista completa de termos de hardware e suas definições</title>
       <link>https://techterminologies.com/pt/topics/hardware-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/pt/topics/hardware-terms/</guid>
-      <description></description>
+      <description>Os termos de hardware referem-se aos componentes físicos de um sistema ou dispositivo de computador.</description>
     </item>
     
     <item>
-      <title>A lista completa de termos de software e suas definições</title>
-      <link>https://techterminologies.com/pt/topics/software-terms/</link>
+      <title>Lista completa de termos de rede e suas definições</title>
+      <link>https://techterminologies.com/pt/topics/networking-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techterminologies.com/pt/topics/software-terms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A lista completa de termos técnicos e suas definições</title>
-      <link>https://techterminologies.com/pt/topics/technical-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/pt/topics/technical-terms/</guid>
-      <description></description>
+      <guid>https://techterminologies.com/pt/topics/networking-terms/</guid>
+      <description>Os termos de rede são as palavras e ideias usadas em redes de computadores, que é o processo de conectar computadores e outros dispositivos para que possam compartilhar informações e recursos.</description>
     </item>
     
   </channel>

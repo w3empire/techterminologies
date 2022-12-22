@@ -5,14 +5,51 @@
     <link>https://techterminologies.com/ru/topics/</link>
     <description>Recent content in Просмотрите все темы технических терминов на TechTerminologies on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/ru/topics/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 08:42:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/ru/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Полный список терминов программного обеспечения и их определений</title>
+      <link>https://techterminologies.com/ru/topics/software-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/software-terms/</guid>
+      <description>Программные термины относятся к словарю и терминологии, используемой в области разработки программного обеспечения и информатики.</description>
+    </item>
+    
+    <item>
+      <title>Полный список терминов разработки программного обеспечения и их определений</title>
+      <link>https://techterminologies.com/ru/topics/software-development-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/software-development-terms/</guid>
+      <description>Термины разработки программного обеспечения относятся к специализированному словарю и техническому языку, используемому в области разработки программного обеспечения.</description>
+    </item>
+    
+    <item>
+      <title>Полный список терминов языка программирования и их определений</title>
+      <link>https://techterminologies.com/ru/topics/programming-language-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/programming-language-terms/</guid>
+      <description>Термины языка программирования — это слова или фразы, относящиеся к области компьютерного программирования и используемые для описания различных концепций, методов и элементов языков программирования.</description>
+    </item>
+    
+    <item>
+      <title>Полный список терминов управления данными и их определений</title>
+      <link>https://techterminologies.com/ru/topics/data-management-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/ru/topics/data-management-terms/</guid>
+      <description>Управление данными в контексте компьютерных технологий относится к различным процессам и технологиям, используемым для хранения, организации и управления данными в компьютерной системе.</description>
+    </item>
+    
     <item>
       <title>Полный список аппаратных терминов и их определений</title>
       <link>https://techterminologies.com/ru/topics/hardware-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/ru/topics/hardware-terms/</guid>
-      <description></description>
+      <description>Аппаратные термины относятся к физическим компонентам компьютерной системы или устройства. Эта категория включает в себя широкий спектр компонентов, таких как процессоры, память, устройства хранения данных, устройства ввода/вывода и многое другое.</description>
     </item>
     
     <item>
@@ -21,34 +58,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/ru/topics/internet-terms/</guid>
-      <description></description>
+      <description>Интернет-термины относятся к лексике и сленгу, используемому в контексте Интернета и онлайн-общения.</description>
     </item>
     
     <item>
-      <title>Полный список терминов программного обеспечения и их определений</title>
-      <link>https://techterminologies.com/ru/topics/software-terms/</link>
+      <title>Полный список сетевых терминов и их определений</title>
+      <link>https://techterminologies.com/ru/topics/networking-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techterminologies.com/ru/topics/software-terms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Полный список терминов разработки программного обеспечения и их определений</title>
-      <link>https://techterminologies.com/ru/topics/software-development-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/ru/topics/software-development-terms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Полный список терминов управления данными и их определений</title>
-      <link>https://techterminologies.com/ru/topics/data-management-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/ru/topics/data-management-terms/</guid>
-      <description></description>
+      <guid>https://techterminologies.com/ru/topics/networking-terms/</guid>
+      <description>Сетевые термины — это слова и идеи, используемые в компьютерных сетях, которые представляют собой процесс соединения компьютеров и других устройств вместе, чтобы они могли обмениваться информацией и ресурсами.</description>
     </item>
     
     <item>
@@ -57,7 +76,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/ru/topics/file-format-terms/</guid>
-      <description></description>
+      <description>Форматы файлов относятся к конкретным способам структурирования и хранения цифровой информации на компьютере или другом электронном устройстве.</description>
     </item>
     
     <item>
@@ -66,16 +85,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/ru/topics/technical-acronyms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Полный список технических терминов и их определений</title>
-      <link>https://techterminologies.com/ru/topics/technical-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/ru/topics/technical-terms/</guid>
-      <description></description>
+      <description>Технические аббревиатуры — это сокращенные формы технических терминов или фраз, которые обычно используются в определенной отрасли или области.</description>
     </item>
     
   </channel>

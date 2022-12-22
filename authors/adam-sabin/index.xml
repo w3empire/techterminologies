@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles by Adam Sabin on Tech Terminologies</title>
+    <link>https://techterminologies.com/authors/adam-sabin/</link>
+    <description>Recent content in Articles by Adam Sabin on Tech Terminologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Dec 2022 10:40:14 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a GUI (Graphical User Interface)?</title>
+      <link>https://techterminologies.com/definitions/graphical-user-interface-gui/</link>
+      <pubDate>Thu, 22 Dec 2022 10:40:14 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/graphical-user-interface-gui/</guid>
+      <description>A GUI, or Graphical User Interface, is a type of interface that allows users to interact with electronic devices through visual elements such as icons and graphics, rather than typing commands in a command-line interface.</description>
+    </item>
+    
+    <item>
+      <title>What is Garbage Collection?</title>
+      <link>https://techterminologies.com/definitions/garbage-collection/</link>
+      <pubDate>Wed, 21 Dec 2022 20:24:13 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/garbage-collection/</guid>
+      <description>Garbage collection is a fundamental concept in computer science, particularly in the field of programming languages.</description>
+    </item>
+    
+    <item>
+      <title>What is an Application?</title>
+      <link>https://techterminologies.com/definitions/application/</link>
+      <pubDate>Wed, 21 Dec 2022 18:29:26 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/application/</guid>
+      <description>An application, or application program, is a software program designed to perform a specific task or set of tasks.</description>
+    </item>
+    
+    <item>
+      <title>What is Grid Computing?</title>
+      <link>https://techterminologies.com/definitions/grid-computing/</link>
+      <pubDate>Wed, 21 Dec 2022 14:36:08 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/grid-computing/</guid>
+      <description>Grid computing is a distributed computing paradigm that involves the use of a large number of computers to solve complex problems or perform large-scale data processing tasks.</description>
+    </item>
+    
+    <item>
+      <title>What is Cyberbullying?</title>
+      <link>https://techterminologies.com/definitions/cyberbullying/</link>
+      <pubDate>Wed, 21 Dec 2022 10:44:57 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/cyberbullying/</guid>
+      <description>Cyberbullying is the use of technology to harass, threaten, or intimidate someone, often repeatedly.</description>
+    </item>
+    
+    <item>
+      <title>What is 3G?</title>
+      <link>https://techterminologies.com/definitions/3g/</link>
+      <pubDate>Wed, 21 Dec 2022 07:21:16 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/3g/</guid>
+      <description>3G, or third generation, is a generation of wireless mobile telecommunications technology.</description>
+    </item>
+    
+    <item>
+      <title>What is User Identification?</title>
+      <link>https://techterminologies.com/definitions/user-identification/</link>
+      <pubDate>Tue, 20 Dec 2022 17:47:38 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/user-identification/</guid>
+      <description>User identification is the process of identifying and authenticating a user&amp;rsquo;s identity in order to grant them access to a system or service.</description>
+    </item>
+    
+    <item>
+      <title>What is a Home Page?</title>
+      <link>https://techterminologies.com/definitions/home-page/</link>
+      <pubDate>Tue, 20 Dec 2022 16:27:41 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/home-page/</guid>
+      <description>A home page is the main or front page of a website.</description>
+    </item>
+    
+    <item>
+      <title>What is Golden Master?</title>
+      <link>https://techterminologies.com/definitions/golden-master/</link>
+      <pubDate>Tue, 20 Dec 2022 12:55:43 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/golden-master/</guid>
+      <description>A &amp;ldquo;golden master,&amp;rdquo; also known as a &amp;ldquo;golden image&amp;rdquo; or &amp;ldquo;golden copy,&amp;rdquo; is the final version of a software product that has been thoroughly tested and approved for release.</description>
+    </item>
+    
+    <item>
+      <title>What is a Digital Signature?</title>
+      <link>https://techterminologies.com/definitions/digital-signature/</link>
+      <pubDate>Tue, 20 Dec 2022 11:13:37 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/digital-signature/</guid>
+      <description>A digital signature is a form of electronic signature that uses a combination of cryptography and authentication to provide a secure way of verifying the identity of the sender of an electronic document and the integrity of the document itself.</description>
+    </item>
+    
+    <item>
+      <title>What is Access (Microsoft Access)?</title>
+      <link>https://techterminologies.com/definitions/microsoft-access/</link>
+      <pubDate>Tue, 20 Dec 2022 08:44:11 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/microsoft-access/</guid>
+      <description>Microsoft Access is a database management system (DBMS) that is part of the Microsoft Office suite of productivity software.</description>
+    </item>
+    
+    <item>
+      <title>What is Bare Metal?</title>
+      <link>https://techterminologies.com/definitions/bare-metal/</link>
+      <pubDate>Sun, 18 Dec 2022 07:26:16 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/bare-metal/</guid>
+      <description>A bare metal system is a computer that does not include an operating system or any other software, so the user must install an operating system in order to use the hardware.</description>
+    </item>
+    
+  </channel>
+</rss>

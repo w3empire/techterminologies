@@ -5,32 +5,51 @@
     <link>https://techterminologies.com/de/topics/</link>
     <description>Recent content in Durchsuchen Sie alle Themen zu technischen Begriffen auf TechTerminologies on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/de/topics/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 08:42:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/de/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Die vollständige Liste der Programmiersprachenbegriffe und ihrer Definitionen</title>
+      <link>https://techterminologies.com/de/topics/programming-language-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/de/topics/programming-language-terms/</guid>
+      <description>Programmiersprachenbegriffe sind Wörter oder Ausdrücke, die spezifisch für das Gebiet der Computerprogrammierung sind und verwendet werden, um verschiedene Konzepte, Techniken und Elemente von Programmiersprachen zu beschreiben.</description>
+    </item>
+    
+    <item>
+      <title>Die vollständige Liste der Softwarebegriffe und ihrer Definitionen</title>
+      <link>https://techterminologies.com/de/topics/software-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/de/topics/software-terms/</guid>
+      <description>Softwarebegriffe beziehen sich auf das Vokabular und die Terminologie, die in den Bereichen Softwareentwicklung und Informatik verwendet werden.</description>
+    </item>
+    
+    <item>
+      <title>Die vollständige Liste der Softwareentwicklungsbegriffe und ihrer Definitionen</title>
+      <link>https://techterminologies.com/de/topics/software-development-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/de/topics/software-development-terms/</guid>
+      <description>Begriffe aus der Softwareentwicklung beziehen sich auf das Fachvokabular und die Fachsprache, die im Bereich der Softwareentwicklung verwendet werden.</description>
+    </item>
+    
+    <item>
+      <title>Die vollständige Liste der Datenverwaltungsbegriffe und ihrer Definitionen</title>
+      <link>https://techterminologies.com/de/topics/data-management-terms/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/de/topics/data-management-terms/</guid>
+      <description>Datenmanagement im Kontext der Computertechnologie bezieht sich auf die verschiedenen Prozesse und Technologien, die zum Speichern, Organisieren und Manipulieren von Daten innerhalb eines Computersystems verwendet werden.</description>
+    </item>
+    
     <item>
       <title>Die vollständige Liste der Dateiformatbegriffe und ihrer Definitionen</title>
       <link>https://techterminologies.com/de/topics/file-format-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/de/topics/file-format-terms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Die vollständige Liste der Datenverwaltungsbegriffe und ihrer Definitionen</title>
-      <link>https://techterminologies.com/de/topics/data-management-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/de/topics/data-management-terms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Die vollständige Liste der Fachbegriffe und ihrer Definitionen</title>
-      <link>https://techterminologies.com/de/topics/technical-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/de/topics/technical-terms/</guid>
-      <description></description>
+      <description>Dateiformate beziehen sich auf die spezifische Art und Weise, wie digitale Informationen strukturiert und auf einem Computer oder einem anderen elektronischen Gerät gespeichert werden.</description>
     </item>
     
     <item>
@@ -39,7 +58,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/de/topics/hardware-terms/</guid>
-      <description></description>
+      <description>Hardwarebegriffe beziehen sich auf die physischen Komponenten eines Computersystems oder -geräts.</description>
     </item>
     
     <item>
@@ -48,25 +67,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/de/topics/internet-terms/</guid>
-      <description></description>
+      <description>Internetbegriffe beziehen sich auf das Vokabular und den Slang, die im Zusammenhang mit dem Internet und der Online-Kommunikation verwendet werden.</description>
     </item>
     
     <item>
-      <title>Die vollständige Liste der Softwarebegriffe und ihrer Definitionen</title>
-      <link>https://techterminologies.com/de/topics/software-terms/</link>
+      <title>Die vollständige Liste der Networking-Begriffe und ihrer Definitionen</title>
+      <link>https://techterminologies.com/de/topics/networking-terms/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://techterminologies.com/de/topics/software-terms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Die vollständige Liste der Softwareentwicklungsbegriffe und ihrer Definitionen</title>
-      <link>https://techterminologies.com/de/topics/software-development-terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://techterminologies.com/de/topics/software-development-terms/</guid>
-      <description></description>
+      <guid>https://techterminologies.com/de/topics/networking-terms/</guid>
+      <description>Netzwerkbegriffe sind die Wörter und Ideen, die in Computernetzwerken verwendet werden, bei denen Computer und andere Geräte miteinander verbunden werden, damit sie Informationen und Ressourcen gemeinsam nutzen können.</description>
     </item>
     
     <item>
@@ -75,7 +85,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/de/topics/technical-acronyms/</guid>
-      <description></description>
+      <description>Technische Akronyme sind abgekürzte Formen von Fachbegriffen oder Ausdrücken, die in einer bestimmten Branche oder einem bestimmten Bereich häufig verwendet werden.</description>
     </item>
     
   </channel>

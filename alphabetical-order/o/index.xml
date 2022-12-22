@@ -5,6 +5,25 @@
     <link>https://techterminologies.com/alphabetical-order/o/</link>
     <description>Recent content in The complete list of tech terms starting with the letter &#39;O&#39; on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/alphabetical-order/o/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Dec 2022 11:56:19 -0300</lastBuildDate><atom:link href="https://techterminologies.com/alphabetical-order/o/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is ODBC (Open Database Connectivity)?</title>
+      <link>https://techterminologies.com/definitions/open-database-connectivity-odbc/</link>
+      <pubDate>Thu, 22 Dec 2022 11:56:19 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/open-database-connectivity-odbc/</guid>
+      <description>ODBC (Open Database Connectivity) is a standard application programming interface (API) that allows software programs to access data stored in databases.</description>
+    </item>
+    
+    <item>
+      <title>What is an Operator (Computer Programing)?</title>
+      <link>https://techterminologies.com/definitions/operator-programming/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/operator-programming/</guid>
+      <description>In computer programming, an operator is a symbol that represents a specific operation that can be performed on one or more values or variables.</description>
+    </item>
+    
   </channel>
 </rss>

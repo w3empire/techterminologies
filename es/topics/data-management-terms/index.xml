@@ -5,6 +5,16 @@
     <link>https://techterminologies.com/es/topics/data-management-terms/</link>
     <description>Recent content in La lista completa de términos de gestión de datos y sus definiciones on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/es/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 07:19:10 -0300</lastBuildDate><atom:link href="https://techterminologies.com/es/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué es &amp; (operador &#39;Address-of&#39;)?</title>
+      <link>https://techterminologies.com/es/definitions/address-of-operator/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/es/definitions/address-of-operator/</guid>
+      <description>En la mayoría de los lenguajes de programación, el operador address-of &amp;amp; se utiliza para obtener la dirección de memoria de una variable.</description>
+    </item>
+    
   </channel>
 </rss>

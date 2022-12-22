@@ -5,32 +5,69 @@
     <link>https://techterminologies.com/ja/authors/</link>
     <description>Recent content in TechTerminologies の Web サイトに寄稿しているすべての寄稿者のリスト on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/ja/authors/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 12 Dec 2022 08:42:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/ja/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Daniel Gonzales の記事</title>
+      <title>ダニエル・ゴンザレスの記事</title>
       <link>https://techterminologies.com/ja/authors/daniel-gonzales/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
       
       <guid>https://techterminologies.com/ja/authors/daniel-gonzales/</guid>
-      <description></description>
+      <description>ダニエルは、ビジネス</description>
     </item>
     
     <item>
-      <title>John Graham の記事</title>
+      <title>アダム・セイビンの記事</title>
+      <link>https://techterminologies.com/ja/authors/adam-sabin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ja/authors/adam-sabin/</guid>
+      <description>Adam は、コンピューター</description>
+    </item>
+    
+    <item>
+      <title>イーライ・ロイの記事</title>
+      <link>https://techterminologies.com/ja/authors/eli-roy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ja/authors/eli-roy/</guid>
+      <description>Eli は、システムの構築</description>
+    </item>
+    
+    <item>
+      <title>ウィリー・ディロンの記事</title>
+      <link>https://techterminologies.com/ja/authors/willie-dillon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ja/authors/willie-dillon/</guid>
+      <description>ウィリーは、テクノロ</description>
+    </item>
+    
+    <item>
+      <title>エドワード・マーテルの記事</title>
+      <link>https://techterminologies.com/ja/authors/edward-martel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://techterminologies.com/ja/authors/edward-martel/</guid>
+      <description>エドワードは、コンピ</description>
+    </item>
+    
+    <item>
+      <title>ジョン・グラハムの記事</title>
       <link>https://techterminologies.com/ja/authors/john-graham/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/ja/authors/john-graham/</guid>
-      <description></description>
+      <description>John はデジタル エバンジ</description>
     </item>
     
     <item>
-      <title>Marvin Kaufman の記事</title>
+      <title>マーヴィン・カウフマンの記事</title>
       <link>https://techterminologies.com/ja/authors/marvin-kaufman/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://techterminologies.com/ja/authors/marvin-kaufman/</guid>
-      <description></description>
+      <description>Marvin は、幅広いテクノロ</description>
     </item>
     
   </channel>

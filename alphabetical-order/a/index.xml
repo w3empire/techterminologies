@@ -6,14 +6,176 @@
     <description>Recent content in The complete list of tech terms starting with the letter &#39;A&#39; on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Nov 2022 16:06:18 -0300</lastBuildDate><atom:link href="https://techterminologies.com/alphabetical-order/a/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Dec 2022 18:29:26 -0300</lastBuildDate><atom:link href="https://techterminologies.com/alphabetical-order/a/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an Application?</title>
+      <link>https://techterminologies.com/definitions/application/</link>
+      <pubDate>Wed, 21 Dec 2022 18:29:26 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/application/</guid>
+      <description>An application, or application program, is a software program designed to perform a specific task or set of tasks.</description>
+    </item>
+    
+    <item>
+      <title>What is an Algorithm?</title>
+      <link>https://techterminologies.com/definitions/algorithm/</link>
+      <pubDate>Wed, 21 Dec 2022 18:04:06 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/algorithm/</guid>
+      <description>An algorithm is a set of instructions or a step-by-step process that is followed to solve a problem or accomplish a task.</description>
+    </item>
+    
+    <item>
+      <title>What is Adware?</title>
+      <link>https://techterminologies.com/definitions/advertising-supported-software-adware/</link>
+      <pubDate>Wed, 21 Dec 2022 10:06:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/advertising-supported-software-adware/</guid>
+      <description>Adware, short for &amp;ldquo;advertising-supported software,&amp;rdquo; is a type of software that displays advertisements on a computer or mobile device.</description>
+    </item>
+    
+    <item>
+      <title>What is the Address Bar?</title>
+      <link>https://techterminologies.com/definitions/address-bar/</link>
+      <pubDate>Wed, 21 Dec 2022 09:49:07 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/address-bar/</guid>
+      <description>The address bar, also known as the URL bar or location bar, is a feature found in most web browsers that allows users to input and navigate to a specific webpage.</description>
+    </item>
+    
+    <item>
+      <title>What is an Activation Key?</title>
+      <link>https://techterminologies.com/definitions/activation-key/</link>
+      <pubDate>Tue, 20 Dec 2022 09:20:57 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/activation-key/</guid>
+      <description>An activation key, also known as a serial number or license key, is a unique code that is used to register or activate a software application.</description>
+    </item>
+    
+    <item>
+      <title>What is ACL (Access Control List)?</title>
+      <link>https://techterminologies.com/definitions/access-control-list-acl/</link>
+      <pubDate>Tue, 20 Dec 2022 09:01:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/access-control-list-acl/</guid>
+      <description>An access control list (ACL) is a list of permissions that are associated with a particular resource, such as a file, folder, or network device.</description>
+    </item>
+    
+    <item>
+      <title>What is Access (Microsoft Access)?</title>
+      <link>https://techterminologies.com/definitions/microsoft-access/</link>
+      <pubDate>Tue, 20 Dec 2022 08:44:11 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/microsoft-access/</guid>
+      <description>Microsoft Access is a database management system (DBMS) that is part of the Microsoft Office suite of productivity software.</description>
+    </item>
+    
+    <item>
+      <title>What is an Abend (Abnormal End)?</title>
+      <link>https://techterminologies.com/definitions/abend/</link>
+      <pubDate>Tue, 20 Dec 2022 08:20:38 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/abend/</guid>
+      <description>Abend is short for &amp;ldquo;abnormal end.&amp;rdquo; In the context of computers and software, an &amp;ldquo;abend&amp;rdquo; is an abnormal termination of a program or process.</description>
+    </item>
+    
+    <item>
+      <title>What is APU (Analytics Processing Unit)?</title>
+      <link>https://techterminologies.com/definitions/analytics-processing-unit-apu/</link>
+      <pubDate>Sat, 17 Dec 2022 18:14:57 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/analytics-processing-unit-apu/</guid>
+      <description>An Analytics Processing Unit (APU) is a type of microprocessor that is specifically designed to handle data analytics tasks efficiently.</description>
+    </item>
+    
+    <item>
+      <title>What is APU (Accelerated Processing Unit)?</title>
+      <link>https://techterminologies.com/definitions/accelerated-processing-unit-apu/</link>
+      <pubDate>Sat, 17 Dec 2022 17:49:50 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/accelerated-processing-unit-apu/</guid>
+      <description>An APU, or accelerated processing unit, is a type of processor that combines a CPU and GPU on a single chip.</description>
+    </item>
+    
+    <item>
+      <title>What is Apple Silicon?</title>
+      <link>https://techterminologies.com/definitions/apple-silicon/</link>
+      <pubDate>Sat, 17 Dec 2022 15:48:38 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/apple-silicon/</guid>
+      <description>Apple Silicon is a line of computer processors developed and manufactured by Apple Inc.</description>
+    </item>
+    
+    <item>
+      <title>What is an Adapter?</title>
+      <link>https://techterminologies.com/definitions/adapter/</link>
+      <pubDate>Sat, 17 Dec 2022 14:44:04 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/adapter/</guid>
+      <description>An adapter is a device that allows two different systems or devices to connect and work together.</description>
+    </item>
+    
+    <item>
+      <title>What is Active-Matrix Liquid Crystal Display (AMLCD)</title>
+      <link>https://techterminologies.com/definitions/active-matrix-liquid-crystal-display-amlcd/</link>
+      <pubDate>Sat, 17 Dec 2022 12:45:17 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/active-matrix-liquid-crystal-display-amlcd/</guid>
+      <description>An Active-Matrix Liquid Crystal Display (AMLCD) is a type of liquid crystal display (LCD) that is used in many electronic devices, such as laptops, televisions, and smartphones.</description>
+    </item>
+    
+    <item>
+      <title>What is Active-Matrix Organic Light-Emitting Diode (AMOLED)</title>
+      <link>https://techterminologies.com/definitions/active-matrix-organic-light-emitting-diode-amoled/</link>
+      <pubDate>Sat, 17 Dec 2022 12:27:01 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/active-matrix-organic-light-emitting-diode-amoled/</guid>
+      <description>Active-matrix organic light-emitting diode (AMOLED) is a type of OLED display technology in which the pixels are driven by an active matrix circuit, which consists of thin-film transistors (TFTs) and capacitors.</description>
+    </item>
+    
+    <item>
+      <title>What is Active-Matrix?</title>
+      <link>https://techterminologies.com/definitions/active-matrix/</link>
+      <pubDate>Sat, 17 Dec 2022 12:13:46 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/active-matrix/</guid>
+      <description>Active-matrix is a type of display technology that is used in many electronic devices, such as laptops, smartphones, and televisions.</description>
+    </item>
+    
+    <item>
+      <title>What is an Access Point (AP)?</title>
+      <link>https://techterminologies.com/definitions/access-point/</link>
+      <pubDate>Sat, 17 Dec 2022 11:56:45 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/access-point/</guid>
+      <description>An access point (AP) is a device that allows wireless devices to connect to a network using Wi-Fi or a similar wireless technology.</description>
+    </item>
+    
+    <item>
+      <title>What is &amp; (Address-of Operator)?</title>
+      <link>https://techterminologies.com/definitions/address-of-operator/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/address-of-operator/</guid>
+      <description>In most programming languages, the address-of operator &amp;amp; is used to get the memory address of a variable.</description>
+    </item>
+    
+    <item>
+      <title>What is ActiveX?</title>
+      <link>https://techterminologies.com/definitions/activex/</link>
+      <pubDate>Fri, 25 Nov 2022 16:36:41 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/activex/</guid>
+      <description>ActiveX is a technology developed by Microsoft that is used to create software components that can be used in a variety of applications and programming languages.</description>
+    </item>
+    
     <item>
       <title>What is APL (A Programming Language)?</title>
       <link>https://techterminologies.com/definitions/a-programming-language-apl/</link>
       <pubDate>Fri, 25 Nov 2022 16:06:18 -0300</pubDate>
       
       <guid>https://techterminologies.com/definitions/a-programming-language-apl/</guid>
-      <description>The first description of A Programming Language (APL) appeared in Kenneth E.</description>
+      <description>APL (A Programming Language) is a programming language that was developed in the 1960s by Kenneth E.</description>
     </item>
     
   </channel>

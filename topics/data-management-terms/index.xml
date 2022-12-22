@@ -5,6 +5,160 @@
     <link>https://techterminologies.com/topics/data-management-terms/</link>
     <description>Recent content in The Complete List of Data Management Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Dec 2022 16:16:35 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Permalink?</title>
+      <link>https://techterminologies.com/definitions/permalink/</link>
+      <pubDate>Wed, 21 Dec 2022 16:16:35 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/permalink/</guid>
+      <description>A permalink, short for &amp;ldquo;permanent link,&amp;rdquo; is a URL (Uniform Resource Locator) that is intended to remain unchanged for the lifetime of the content to which it refers.</description>
+    </item>
+    
+    <item>
+      <title>What is NoSQL Database?</title>
+      <link>https://techterminologies.com/definitions/nosql/</link>
+      <pubDate>Wed, 21 Dec 2022 15:47:14 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/nosql/</guid>
+      <description>NoSQL, also known as &amp;ldquo;Not Only SQL,&amp;rdquo; is a type of database that is designed to handle large volumes of structured, semi-structured, or unstructured data.</description>
+    </item>
+    
+    <item>
+      <title>What is a Datagram?</title>
+      <link>https://techterminologies.com/definitions/datagram/</link>
+      <pubDate>Wed, 21 Dec 2022 11:35:49 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/datagram/</guid>
+      <description>A &amp;ldquo;datagram&amp;rdquo; is a self-contained, independent entity of data carrying sufficient information to be routed from the source to the destination computer without reliance on earlier exchanges between the source and destination computers and the transporting network.</description>
+    </item>
+    
+    <item>
+      <title>What is the 404 Error (Not Found)?</title>
+      <link>https://techterminologies.com/definitions/404-error/</link>
+      <pubDate>Wed, 21 Dec 2022 07:58:29 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/404-error/</guid>
+      <description>The 404 error is an HTTP (Hypertext Transfer Protocol) status code that indicates that the server was unable to find the requested resource.</description>
+    </item>
+    
+    <item>
+      <title>What is the 403 Error (Forbidden)?</title>
+      <link>https://techterminologies.com/definitions/403-error/</link>
+      <pubDate>Wed, 21 Dec 2022 07:41:24 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/403-error/</guid>
+      <description>A 403 error is an HTTP status code that indicates that a client is forbidden from accessing a requested resource.</description>
+    </item>
+    
+    <item>
+      <title>What is CDN (Content Delivery Network)?</title>
+      <link>https://techterminologies.com/definitions/content-delivery-network-cdn/</link>
+      <pubDate>Tue, 20 Dec 2022 20:32:12 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/content-delivery-network-cdn/</guid>
+      <description>A Content Delivery Network (CDN) is a globally distributed network of servers that work together to deliver content to users as efficiently as possible.</description>
+    </item>
+    
+    <item>
+      <title>What is ICT (Information and Communications Technology)?</title>
+      <link>https://techterminologies.com/definitions/information-and-communications-technology-ict/</link>
+      <pubDate>Tue, 20 Dec 2022 16:50:03 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/information-and-communications-technology-ict/</guid>
+      <description>Information and communications technology, or ICT, refers to the various technologies and tools used to facilitate the exchange of information and communication.</description>
+    </item>
+    
+    <item>
+      <title>What is Parity Check?</title>
+      <link>https://techterminologies.com/definitions/parity-check/</link>
+      <pubDate>Tue, 20 Dec 2022 16:40:38 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/parity-check/</guid>
+      <description>&amp;ldquo;Parity check&amp;rdquo; is a method of checking the accuracy of data transmission or storage.</description>
+    </item>
+    
+    <item>
+      <title>What is a Master Reset?</title>
+      <link>https://techterminologies.com/definitions/master-reset/</link>
+      <pubDate>Tue, 20 Dec 2022 12:43:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/master-reset/</guid>
+      <description>A master reset, also known as a factory reset or hard reset, is the process of resetting a device to its original factory settings, effectively wiping all data, and returning it to the state it was in when it was initially acquired.</description>
+    </item>
+    
+    <item>
+      <title>What is a Hard Reset?</title>
+      <link>https://techterminologies.com/definitions/hard-reset/</link>
+      <pubDate>Tue, 20 Dec 2022 12:22:54 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/hard-reset/</guid>
+      <description>A hard reset, also known as a factory reset or master reset, is the process of restoring a device to its original manufacturer settings.</description>
+    </item>
+    
+    <item>
+      <title>What is a Factory Reset?</title>
+      <link>https://techterminologies.com/definitions/factory-reset/</link>
+      <pubDate>Tue, 20 Dec 2022 12:12:51 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/factory-reset/</guid>
+      <description>A factory reset, also known as a hard reset or master reset, is the process of restoring a device to its original manufacturer settings.</description>
+    </item>
+    
+    <item>
+      <title>What is Encoding?</title>
+      <link>https://techterminologies.com/definitions/encoding/</link>
+      <pubDate>Tue, 20 Dec 2022 11:26:49 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/encoding/</guid>
+      <description>Encoding is the process of converting data from one format into another for the purpose of efficient transmission or storage.</description>
+    </item>
+    
+    <item>
+      <title>What is ACL (Access Control List)?</title>
+      <link>https://techterminologies.com/definitions/access-control-list-acl/</link>
+      <pubDate>Tue, 20 Dec 2022 09:01:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/access-control-list-acl/</guid>
+      <description>An access control list (ACL) is a list of permissions that are associated with a particular resource, such as a file, folder, or network device.</description>
+    </item>
+    
+    <item>
+      <title>What is Access (Microsoft Access)?</title>
+      <link>https://techterminologies.com/definitions/microsoft-access/</link>
+      <pubDate>Tue, 20 Dec 2022 08:44:11 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/microsoft-access/</guid>
+      <description>Microsoft Access is a database management system (DBMS) that is part of the Microsoft Office suite of productivity software.</description>
+    </item>
+    
+    <item>
+      <title>What is &amp; (Address-of Operator)?</title>
+      <link>https://techterminologies.com/definitions/address-of-operator/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/address-of-operator/</guid>
+      <description>In most programming languages, the address-of operator &amp;amp; is used to get the memory address of a variable.</description>
+    </item>
+    
+    <item>
+      <title>What is a Memory Address?</title>
+      <link>https://techterminologies.com/definitions/memory-address/</link>
+      <pubDate>Mon, 12 Dec 2022 07:14:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/memory-address/</guid>
+      <description>A memory address is a unique identifier for a specific location in a computer&amp;rsquo;s memory.</description>
+    </item>
+    
+    <item>
+      <title>What is Cloud Waste?</title>
+      <link>https://techterminologies.com/definitions/cloud-waste/</link>
+      <pubDate>Fri, 25 Nov 2022 16:36:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/cloud-waste/</guid>
+      <description>Cloud waste refers to the inefficient use of resources, such as computing power and storage, in cloud computing environments.</description>
+    </item>
+    
   </channel>
 </rss>

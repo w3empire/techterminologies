@@ -5,6 +5,61 @@
     <link>https://techterminologies.com/alphabetical-order/b/</link>
     <description>Recent content in The complete list of tech terms starting with the letter &#39;B&#39; on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/alphabetical-order/b/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Dec 2022 19:02:50 -0300</lastBuildDate><atom:link href="https://techterminologies.com/alphabetical-order/b/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Build?</title>
+      <link>https://techterminologies.com/definitions/build-process/</link>
+      <pubDate>Wed, 21 Dec 2022 19:02:50 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/build-process/</guid>
+      <description>A build (also known as a &amp;ldquo;build process&amp;rdquo;) is the process of transforming source code into a stand-alone, executable form that can be run on a computer or other device.</description>
+    </item>
+    
+    <item>
+      <title>What is a Browser Extension?</title>
+      <link>https://techterminologies.com/definitions/browser-extension/</link>
+      <pubDate>Wed, 21 Dec 2022 18:40:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/browser-extension/</guid>
+      <description>A browser extension is a small software program that adds additional functionality to a web browser.</description>
+    </item>
+    
+    <item>
+      <title>What is a Base Station?</title>
+      <link>https://techterminologies.com/definitions/base-station/</link>
+      <pubDate>Sun, 18 Dec 2022 07:36:41 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/base-station/</guid>
+      <description>A base station is a device that serves as a central hub for wireless communication in a local area network (LAN).</description>
+    </item>
+    
+    <item>
+      <title>What is Barebones?</title>
+      <link>https://techterminologies.com/definitions/barebones/</link>
+      <pubDate>Sun, 18 Dec 2022 07:31:16 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/barebones/</guid>
+      <description>A barebones PC is a computer that comes with only the essential components, such as a motherboard, processor, and power supply.</description>
+    </item>
+    
+    <item>
+      <title>What is Bare Metal?</title>
+      <link>https://techterminologies.com/definitions/bare-metal/</link>
+      <pubDate>Sun, 18 Dec 2022 07:26:16 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/bare-metal/</guid>
+      <description>A bare metal system is a computer that does not include an operating system or any other software, so the user must install an operating system in order to use the hardware.</description>
+    </item>
+    
+    <item>
+      <title>What is BSB (Backside Bus)?</title>
+      <link>https://techterminologies.com/definitions/backside-bus-bsb/</link>
+      <pubDate>Sat, 17 Dec 2022 18:30:28 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/backside-bus-bsb/</guid>
+      <description>The backside bus (BSB) is a bus that connects the CPU to the level 2 (L2) cache on a computer.</description>
+    </item>
+    
   </channel>
 </rss>

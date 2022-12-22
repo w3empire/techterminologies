@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles by Edward Martel on Tech Terminologies</title>
+    <link>https://techterminologies.com/authors/edward-martel/</link>
+    <description>Recent content in Articles by Edward Martel on Tech Terminologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 22 Dec 2022 11:13:10 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/edward-martel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a CLI (Command-Line Interface)?</title>
+      <link>https://techterminologies.com/definitions/command-line-interface-cli/</link>
+      <pubDate>Thu, 22 Dec 2022 11:13:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/command-line-interface-cli/</guid>
+      <description>A command-line interface (CLI) is a text-based interface that allows users to interact with a computer by typing commands and receiving output.</description>
+    </item>
+    
+    <item>
+      <title>What is GNU (GNU&#39;s Not Unix)?</title>
+      <link>https://techterminologies.com/definitions/gnu/</link>
+      <pubDate>Wed, 21 Dec 2022 20:38:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/gnu/</guid>
+      <description>GNU is a free software operating system that was created in 1983 by Richard Stallman.</description>
+    </item>
+    
+    <item>
+      <title>What is a Browser Extension?</title>
+      <link>https://techterminologies.com/definitions/browser-extension/</link>
+      <pubDate>Wed, 21 Dec 2022 18:40:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/browser-extension/</guid>
+      <description>A browser extension is a small software program that adds additional functionality to a web browser.</description>
+    </item>
+    
+    <item>
+      <title>What is a Honeypot?</title>
+      <link>https://techterminologies.com/definitions/honeypot/</link>
+      <pubDate>Wed, 21 Dec 2022 15:02:28 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/honeypot/</guid>
+      <description>A honeypot is a security system that is designed to attract and &amp;ldquo;trap&amp;rdquo; malicious cyber activity.</description>
+    </item>
+    
+    <item>
+      <title>What is a Cybersquatter?</title>
+      <link>https://techterminologies.com/definitions/cybersquatter/</link>
+      <pubDate>Wed, 21 Dec 2022 11:13:56 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/cybersquatter/</guid>
+      <description>A cybersquatter is an individual or organization that registers, traffics in, or uses a domain name in bad faith with the intent to benefit from the reputation of another person&amp;rsquo;s trademark.</description>
+    </item>
+    
+    <item>
+      <title>What is the 403 Error (Forbidden)?</title>
+      <link>https://techterminologies.com/definitions/403-error/</link>
+      <pubDate>Wed, 21 Dec 2022 07:41:24 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/403-error/</guid>
+      <description>A 403 error is an HTTP status code that indicates that a client is forbidden from accessing a requested resource.</description>
+    </item>
+    
+    <item>
+      <title>What is NFC (Near Field Communication)?</title>
+      <link>https://techterminologies.com/definitions/near-field-communication-nfc/</link>
+      <pubDate>Tue, 20 Dec 2022 18:09:51 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/near-field-communication-nfc/</guid>
+      <description>Near Field Communication (NFC) is a short-range wireless technology that allows for the exchange of data or power between devices.</description>
+    </item>
+    
+    <item>
+      <title>What is Parity Check?</title>
+      <link>https://techterminologies.com/definitions/parity-check/</link>
+      <pubDate>Tue, 20 Dec 2022 16:40:38 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/parity-check/</guid>
+      <description>&amp;ldquo;Parity check&amp;rdquo; is a method of checking the accuracy of data transmission or storage.</description>
+    </item>
+    
+    <item>
+      <title>What is Golden Copy?</title>
+      <link>https://techterminologies.com/definitions/golden-copy/</link>
+      <pubDate>Tue, 20 Dec 2022 13:22:21 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/golden-copy/</guid>
+      <description>A &amp;ldquo;golden copy,&amp;rdquo; also known as the &amp;ldquo;final version&amp;rdquo; or &amp;ldquo;release version,&amp;rdquo; is a term used to describe the last version of a software product that has been thoroughly tested and is ready for distribution or deployment.</description>
+    </item>
+    
+    <item>
+      <title>What is Golden Image?</title>
+      <link>https://techterminologies.com/definitions/golden-image/</link>
+      <pubDate>Tue, 20 Dec 2022 13:11:38 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/golden-image/</guid>
+      <description>A &amp;ldquo;golden image,&amp;rdquo; also known as a &amp;ldquo;golden master&amp;rdquo; or &amp;ldquo;reference image,&amp;rdquo; is the final version of a software application that has been thoroughly tested and approved for production use.</description>
+    </item>
+    
+    <item>
+      <title>What is Encoding?</title>
+      <link>https://techterminologies.com/definitions/encoding/</link>
+      <pubDate>Tue, 20 Dec 2022 11:26:49 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/encoding/</guid>
+      <description>Encoding is the process of converting data from one format into another for the purpose of efficient transmission or storage.</description>
+    </item>
+    
+    <item>
+      <title>What is ACL (Access Control List)?</title>
+      <link>https://techterminologies.com/definitions/access-control-list-acl/</link>
+      <pubDate>Tue, 20 Dec 2022 09:01:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/access-control-list-acl/</guid>
+      <description>An access control list (ACL) is a list of permissions that are associated with a particular resource, such as a file, folder, or network device.</description>
+    </item>
+    
+    <item>
+      <title>What is Barebones?</title>
+      <link>https://techterminologies.com/definitions/barebones/</link>
+      <pubDate>Sun, 18 Dec 2022 07:31:16 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/barebones/</guid>
+      <description>A barebones PC is a computer that comes with only the essential components, such as a motherboard, processor, and power supply.</description>
+    </item>
+    
+  </channel>
+</rss>

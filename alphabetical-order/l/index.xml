@@ -5,6 +5,25 @@
     <link>https://techterminologies.com/alphabetical-order/l/</link>
     <description>Recent content in The complete list of tech terms starting with the letter &#39;L&#39; on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/alphabetical-order/l/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Dec 2022 16:06:30 -0300</lastBuildDate><atom:link href="https://techterminologies.com/alphabetical-order/l/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Latency?</title>
+      <link>https://techterminologies.com/definitions/latency/</link>
+      <pubDate>Tue, 20 Dec 2022 16:06:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/latency/</guid>
+      <description>Latency is the time it takes for a signal or a request to be transmitted and received by a system.</description>
+    </item>
+    
+    <item>
+      <title>What is a License Key?</title>
+      <link>https://techterminologies.com/definitions/license-key/</link>
+      <pubDate>Tue, 20 Dec 2022 11:48:02 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/license-key/</guid>
+      <description>A license key, also known as a product key, is a unique code that is used to activate a software program.</description>
+    </item>
+    
   </channel>
 </rss>

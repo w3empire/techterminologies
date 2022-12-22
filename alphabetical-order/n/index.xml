@@ -5,6 +5,52 @@
     <link>https://techterminologies.com/alphabetical-order/n/</link>
     <description>Recent content in The complete list of tech terms starting with the letter &#39;N&#39; on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/alphabetical-order/n/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Dec 2022 15:47:14 -0300</lastBuildDate><atom:link href="https://techterminologies.com/alphabetical-order/n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is NoSQL Database?</title>
+      <link>https://techterminologies.com/definitions/nosql/</link>
+      <pubDate>Wed, 21 Dec 2022 15:47:14 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/nosql/</guid>
+      <description>NoSQL, also known as &amp;ldquo;Not Only SQL,&amp;rdquo; is a type of database that is designed to handle large volumes of structured, semi-structured, or unstructured data.</description>
+    </item>
+    
+    <item>
+      <title>What is NBA (Network Behavior Analysis)?</title>
+      <link>https://techterminologies.com/definitions/network-behavior-analysis-nba/</link>
+      <pubDate>Tue, 20 Dec 2022 20:43:00 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/network-behavior-analysis-nba/</guid>
+      <description>Network behavior analysis is a cybersecurity technique that involves the continuous monitoring and analysis of network traffic and activity to identify unusual or malicious behavior.</description>
+    </item>
+    
+    <item>
+      <title>What is NFC (Near Field Communication)?</title>
+      <link>https://techterminologies.com/definitions/near-field-communication-nfc/</link>
+      <pubDate>Tue, 20 Dec 2022 18:09:51 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/near-field-communication-nfc/</guid>
+      <description>Near Field Communication (NFC) is a short-range wireless technology that allows for the exchange of data or power between devices.</description>
+    </item>
+    
+    <item>
+      <title>What is Network Topology?</title>
+      <link>https://techterminologies.com/definitions/network-topology/</link>
+      <pubDate>Tue, 20 Dec 2022 17:28:57 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/network-topology/</guid>
+      <description>Network topology refers to the layout or structure of a network.</description>
+    </item>
+    
+    <item>
+      <title>What is a Network Adapter?</title>
+      <link>https://techterminologies.com/definitions/network-adapter/</link>
+      <pubDate>Sat, 17 Dec 2022 15:07:13 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/network-adapter/</guid>
+      <description>A network adapter, also known as a network interface card (NIC), is a hardware component that allows a computer to connect to a network.</description>
+    </item>
+    
   </channel>
 </rss>

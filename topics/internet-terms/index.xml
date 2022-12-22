@@ -5,6 +5,232 @@
     <link>https://techterminologies.com/topics/internet-terms/</link>
     <description>Recent content in The Complete List of Internet Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/topics/internet-terms/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 21 Dec 2022 16:44:03 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/internet-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Zone File?</title>
+      <link>https://techterminologies.com/definitions/zone-file/</link>
+      <pubDate>Wed, 21 Dec 2022 16:44:03 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/zone-file/</guid>
+      <description>A zone file is a configuration file that is used to define the DNS (Domain Name System) information for a particular domain.</description>
+    </item>
+    
+    <item>
+      <title>What is a Permalink?</title>
+      <link>https://techterminologies.com/definitions/permalink/</link>
+      <pubDate>Wed, 21 Dec 2022 16:16:35 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/permalink/</guid>
+      <description>A permalink, short for &amp;ldquo;permanent link,&amp;rdquo; is a URL (Uniform Resource Locator) that is intended to remain unchanged for the lifetime of the content to which it refers.</description>
+    </item>
+    
+    <item>
+      <title>What is NoSQL Database?</title>
+      <link>https://techterminologies.com/definitions/nosql/</link>
+      <pubDate>Wed, 21 Dec 2022 15:47:14 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/nosql/</guid>
+      <description>NoSQL, also known as &amp;ldquo;Not Only SQL,&amp;rdquo; is a type of database that is designed to handle large volumes of structured, semi-structured, or unstructured data.</description>
+    </item>
+    
+    <item>
+      <title>What is a Meme?</title>
+      <link>https://techterminologies.com/definitions/meme/</link>
+      <pubDate>Wed, 21 Dec 2022 15:21:52 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/meme/</guid>
+      <description>A meme is a piece of information, idea, or behavior that spreads from person to person within a culture.</description>
+    </item>
+    
+    <item>
+      <title>What is a Honeypot?</title>
+      <link>https://techterminologies.com/definitions/honeypot/</link>
+      <pubDate>Wed, 21 Dec 2022 15:02:28 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/honeypot/</guid>
+      <description>A honeypot is a security system that is designed to attract and &amp;ldquo;trap&amp;rdquo; malicious cyber activity.</description>
+    </item>
+    
+    <item>
+      <title>What is Grid Computing?</title>
+      <link>https://techterminologies.com/definitions/grid-computing/</link>
+      <pubDate>Wed, 21 Dec 2022 14:36:08 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/grid-computing/</guid>
+      <description>Grid computing is a distributed computing paradigm that involves the use of a large number of computers to solve complex problems or perform large-scale data processing tasks.</description>
+    </item>
+    
+    <item>
+      <title>What is a Favicon?</title>
+      <link>https://techterminologies.com/definitions/favicon/</link>
+      <pubDate>Wed, 21 Dec 2022 14:17:52 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/favicon/</guid>
+      <description>A favicon, also known as a favicon.ico, is a small icon that appears in the browser tab or address bar of a web browser.</description>
+    </item>
+    
+    <item>
+      <title>What is Email?</title>
+      <link>https://techterminologies.com/definitions/email/</link>
+      <pubDate>Wed, 21 Dec 2022 12:41:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/email/</guid>
+      <description>Email, or electronic mail, is a method of exchanging digital messages between computers.</description>
+    </item>
+    
+    <item>
+      <title>What is E-commerce?</title>
+      <link>https://techterminologies.com/definitions/e-commerce/</link>
+      <pubDate>Wed, 21 Dec 2022 12:18:26 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/e-commerce/</guid>
+      <description>The term &amp;ldquo;e-commerce,&amp;rdquo; which stands for &amp;ldquo;electronic commerce,&amp;rdquo; describes the process of buying and selling products and services through the internet.</description>
+    </item>
+    
+    <item>
+      <title>What is a DNS (Domain Name System)?</title>
+      <link>https://techterminologies.com/definitions/domain-name-system-dns/</link>
+      <pubDate>Wed, 21 Dec 2022 11:56:28 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/domain-name-system-dns/</guid>
+      <description>A Domain Name System (DNS) is a decentralized system that translates human-readable domain names, such as example.</description>
+    </item>
+    
+    <item>
+      <title>What is a Datagram?</title>
+      <link>https://techterminologies.com/definitions/datagram/</link>
+      <pubDate>Wed, 21 Dec 2022 11:35:49 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/datagram/</guid>
+      <description>A &amp;ldquo;datagram&amp;rdquo; is a self-contained, independent entity of data carrying sufficient information to be routed from the source to the destination computer without reliance on earlier exchanges between the source and destination computers and the transporting network.</description>
+    </item>
+    
+    <item>
+      <title>What is a Cybersquatter?</title>
+      <link>https://techterminologies.com/definitions/cybersquatter/</link>
+      <pubDate>Wed, 21 Dec 2022 11:13:56 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/cybersquatter/</guid>
+      <description>A cybersquatter is an individual or organization that registers, traffics in, or uses a domain name in bad faith with the intent to benefit from the reputation of another person&amp;rsquo;s trademark.</description>
+    </item>
+    
+    <item>
+      <title>What is Cyberbullying?</title>
+      <link>https://techterminologies.com/definitions/cyberbullying/</link>
+      <pubDate>Wed, 21 Dec 2022 10:44:57 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/cyberbullying/</guid>
+      <description>Cyberbullying is the use of technology to harass, threaten, or intimidate someone, often repeatedly.</description>
+    </item>
+    
+    <item>
+      <title>What is Adware?</title>
+      <link>https://techterminologies.com/definitions/advertising-supported-software-adware/</link>
+      <pubDate>Wed, 21 Dec 2022 10:06:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/advertising-supported-software-adware/</guid>
+      <description>Adware, short for &amp;ldquo;advertising-supported software,&amp;rdquo; is a type of software that displays advertisements on a computer or mobile device.</description>
+    </item>
+    
+    <item>
+      <title>What is the Address Bar?</title>
+      <link>https://techterminologies.com/definitions/address-bar/</link>
+      <pubDate>Wed, 21 Dec 2022 09:49:07 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/address-bar/</guid>
+      <description>The address bar, also known as the URL bar or location bar, is a feature found in most web browsers that allows users to input and navigate to a specific webpage.</description>
+    </item>
+    
+    <item>
+      <title>What is 5G?</title>
+      <link>https://techterminologies.com/definitions/5g/</link>
+      <pubDate>Wed, 21 Dec 2022 09:12:06 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/5g/</guid>
+      <description>5G is the fifth generation of mobile network technology that is designed to provide faster and more reliable internet connectivity to devices such as smartphones, tablets, and laptops.</description>
+    </item>
+    
+    <item>
+      <title>What is 4G?</title>
+      <link>https://techterminologies.com/definitions/4g/</link>
+      <pubDate>Wed, 21 Dec 2022 08:55:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/4g/</guid>
+      <description>4G is a mobile telecommunications technology that lets smartphones and tablets connect to the internet at high speeds.</description>
+    </item>
+    
+    <item>
+      <title>What is the 404 Error (Not Found)?</title>
+      <link>https://techterminologies.com/definitions/404-error/</link>
+      <pubDate>Wed, 21 Dec 2022 07:58:29 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/404-error/</guid>
+      <description>The 404 error is an HTTP (Hypertext Transfer Protocol) status code that indicates that the server was unable to find the requested resource.</description>
+    </item>
+    
+    <item>
+      <title>What is the 403 Error (Forbidden)?</title>
+      <link>https://techterminologies.com/definitions/403-error/</link>
+      <pubDate>Wed, 21 Dec 2022 07:41:24 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/403-error/</guid>
+      <description>A 403 error is an HTTP status code that indicates that a client is forbidden from accessing a requested resource.</description>
+    </item>
+    
+    <item>
+      <title>What is 3G?</title>
+      <link>https://techterminologies.com/definitions/3g/</link>
+      <pubDate>Wed, 21 Dec 2022 07:21:16 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/3g/</guid>
+      <description>3G, or third generation, is a generation of wireless mobile telecommunications technology.</description>
+    </item>
+    
+    <item>
+      <title>What is a Home Page?</title>
+      <link>https://techterminologies.com/definitions/home-page/</link>
+      <pubDate>Tue, 20 Dec 2022 16:27:41 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/home-page/</guid>
+      <description>A home page is the main or front page of a website.</description>
+    </item>
+    
+    <item>
+      <title>What is the Web?</title>
+      <link>https://techterminologies.com/definitions/web/</link>
+      <pubDate>Tue, 20 Dec 2022 16:17:44 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/web/</guid>
+      <description>The World Wide Web, commonly referred to as the &amp;ldquo;Web,&amp;rdquo; is a vast network of interconnected documents and other resources linked by hyperlinks and URLs.</description>
+    </item>
+    
+    <item>
+      <title>What is Flaming?</title>
+      <link>https://techterminologies.com/definitions/flaming/</link>
+      <pubDate>Fri, 25 Nov 2022 16:37:34 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/flaming/</guid>
+      <description>Flaming is the act of posting or sending offensive messages or statements with the intention of insulting or causing distress to the recipient.</description>
+    </item>
+    
+    <item>
+      <title>What is Cloud Waste?</title>
+      <link>https://techterminologies.com/definitions/cloud-waste/</link>
+      <pubDate>Fri, 25 Nov 2022 16:36:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/cloud-waste/</guid>
+      <description>Cloud waste refers to the inefficient use of resources, such as computing power and storage, in cloud computing environments.</description>
+    </item>
+    
+    <item>
+      <title>What is ActiveX?</title>
+      <link>https://techterminologies.com/definitions/activex/</link>
+      <pubDate>Fri, 25 Nov 2022 16:36:41 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/activex/</guid>
+      <description>ActiveX is a technology developed by Microsoft that is used to create software components that can be used in a variety of applications and programming languages.</description>
+    </item>
+    
   </channel>
 </rss>

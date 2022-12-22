@@ -6,14 +6,437 @@
     <description>Recent content in The Complete List of Software Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Nov 2022 16:06:18 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/software-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Dec 2022 11:56:19 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/software-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is ODBC (Open Database Connectivity)?</title>
+      <link>https://techterminologies.com/definitions/open-database-connectivity-odbc/</link>
+      <pubDate>Thu, 22 Dec 2022 11:56:19 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/open-database-connectivity-odbc/</guid>
+      <description>ODBC (Open Database Connectivity) is a standard application programming interface (API) that allows software programs to access data stored in databases.</description>
+    </item>
+    
+    <item>
+      <title>What is a Keylogger?</title>
+      <link>https://techterminologies.com/definitions/keylogger/</link>
+      <pubDate>Thu, 22 Dec 2022 11:33:18 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/keylogger/</guid>
+      <description>A keylogger, also known as a keystroke logger or keyboard logger, is a type of software or hardware that tracks and records every keystroke made on a computer&amp;rsquo;s keyboard.</description>
+    </item>
+    
+    <item>
+      <title>What is a CLI (Command-Line Interface)?</title>
+      <link>https://techterminologies.com/definitions/command-line-interface-cli/</link>
+      <pubDate>Thu, 22 Dec 2022 11:13:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/command-line-interface-cli/</guid>
+      <description>A command-line interface (CLI) is a text-based interface that allows users to interact with a computer by typing commands and receiving output.</description>
+    </item>
+    
+    <item>
+      <title>What is a GUI (Graphical User Interface)?</title>
+      <link>https://techterminologies.com/definitions/graphical-user-interface-gui/</link>
+      <pubDate>Thu, 22 Dec 2022 10:40:14 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/graphical-user-interface-gui/</guid>
+      <description>A GUI, or Graphical User Interface, is a type of interface that allows users to interact with electronic devices through visual elements such as icons and graphics, rather than typing commands in a command-line interface.</description>
+    </item>
+    
+    <item>
+      <title>What is a Web-Based Installer?</title>
+      <link>https://techterminologies.com/definitions/web-based-installer/</link>
+      <pubDate>Thu, 22 Dec 2022 08:40:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/web-based-installer/</guid>
+      <description>A web-based installer is a software installation package that is delivered and executed over the internet.</description>
+    </item>
+    
+    <item>
+      <title>What is a Command-Line Installer?</title>
+      <link>https://techterminologies.com/definitions/command-line-installer/</link>
+      <pubDate>Thu, 22 Dec 2022 08:23:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/command-line-installer/</guid>
+      <description>A command-line installer is a type of software that installs programs or files onto a computer through the use of commands entered into a command-line interface (CLI).</description>
+    </item>
+    
+    <item>
+      <title>What is a Graphical Installer?</title>
+      <link>https://techterminologies.com/definitions/graphical-installer/</link>
+      <pubDate>Thu, 22 Dec 2022 08:08:46 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/graphical-installer/</guid>
+      <description>A &amp;ldquo;graphical installer&amp;rdquo; is a software installation program that presents users with a graphical user interface (GUI) rather than a command-line interface (CLI).</description>
+    </item>
+    
+    <item>
+      <title>What is a Self-Extracting Installer?</title>
+      <link>https://techterminologies.com/definitions/self-extracting-installer/</link>
+      <pubDate>Thu, 22 Dec 2022 07:50:33 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/self-extracting-installer/</guid>
+      <description>A self-extracting installer is a software application that allows users to install a program or application onto their computer without the need for additional decompression tools.</description>
+    </item>
+    
+    <item>
+      <title>What is an Installer?</title>
+      <link>https://techterminologies.com/definitions/installer/</link>
+      <pubDate>Thu, 22 Dec 2022 07:30:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/installer/</guid>
+      <description>An installer is a software application that is used to install, update, and configure a computer program or software package.</description>
+    </item>
+    
+    <item>
+      <title>What is GNU (GNU&#39;s Not Unix)?</title>
+      <link>https://techterminologies.com/definitions/gnu/</link>
+      <pubDate>Wed, 21 Dec 2022 20:38:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/gnu/</guid>
+      <description>GNU is a free software operating system that was created in 1983 by Richard Stallman.</description>
+    </item>
+    
+    <item>
+      <title>What is Garbage Collection?</title>
+      <link>https://techterminologies.com/definitions/garbage-collection/</link>
+      <pubDate>Wed, 21 Dec 2022 20:24:13 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/garbage-collection/</guid>
+      <description>Garbage collection is a fundamental concept in computer science, particularly in the field of programming languages.</description>
+    </item>
+    
+    <item>
+      <title>What is DirectX?</title>
+      <link>https://techterminologies.com/definitions/directx/</link>
+      <pubDate>Wed, 21 Dec 2022 20:13:51 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/directx/</guid>
+      <description>DirectX is a collection of APIs (Application Programming Interfaces) that are used to create and handle multimedia tasks such as rendering graphics, playing audio, and handling input in Windows operating systems.</description>
+    </item>
+    
+    <item>
+      <title>What is a DLC (Downloadable Content)?</title>
+      <link>https://techterminologies.com/definitions/downloadable-content-dlc/</link>
+      <pubDate>Wed, 21 Dec 2022 19:46:47 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/downloadable-content-dlc/</guid>
+      <description>A DLC, or downloadable content, is additional content that can be downloaded and added to a video game after its initial release.</description>
+    </item>
+    
+    <item>
+      <title>What is a Compiler?</title>
+      <link>https://techterminologies.com/definitions/compiler/</link>
+      <pubDate>Wed, 21 Dec 2022 19:29:23 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/compiler/</guid>
+      <description>A compiler is a computer program that translates code written in a programming language into machine code that can be executed by a computer.</description>
+    </item>
+    
+    <item>
+      <title>What is a Codec?</title>
+      <link>https://techterminologies.com/definitions/codec/</link>
+      <pubDate>Wed, 21 Dec 2022 19:14:27 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/codec/</guid>
+      <description>A codec is a device or software that is used to encode or decode a digital data stream or signal.</description>
+    </item>
+    
+    <item>
+      <title>What is a Build?</title>
+      <link>https://techterminologies.com/definitions/build-process/</link>
+      <pubDate>Wed, 21 Dec 2022 19:02:50 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/build-process/</guid>
+      <description>A build (also known as a &amp;ldquo;build process&amp;rdquo;) is the process of transforming source code into a stand-alone, executable form that can be run on a computer or other device.</description>
+    </item>
+    
+    <item>
+      <title>What is a Browser Extension?</title>
+      <link>https://techterminologies.com/definitions/browser-extension/</link>
+      <pubDate>Wed, 21 Dec 2022 18:40:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/browser-extension/</guid>
+      <description>A browser extension is a small software program that adds additional functionality to a web browser.</description>
+    </item>
+    
+    <item>
+      <title>What is an Application?</title>
+      <link>https://techterminologies.com/definitions/application/</link>
+      <pubDate>Wed, 21 Dec 2022 18:29:26 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/application/</guid>
+      <description>An application, or application program, is a software program designed to perform a specific task or set of tasks.</description>
+    </item>
+    
+    <item>
+      <title>What is an Algorithm?</title>
+      <link>https://techterminologies.com/definitions/algorithm/</link>
+      <pubDate>Wed, 21 Dec 2022 18:04:06 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/algorithm/</guid>
+      <description>An algorithm is a set of instructions or a step-by-step process that is followed to solve a problem or accomplish a task.</description>
+    </item>
+    
+    <item>
+      <title>What is NoSQL Database?</title>
+      <link>https://techterminologies.com/definitions/nosql/</link>
+      <pubDate>Wed, 21 Dec 2022 15:47:14 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/nosql/</guid>
+      <description>NoSQL, also known as &amp;ldquo;Not Only SQL,&amp;rdquo; is a type of database that is designed to handle large volumes of structured, semi-structured, or unstructured data.</description>
+    </item>
+    
+    <item>
+      <title>What is a Honeypot?</title>
+      <link>https://techterminologies.com/definitions/honeypot/</link>
+      <pubDate>Wed, 21 Dec 2022 15:02:28 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/honeypot/</guid>
+      <description>A honeypot is a security system that is designed to attract and &amp;ldquo;trap&amp;rdquo; malicious cyber activity.</description>
+    </item>
+    
+    <item>
+      <title>What is Adware?</title>
+      <link>https://techterminologies.com/definitions/advertising-supported-software-adware/</link>
+      <pubDate>Wed, 21 Dec 2022 10:06:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/advertising-supported-software-adware/</guid>
+      <description>Adware, short for &amp;ldquo;advertising-supported software,&amp;rdquo; is a type of software that displays advertisements on a computer or mobile device.</description>
+    </item>
+    
+    <item>
+      <title>What is a TCP Wrapper?</title>
+      <link>https://techterminologies.com/definitions/tcp-wrapper/</link>
+      <pubDate>Tue, 20 Dec 2022 21:00:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/tcp-wrapper/</guid>
+      <description>A &amp;ldquo;wrapper&amp;rdquo; is a layer of software that provides an additional layer of abstraction between two different systems or protocols.</description>
+    </item>
+    
+    <item>
+      <title>What is Image Scaling?</title>
+      <link>https://techterminologies.com/definitions/image-scaling/</link>
+      <pubDate>Tue, 20 Dec 2022 13:41:21 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/image-scaling/</guid>
+      <description>Image scaling refers to the process of resizing an image. This can be done for a variety of reasons, such as to fit an image into a specific space on a webpage or to reduce the file size of an image to make it easier to upload or download.</description>
+    </item>
+    
+    <item>
+      <title>What is Golden Copy?</title>
+      <link>https://techterminologies.com/definitions/golden-copy/</link>
+      <pubDate>Tue, 20 Dec 2022 13:22:21 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/golden-copy/</guid>
+      <description>A &amp;ldquo;golden copy,&amp;rdquo; also known as the &amp;ldquo;final version&amp;rdquo; or &amp;ldquo;release version,&amp;rdquo; is a term used to describe the last version of a software product that has been thoroughly tested and is ready for distribution or deployment.</description>
+    </item>
+    
+    <item>
+      <title>What is Golden Image?</title>
+      <link>https://techterminologies.com/definitions/golden-image/</link>
+      <pubDate>Tue, 20 Dec 2022 13:11:38 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/golden-image/</guid>
+      <description>A &amp;ldquo;golden image,&amp;rdquo; also known as a &amp;ldquo;golden master&amp;rdquo; or &amp;ldquo;reference image,&amp;rdquo; is the final version of a software application that has been thoroughly tested and approved for production use.</description>
+    </item>
+    
+    <item>
+      <title>What is Golden Master?</title>
+      <link>https://techterminologies.com/definitions/golden-master/</link>
+      <pubDate>Tue, 20 Dec 2022 12:55:43 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/golden-master/</guid>
+      <description>A &amp;ldquo;golden master,&amp;rdquo; also known as a &amp;ldquo;golden image&amp;rdquo; or &amp;ldquo;golden copy,&amp;rdquo; is the final version of a software product that has been thoroughly tested and approved for release.</description>
+    </item>
+    
+    <item>
+      <title>What is a Master Reset?</title>
+      <link>https://techterminologies.com/definitions/master-reset/</link>
+      <pubDate>Tue, 20 Dec 2022 12:43:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/master-reset/</guid>
+      <description>A master reset, also known as a factory reset or hard reset, is the process of resetting a device to its original factory settings, effectively wiping all data, and returning it to the state it was in when it was initially acquired.</description>
+    </item>
+    
+    <item>
+      <title>What is a Hard Reset?</title>
+      <link>https://techterminologies.com/definitions/hard-reset/</link>
+      <pubDate>Tue, 20 Dec 2022 12:22:54 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/hard-reset/</guid>
+      <description>A hard reset, also known as a factory reset or master reset, is the process of restoring a device to its original manufacturer settings.</description>
+    </item>
+    
+    <item>
+      <title>What is a Factory Reset?</title>
+      <link>https://techterminologies.com/definitions/factory-reset/</link>
+      <pubDate>Tue, 20 Dec 2022 12:12:51 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/factory-reset/</guid>
+      <description>A factory reset, also known as a hard reset or master reset, is the process of restoring a device to its original manufacturer settings.</description>
+    </item>
+    
+    <item>
+      <title>What is a Product Key?</title>
+      <link>https://techterminologies.com/definitions/product-key/</link>
+      <pubDate>Tue, 20 Dec 2022 11:57:55 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/product-key/</guid>
+      <description>A product key, also known as a license key or activation key, is a unique alphanumeric code that is required to install and activate a software application.</description>
+    </item>
+    
+    <item>
+      <title>What is a License Key?</title>
+      <link>https://techterminologies.com/definitions/license-key/</link>
+      <pubDate>Tue, 20 Dec 2022 11:48:02 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/license-key/</guid>
+      <description>A license key, also known as a product key, is a unique code that is used to activate a software program.</description>
+    </item>
+    
+    <item>
+      <title>What is a Serial Number?</title>
+      <link>https://techterminologies.com/definitions/serial-number/</link>
+      <pubDate>Tue, 20 Dec 2022 11:34:50 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/serial-number/</guid>
+      <description>A serial number is a unique identification number or code that is used to activate a software application.</description>
+    </item>
+    
+    <item>
+      <title>What is Encoding?</title>
+      <link>https://techterminologies.com/definitions/encoding/</link>
+      <pubDate>Tue, 20 Dec 2022 11:26:49 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/encoding/</guid>
+      <description>Encoding is the process of converting data from one format into another for the purpose of efficient transmission or storage.</description>
+    </item>
+    
+    <item>
+      <title>What is a Digital Signature?</title>
+      <link>https://techterminologies.com/definitions/digital-signature/</link>
+      <pubDate>Tue, 20 Dec 2022 11:13:37 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/digital-signature/</guid>
+      <description>A digital signature is a form of electronic signature that uses a combination of cryptography and authentication to provide a secure way of verifying the identity of the sender of an electronic document and the integrity of the document itself.</description>
+    </item>
+    
+    <item>
+      <title>What is DevOps?</title>
+      <link>https://techterminologies.com/definitions/devops/</link>
+      <pubDate>Tue, 20 Dec 2022 11:03:31 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/devops/</guid>
+      <description>DevOps is a software development and delivery approach that aims to bridge the gap between development and operations.</description>
+    </item>
+    
+    <item>
+      <title>What is CGI (Computer-generated Imagery)?</title>
+      <link>https://techterminologies.com/definitions/computer-generated-imagery-cgi/</link>
+      <pubDate>Tue, 20 Dec 2022 10:51:28 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/computer-generated-imagery-cgi/</guid>
+      <description>Computer-generated imagery (CGI) is a technique used to create digital images or animations using computer software.</description>
+    </item>
+    
+    <item>
+      <title>What is CGI (Common Gateway Interface)?</title>
+      <link>https://techterminologies.com/definitions/common-gateway-interface-cgi/</link>
+      <pubDate>Tue, 20 Dec 2022 09:56:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/common-gateway-interface-cgi/</guid>
+      <description>CGI (Common Gateway Interface) is a standard protocol for executing scripts or programs over the Internet.</description>
+    </item>
+    
+    <item>
+      <title>What is Catalina?</title>
+      <link>https://techterminologies.com/definitions/catalina/</link>
+      <pubDate>Tue, 20 Dec 2022 09:44:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/catalina/</guid>
+      <description>Catalina is the name of one of the versions of Apple&amp;rsquo;s macOS operating system, also known as &amp;ldquo;macOS 10.</description>
+    </item>
+    
+    <item>
+      <title>What is an Activation Key?</title>
+      <link>https://techterminologies.com/definitions/activation-key/</link>
+      <pubDate>Tue, 20 Dec 2022 09:20:57 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/activation-key/</guid>
+      <description>An activation key, also known as a serial number or license key, is a unique code that is used to register or activate a software application.</description>
+    </item>
+    
+    <item>
+      <title>What is ACL (Access Control List)?</title>
+      <link>https://techterminologies.com/definitions/access-control-list-acl/</link>
+      <pubDate>Tue, 20 Dec 2022 09:01:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/access-control-list-acl/</guid>
+      <description>An access control list (ACL) is a list of permissions that are associated with a particular resource, such as a file, folder, or network device.</description>
+    </item>
+    
+    <item>
+      <title>What is Access (Microsoft Access)?</title>
+      <link>https://techterminologies.com/definitions/microsoft-access/</link>
+      <pubDate>Tue, 20 Dec 2022 08:44:11 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/microsoft-access/</guid>
+      <description>Microsoft Access is a database management system (DBMS) that is part of the Microsoft Office suite of productivity software.</description>
+    </item>
+    
+    <item>
+      <title>What is an Abend (Abnormal End)?</title>
+      <link>https://techterminologies.com/definitions/abend/</link>
+      <pubDate>Tue, 20 Dec 2022 08:20:38 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/abend/</guid>
+      <description>Abend is short for &amp;ldquo;abnormal end.&amp;rdquo; In the context of computers and software, an &amp;ldquo;abend&amp;rdquo; is an abnormal termination of a program or process.</description>
+    </item>
+    
+    <item>
+      <title>What is an Operator (Computer Programing)?</title>
+      <link>https://techterminologies.com/definitions/operator-programming/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/operator-programming/</guid>
+      <description>In computer programming, an operator is a symbol that represents a specific operation that can be performed on one or more values or variables.</description>
+    </item>
+    
+    <item>
+      <title>What is &amp; (Address-of Operator)?</title>
+      <link>https://techterminologies.com/definitions/address-of-operator/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/address-of-operator/</guid>
+      <description>In most programming languages, the address-of operator &amp;amp; is used to get the memory address of a variable.</description>
+    </item>
+    
+    <item>
+      <title>What is a Memory Address?</title>
+      <link>https://techterminologies.com/definitions/memory-address/</link>
+      <pubDate>Mon, 12 Dec 2022 07:14:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/memory-address/</guid>
+      <description>A memory address is a unique identifier for a specific location in a computer&amp;rsquo;s memory.</description>
+    </item>
+    
+    <item>
+      <title>What is ActiveX?</title>
+      <link>https://techterminologies.com/definitions/activex/</link>
+      <pubDate>Fri, 25 Nov 2022 16:36:41 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/activex/</guid>
+      <description>ActiveX is a technology developed by Microsoft that is used to create software components that can be used in a variety of applications and programming languages.</description>
+    </item>
+    
     <item>
       <title>What is APL (A Programming Language)?</title>
       <link>https://techterminologies.com/definitions/a-programming-language-apl/</link>
       <pubDate>Fri, 25 Nov 2022 16:06:18 -0300</pubDate>
       
       <guid>https://techterminologies.com/definitions/a-programming-language-apl/</guid>
-      <description>The first description of A Programming Language (APL) appeared in Kenneth E.</description>
+      <description>APL (A Programming Language) is a programming language that was developed in the 1960s by Kenneth E.</description>
     </item>
     
   </channel>

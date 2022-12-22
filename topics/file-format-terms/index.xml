@@ -5,6 +5,16 @@
     <link>https://techterminologies.com/topics/file-format-terms/</link>
     <description>Recent content in The Complete List of File Format Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/topics/file-format-terms/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Dec 2022 11:26:49 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/file-format-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Encoding?</title>
+      <link>https://techterminologies.com/definitions/encoding/</link>
+      <pubDate>Tue, 20 Dec 2022 11:26:49 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/encoding/</guid>
+      <description>Encoding is the process of converting data from one format into another for the purpose of efficient transmission or storage.</description>
+    </item>
+    
   </channel>
 </rss>
