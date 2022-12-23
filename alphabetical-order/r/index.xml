@@ -5,6 +5,25 @@
     <link>https://techterminologies.com/alphabetical-order/r/</link>
     <description>Recent content in The complete list of tech terms starting with the letter &#39;R&#39; on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://techterminologies.com/alphabetical-order/r/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Fri, 23 Dec 2022 08:44:52 -0300</lastBuildDate><atom:link href="https://techterminologies.com/alphabetical-order/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Raster File Format (Raster Images)?</title>
+      <link>https://techterminologies.com/definitions/raster-file-format/</link>
+      <pubDate>Fri, 23 Dec 2022 08:44:52 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/raster-file-format/</guid>
+      <description>A raster format is a type of digital image file that is made up of tiny pixels, or &amp;ldquo;picture elements,&amp;rdquo; arranged in a grid pattern.</description>
+    </item>
+    
+    <item>
+      <title>What is a Raw File Format (Raw Image Format)?</title>
+      <link>https://techterminologies.com/definitions/raw-file-format/</link>
+      <pubDate>Fri, 23 Dec 2022 08:06:31 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/raw-file-format/</guid>
+      <description>A raw image format is a file format that stores unprocessed data from a digital camera&amp;rsquo;s image sensor.</description>
+    </item>
+    
   </channel>
 </rss>

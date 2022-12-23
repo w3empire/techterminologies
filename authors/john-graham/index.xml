@@ -6,7 +6,16 @@
     <description>Recent content in Articles by John Graham on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Dec 2022 08:23:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/john-graham/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 08:28:46 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/john-graham/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Vector File Format (Vector Graphics)?</title>
+      <link>https://techterminologies.com/definitions/vector-file-format/</link>
+      <pubDate>Fri, 23 Dec 2022 08:28:46 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/vector-file-format/</guid>
+      <description>Vector graphics are a type of digital image that are created using mathematical algorithms rather than pixels.</description>
+    </item>
+    
     <item>
       <title>What is a Command-Line Installer?</title>
       <link>https://techterminologies.com/definitions/command-line-installer/</link>

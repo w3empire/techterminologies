@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Marvin Kaufman on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Dec 2022 08:40:53 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 08:44:52 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Raster File Format (Raster Images)?</title>
+      <link>https://techterminologies.com/definitions/raster-file-format/</link>
+      <pubDate>Fri, 23 Dec 2022 08:44:52 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/raster-file-format/</guid>
+      <description>A raster format is a type of digital image file that is made up of tiny pixels, or &amp;ldquo;picture elements,&amp;rdquo; arranged in a grid pattern.</description>
+    </item>
+    
     <item>
       <title>What is a Web-Based Installer?</title>
       <link>https://techterminologies.com/definitions/web-based-installer/</link>

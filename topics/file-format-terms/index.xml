@@ -6,7 +6,43 @@
     <description>Recent content in The Complete List of File Format Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Dec 2022 11:26:49 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/file-format-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Dec 2022 08:44:52 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/file-format-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Raster File Format (Raster Images)?</title>
+      <link>https://techterminologies.com/definitions/raster-file-format/</link>
+      <pubDate>Fri, 23 Dec 2022 08:44:52 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/raster-file-format/</guid>
+      <description>A raster format is a type of digital image file that is made up of tiny pixels, or &amp;ldquo;picture elements,&amp;rdquo; arranged in a grid pattern.</description>
+    </item>
+    
+    <item>
+      <title>What is a Vector File Format (Vector Graphics)?</title>
+      <link>https://techterminologies.com/definitions/vector-file-format/</link>
+      <pubDate>Fri, 23 Dec 2022 08:28:46 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/vector-file-format/</guid>
+      <description>Vector graphics are a type of digital image that are created using mathematical algorithms rather than pixels.</description>
+    </item>
+    
+    <item>
+      <title>What is a Raw File Format (Raw Image Format)?</title>
+      <link>https://techterminologies.com/definitions/raw-file-format/</link>
+      <pubDate>Fri, 23 Dec 2022 08:06:31 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/raw-file-format/</guid>
+      <description>A raw image format is a file format that stores unprocessed data from a digital camera&amp;rsquo;s image sensor.</description>
+    </item>
+    
+    <item>
+      <title>What is a Codec?</title>
+      <link>https://techterminologies.com/definitions/codec/</link>
+      <pubDate>Wed, 21 Dec 2022 19:14:27 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/codec/</guid>
+      <description>A codec is a device or software that is used to encode or decode a digital data stream or signal.</description>
+    </item>
+    
     <item>
       <title>What is Encoding?</title>
       <link>https://techterminologies.com/definitions/encoding/</link>
