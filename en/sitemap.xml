@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
-    <lastmod>2022-12-23T08:44:54-03:00</lastmod>
+    <loc>https://techterminologies.com/authors/eli-roy/</loc>
+    <lastmod>2022-12-24T09:03:14-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://techterminologies.com/pt/authors/marvin-kaufman/"
+                href="https://techterminologies.com/pt/authors/eli-roy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://techterminologies.com/es/authors/marvin-kaufman/"
+                href="https://techterminologies.com/es/authors/eli-roy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://techterminologies.com/zh-cn/authors/marvin-kaufman/"
+                href="https://techterminologies.com/zh-cn/authors/eli-roy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="https://techterminologies.com/ja/authors/marvin-kaufman/"
+                href="https://techterminologies.com/ja/authors/eli-roy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://techterminologies.com/ru/authors/marvin-kaufman/"
+                href="https://techterminologies.com/ru/authors/eli-roy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://techterminologies.com/fr/authors/marvin-kaufman/"
+                href="https://techterminologies.com/fr/authors/eli-roy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it"
-                href="https://techterminologies.com/it/authors/marvin-kaufman/"
+                href="https://techterminologies.com/it/authors/eli-roy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://techterminologies.com/de/authors/marvin-kaufman/"
+                href="https://techterminologies.com/de/authors/eli-roy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://techterminologies.com/ko/authors/marvin-kaufman/"
+                href="https://techterminologies.com/ko/authors/eli-roy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://techterminologies.com/authors/marvin-kaufman/"
+                href="https://techterminologies.com/authors/eli-roy/"
                 />
   </url><url>
     <loc>https://techterminologies.com/topics/</loc>
-    <lastmod>2022-12-23T08:44:54-03:00</lastmod>
+    <lastmod>2022-12-24T09:03:14-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -109,7 +109,7 @@
                 />
   </url><url>
     <loc>https://techterminologies.com/alphabetical-order/</loc>
-    <lastmod>2022-12-23T08:44:54-03:00</lastmod>
+    <lastmod>2022-12-24T09:03:14-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -162,7 +162,7 @@
                 />
   </url><url>
     <loc>https://techterminologies.com/authors/</loc>
-    <lastmod>2022-12-23T08:44:54-03:00</lastmod>
+    <lastmod>2022-12-24T09:03:14-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -215,7 +215,7 @@
                 />
   </url><url>
     <loc>https://techterminologies.com/</loc>
-    <lastmod>2022-12-23T08:44:54-03:00</lastmod>
+    <lastmod>2022-12-24T09:03:14-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -268,7 +268,7 @@
                 />
   </url><url>
     <loc>https://techterminologies.com/definitions/</loc>
-    <lastmod>2022-12-23T08:44:54-03:00</lastmod>
+    <lastmod>2022-12-24T09:03:14-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -320,8 +320,61 @@
                 href="https://techterminologies.com/definitions/"
                 />
   </url><url>
+    <loc>https://techterminologies.com/topics/data-management-terms/</loc>
+    <lastmod>2022-12-24T09:03:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://techterminologies.com/pt/topics/data-management-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://techterminologies.com/es/topics/data-management-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://techterminologies.com/zh-cn/topics/data-management-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://techterminologies.com/ja/topics/data-management-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://techterminologies.com/ru/topics/data-management-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://techterminologies.com/fr/topics/data-management-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://techterminologies.com/it/topics/data-management-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://techterminologies.com/de/topics/data-management-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://techterminologies.com/ko/topics/data-management-terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techterminologies.com/topics/data-management-terms/"
+                />
+  </url><url>
     <loc>https://techterminologies.com/topics/file-format-terms/</loc>
-    <lastmod>2022-12-23T08:44:54-03:00</lastmod>
+    <lastmod>2022-12-24T09:03:14-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
@@ -371,6 +424,333 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://techterminologies.com/topics/file-format-terms/"
+                />
+  </url><url>
+    <loc>https://techterminologies.com/alphabetical-order/c/</loc>
+    <lastmod>2022-12-24T09:03:14-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://techterminologies.com/pt/alphabetical-order/c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://techterminologies.com/es/alphabetical-order/c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://techterminologies.com/zh-cn/alphabetical-order/c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://techterminologies.com/ja/alphabetical-order/c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://techterminologies.com/ru/alphabetical-order/c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://techterminologies.com/fr/alphabetical-order/c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://techterminologies.com/it/alphabetical-order/c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://techterminologies.com/de/alphabetical-order/c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://techterminologies.com/ko/alphabetical-order/c/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techterminologies.com/alphabetical-order/c/"
+                />
+  </url><url>
+    <loc>https://techterminologies.com/definitions/compression/</loc>
+    <lastmod>2022-12-24T09:03:14-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/edward-martel/</loc>
+    <lastmod>2022-12-24T08:39:47-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://techterminologies.com/pt/authors/edward-martel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://techterminologies.com/es/authors/edward-martel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://techterminologies.com/zh-cn/authors/edward-martel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://techterminologies.com/ja/authors/edward-martel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://techterminologies.com/ru/authors/edward-martel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://techterminologies.com/fr/authors/edward-martel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://techterminologies.com/it/authors/edward-martel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://techterminologies.com/de/authors/edward-martel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://techterminologies.com/ko/authors/edward-martel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techterminologies.com/authors/edward-martel/"
+                />
+  </url><url>
+    <loc>https://techterminologies.com/alphabetical-order/m/</loc>
+    <lastmod>2022-12-24T08:39:47-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://techterminologies.com/pt/alphabetical-order/m/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://techterminologies.com/es/alphabetical-order/m/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://techterminologies.com/zh-cn/alphabetical-order/m/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://techterminologies.com/ja/alphabetical-order/m/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://techterminologies.com/ru/alphabetical-order/m/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://techterminologies.com/fr/alphabetical-order/m/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://techterminologies.com/it/alphabetical-order/m/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://techterminologies.com/de/alphabetical-order/m/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://techterminologies.com/ko/alphabetical-order/m/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techterminologies.com/alphabetical-order/m/"
+                />
+  </url><url>
+    <loc>https://techterminologies.com/definitions/metadata/</loc>
+    <lastmod>2022-12-24T08:39:47-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
+    <lastmod>2022-12-24T08:23:21-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://techterminologies.com/pt/authors/adam-sabin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://techterminologies.com/es/authors/adam-sabin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://techterminologies.com/zh-cn/authors/adam-sabin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://techterminologies.com/ja/authors/adam-sabin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://techterminologies.com/ru/authors/adam-sabin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://techterminologies.com/fr/authors/adam-sabin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://techterminologies.com/it/authors/adam-sabin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://techterminologies.com/de/authors/adam-sabin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://techterminologies.com/ko/authors/adam-sabin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techterminologies.com/authors/adam-sabin/"
+                />
+  </url><url>
+    <loc>https://techterminologies.com/alphabetical-order/d/</loc>
+    <lastmod>2022-12-24T08:23:21-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://techterminologies.com/pt/alphabetical-order/d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://techterminologies.com/es/alphabetical-order/d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://techterminologies.com/zh-cn/alphabetical-order/d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://techterminologies.com/ja/alphabetical-order/d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://techterminologies.com/ru/alphabetical-order/d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://techterminologies.com/fr/alphabetical-order/d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://techterminologies.com/it/alphabetical-order/d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://techterminologies.com/de/alphabetical-order/d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://techterminologies.com/ko/alphabetical-order/d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techterminologies.com/alphabetical-order/d/"
+                />
+  </url><url>
+    <loc>https://techterminologies.com/definitions/digital-rights-management-drm/</loc>
+    <lastmod>2022-12-24T08:23:21-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
+    <lastmod>2022-12-23T08:44:54-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://techterminologies.com/pt/authors/marvin-kaufman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://techterminologies.com/es/authors/marvin-kaufman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://techterminologies.com/zh-cn/authors/marvin-kaufman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://techterminologies.com/ja/authors/marvin-kaufman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://techterminologies.com/ru/authors/marvin-kaufman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://techterminologies.com/fr/authors/marvin-kaufman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://techterminologies.com/it/authors/marvin-kaufman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://techterminologies.com/de/authors/marvin-kaufman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://techterminologies.com/ko/authors/marvin-kaufman/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techterminologies.com/authors/marvin-kaufman/"
                 />
   </url><url>
     <loc>https://techterminologies.com/alphabetical-order/r/</loc>
@@ -589,59 +969,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://techterminologies.com/authors/daniel-gonzales/"
-                />
-  </url><url>
-    <loc>https://techterminologies.com/topics/data-management-terms/</loc>
-    <lastmod>2022-12-23T08:06:32-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://techterminologies.com/pt/topics/data-management-terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://techterminologies.com/es/topics/data-management-terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://techterminologies.com/zh-cn/topics/data-management-terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://techterminologies.com/ja/topics/data-management-terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://techterminologies.com/ru/topics/data-management-terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://techterminologies.com/fr/topics/data-management-terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://techterminologies.com/it/topics/data-management-terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://techterminologies.com/de/topics/data-management-terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://techterminologies.com/ko/topics/data-management-terms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://techterminologies.com/topics/data-management-terms/"
                 />
   </url><url>
     <loc>https://techterminologies.com/definitions/raw-file-format/</loc>
@@ -915,59 +1242,6 @@
     <loc>https://techterminologies.com/definitions/open-database-connectivity-odbc/</loc>
     <lastmod>2022-12-22T11:56:20-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/eli-roy/</loc>
-    <lastmod>2022-12-22T11:33:20-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://techterminologies.com/pt/authors/eli-roy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://techterminologies.com/es/authors/eli-roy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://techterminologies.com/zh-cn/authors/eli-roy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://techterminologies.com/ja/authors/eli-roy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://techterminologies.com/ru/authors/eli-roy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://techterminologies.com/fr/authors/eli-roy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://techterminologies.com/it/authors/eli-roy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://techterminologies.com/de/authors/eli-roy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://techterminologies.com/ko/authors/eli-roy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://techterminologies.com/authors/eli-roy/"
-                />
-  </url><url>
     <loc>https://techterminologies.com/alphabetical-order/k/</loc>
     <lastmod>2022-12-22T11:33:20-03:00</lastmod>
     <xhtml:link
@@ -1024,112 +1298,6 @@
     <loc>https://techterminologies.com/definitions/keylogger/</loc>
     <lastmod>2022-12-22T11:33:20-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/edward-martel/</loc>
-    <lastmod>2022-12-22T11:13:12-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://techterminologies.com/pt/authors/edward-martel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://techterminologies.com/es/authors/edward-martel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://techterminologies.com/zh-cn/authors/edward-martel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://techterminologies.com/ja/authors/edward-martel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://techterminologies.com/ru/authors/edward-martel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://techterminologies.com/fr/authors/edward-martel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://techterminologies.com/it/authors/edward-martel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://techterminologies.com/de/authors/edward-martel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://techterminologies.com/ko/authors/edward-martel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://techterminologies.com/authors/edward-martel/"
-                />
-  </url><url>
-    <loc>https://techterminologies.com/alphabetical-order/c/</loc>
-    <lastmod>2022-12-22T11:13:12-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://techterminologies.com/pt/alphabetical-order/c/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://techterminologies.com/es/alphabetical-order/c/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://techterminologies.com/zh-cn/alphabetical-order/c/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://techterminologies.com/ja/alphabetical-order/c/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://techterminologies.com/ru/alphabetical-order/c/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://techterminologies.com/fr/alphabetical-order/c/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://techterminologies.com/it/alphabetical-order/c/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://techterminologies.com/de/alphabetical-order/c/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://techterminologies.com/ko/alphabetical-order/c/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://techterminologies.com/alphabetical-order/c/"
-                />
-  </url><url>
     <loc>https://techterminologies.com/topics/technical-acronyms/</loc>
     <lastmod>2022-12-22T11:13:12-03:00</lastmod>
     <xhtml:link
@@ -1185,59 +1353,6 @@
   </url><url>
     <loc>https://techterminologies.com/definitions/command-line-interface-cli/</loc>
     <lastmod>2022-12-22T11:13:12-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
-    <lastmod>2022-12-22T10:40:16-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://techterminologies.com/pt/authors/adam-sabin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://techterminologies.com/es/authors/adam-sabin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://techterminologies.com/zh-cn/authors/adam-sabin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://techterminologies.com/ja/authors/adam-sabin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://techterminologies.com/ru/authors/adam-sabin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://techterminologies.com/fr/authors/adam-sabin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://techterminologies.com/it/authors/adam-sabin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://techterminologies.com/de/authors/adam-sabin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://techterminologies.com/ko/authors/adam-sabin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://techterminologies.com/authors/adam-sabin/"
-                />
   </url><url>
     <loc>https://techterminologies.com/alphabetical-order/g/</loc>
     <lastmod>2022-12-22T10:40:16-03:00</lastmod>
@@ -1474,59 +1589,6 @@
   </url><url>
     <loc>https://techterminologies.com/definitions/garbage-collection/</loc>
     <lastmod>2022-12-21T20:24:14-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/alphabetical-order/d/</loc>
-    <lastmod>2022-12-21T20:13:53-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://techterminologies.com/pt/alphabetical-order/d/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://techterminologies.com/es/alphabetical-order/d/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://techterminologies.com/zh-cn/alphabetical-order/d/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://techterminologies.com/ja/alphabetical-order/d/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://techterminologies.com/ru/alphabetical-order/d/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://techterminologies.com/fr/alphabetical-order/d/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://techterminologies.com/it/alphabetical-order/d/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://techterminologies.com/de/alphabetical-order/d/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://techterminologies.com/ko/alphabetical-order/d/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://techterminologies.com/alphabetical-order/d/"
-                />
   </url><url>
     <loc>https://techterminologies.com/definitions/directx/</loc>
     <lastmod>2022-12-21T20:13:53-03:00</lastmod>
@@ -1931,59 +1993,6 @@
   </url><url>
     <loc>https://techterminologies.com/definitions/nosql/</loc>
     <lastmod>2022-12-21T15:47:16-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/alphabetical-order/m/</loc>
-    <lastmod>2022-12-21T15:21:54-03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="https://techterminologies.com/pt/alphabetical-order/m/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://techterminologies.com/es/alphabetical-order/m/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://techterminologies.com/zh-cn/alphabetical-order/m/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://techterminologies.com/ja/alphabetical-order/m/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://techterminologies.com/ru/alphabetical-order/m/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://techterminologies.com/fr/alphabetical-order/m/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://techterminologies.com/it/alphabetical-order/m/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://techterminologies.com/de/alphabetical-order/m/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://techterminologies.com/ko/alphabetical-order/m/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://techterminologies.com/alphabetical-order/m/"
-                />
   </url><url>
     <loc>https://techterminologies.com/definitions/meme/</loc>
     <lastmod>2022-12-21T15:21:54-03:00</lastmod>

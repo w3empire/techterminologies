@@ -6,7 +6,34 @@
     <description>Recent content in Tech Terminologies — 10000&#43; Tech Term Definitions, Explanations and Examples on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Dec 2022 08:44:52 -0300</lastBuildDate><atom:link href="https://techterminologies.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Dec 2022 09:03:12 -0300</lastBuildDate><atom:link href="https://techterminologies.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Compression (Data Compression)?</title>
+      <link>https://techterminologies.com/definitions/compression/</link>
+      <pubDate>Sat, 24 Dec 2022 09:03:12 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/compression/</guid>
+      <description>Data compression is a technique used to represent data in a more compact form in order to reduce the amount of storage space required or to transmit the data more efficiently over a network.</description>
+    </item>
+    
+    <item>
+      <title>What is Metadata?</title>
+      <link>https://techterminologies.com/definitions/metadata/</link>
+      <pubDate>Sat, 24 Dec 2022 08:39:45 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/metadata/</guid>
+      <description>The term &amp;ldquo;metadata&amp;rdquo; refers to any data that contains information about other types of data.</description>
+    </item>
+    
+    <item>
+      <title>What is DRM (Digital Rights Management)?</title>
+      <link>https://techterminologies.com/definitions/digital-rights-management-drm/</link>
+      <pubDate>Sat, 24 Dec 2022 08:23:20 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/digital-rights-management-drm/</guid>
+      <description>Digital rights management (DRM) is a technology used to protect digital content and prevent unauthorized access, copying, or distribution.</description>
+    </item>
+    
     <item>
       <title>What is a Raster File Format (Raster Images)?</title>
       <link>https://techterminologies.com/definitions/raster-file-format/</link>
