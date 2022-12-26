@@ -6,7 +6,34 @@
     <description>Recent content in The Complete List of All Tech Terminologies and Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Dec 2022 10:33:50 -0300</lastBuildDate><atom:link href="https://techterminologies.com/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 09:05:04 -0300</lastBuildDate><atom:link href="https://techterminologies.com/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Swap File?</title>
+      <link>https://techterminologies.com/definitions/swap-file/</link>
+      <pubDate>Mon, 26 Dec 2022 09:05:04 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/swap-file/</guid>
+      <description>A swap file, also known as a swap space or a paging file, is a space on a hard drive or other storage device that is used to store data temporarily when the system&amp;rsquo;s main memory (RAM) becomes full.</description>
+    </item>
+    
+    <item>
+      <title>What is PostScript?</title>
+      <link>https://techterminologies.com/definitions/postscript/</link>
+      <pubDate>Mon, 26 Dec 2022 08:51:49 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/postscript/</guid>
+      <description>PostScript is a programming language and page description language used mainly in the printing and desktop publishing industries.</description>
+    </item>
+    
+    <item>
+      <title>What is a Page Layout?</title>
+      <link>https://techterminologies.com/definitions/page-layout/</link>
+      <pubDate>Mon, 26 Dec 2022 08:32:29 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/page-layout/</guid>
+      <description>Page layout refers to the organization and formatting of elements on a page, such as text, images, and other media, in a way that is aesthetically pleasing and consistent.</description>
+    </item>
+    
     <item>
       <title>What is Document Grinding?</title>
       <link>https://techterminologies.com/definitions/document-grinding/</link>

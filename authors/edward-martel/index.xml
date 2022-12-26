@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Edward Martel on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Dec 2022 08:39:45 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/edward-martel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 09:05:04 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/edward-martel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Swap File?</title>
+      <link>https://techterminologies.com/definitions/swap-file/</link>
+      <pubDate>Mon, 26 Dec 2022 09:05:04 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/swap-file/</guid>
+      <description>A swap file, also known as a swap space or a paging file, is a space on a hard drive or other storage device that is used to store data temporarily when the system&amp;rsquo;s main memory (RAM) becomes full.</description>
+    </item>
+    
     <item>
       <title>What is Metadata?</title>
       <link>https://techterminologies.com/definitions/metadata/</link>
