@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Willie Dillon on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Dec 2022 10:08:12 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/willie-dillon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Dec 2022 10:06:10 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/willie-dillon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is WAVE (Waveform Audio File Format)?</title>
+      <link>https://techterminologies.com/definitions/wave/</link>
+      <pubDate>Tue, 27 Dec 2022 10:06:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/wave/</guid>
+      <description>Waveform Audio File Format, or WAVE, also known as WAV due to its file extension, is a digital audio file format that stores high-quality audio recordings with lossless quality.</description>
+    </item>
+    
     <item>
       <title>What is a Batch File?</title>
       <link>https://techterminologies.com/definitions/batch-file/</link>
