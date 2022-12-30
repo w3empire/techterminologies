@@ -6,7 +6,16 @@
     <description>Recent content in Articles by John Graham on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Dec 2022 10:33:50 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/john-graham/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 20:33:29 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/john-graham/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is CDFS (Compact Disc File System)?</title>
+      <link>https://techterminologies.com/definitions/compact-disc-file-system-cdfs/</link>
+      <pubDate>Thu, 29 Dec 2022 20:33:29 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/compact-disc-file-system-cdfs/</guid>
+      <description>The Compact Disc File System, also known as CDFS, is a file system used to store and access data on a compact disc.</description>
+    </item>
+    
     <item>
       <title>What is Document Grinding?</title>
       <link>https://techterminologies.com/definitions/document-grinding/</link>
