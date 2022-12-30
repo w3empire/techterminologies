@@ -6,11 +6,20 @@
     <description>Recent content in Browse all tech terms topics on TechTerminologies on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Dec 2022 21:27:28 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2022 11:45:10 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Complete List of Hardware Terms And Their Definitions</title>
+      <link>https://techterminologies.com/topics/hardware-terms/</link>
+      <pubDate>Fri, 30 Dec 2022 11:45:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/topics/hardware-terms/</guid>
+      <description>Hardware terms refer to the physical components of a computer system or device.</description>
+    </item>
+    
     <item>
       <title>The Complete List of Data Management Terms And Their Definitions</title>
       <link>https://techterminologies.com/topics/data-management-terms/</link>
-      <pubDate>Thu, 29 Dec 2022 21:27:28 -0300</pubDate>
+      <pubDate>Fri, 30 Dec 2022 10:53:57 -0300</pubDate>
       
       <guid>https://techterminologies.com/topics/data-management-terms/</guid>
       <description>Data management in the context of computer technology refers to the various processes and technologies used to store, organize, and manipulate data within a computer system.</description>
@@ -19,7 +28,7 @@
     <item>
       <title>The Complete List of File Format Terms And Their Definitions</title>
       <link>https://techterminologies.com/topics/file-format-terms/</link>
-      <pubDate>Thu, 29 Dec 2022 21:27:28 -0300</pubDate>
+      <pubDate>Fri, 30 Dec 2022 10:53:57 -0300</pubDate>
       
       <guid>https://techterminologies.com/topics/file-format-terms/</guid>
       <description>File formats refer to the specific ways in which digital information is structured and stored on a computer or other electronic device.</description>
@@ -77,15 +86,6 @@
       
       <guid>https://techterminologies.com/topics/networking-terms/</guid>
       <description>Networking terms are the words and ideas used in computer networking, which is the process of linking computers and other devices together so they can share information and resources.</description>
-    </item>
-    
-    <item>
-      <title>The Complete List of Hardware Terms And Their Definitions</title>
-      <link>https://techterminologies.com/topics/hardware-terms/</link>
-      <pubDate>Tue, 20 Dec 2022 20:07:35 -0300</pubDate>
-      
-      <guid>https://techterminologies.com/topics/hardware-terms/</guid>
-      <description>Hardware terms refer to the physical components of a computer system or device.</description>
     </item>
     
   </channel>
