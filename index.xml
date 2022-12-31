@@ -6,7 +6,34 @@
     <description>Recent content in Tech Terminologies — 10000&#43; Tech Term Definitions, Explanations and Examples on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Dec 2022 11:45:10 -0300</lastBuildDate><atom:link href="https://techterminologies.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 17:42:20 -0300</lastBuildDate><atom:link href="https://techterminologies.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is x86?</title>
+      <link>https://techterminologies.com/definitions/x86/</link>
+      <pubDate>Sat, 31 Dec 2022 17:42:20 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/x86/</guid>
+      <description>x86 is a term that refers to a family of microprocessors that are used in a wide range of devices, including personal computers, servers, and embedded systems.</description>
+    </item>
+    
+    <item>
+      <title>What is x64 (64-bit Processor Architecture)?</title>
+      <link>https://techterminologies.com/definitions/64-bit-processor-architecture-x64/</link>
+      <pubDate>Sat, 31 Dec 2022 17:08:34 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/64-bit-processor-architecture-x64/</guid>
+      <description>x64, commonly referred to as x86-64 or AMD64, is a 64-bit version of the x86 instruction set architecture (ISA).</description>
+    </item>
+    
+    <item>
+      <title>What is a Webcam?</title>
+      <link>https://techterminologies.com/definitions/webcam/</link>
+      <pubDate>Sat, 31 Dec 2022 16:00:02 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/webcam/</guid>
+      <description>A webcam is a digital video camera that is connected to a computer or computer network, allowing it to transmit real-time video footage to a remote location.</description>
+    </item>
+    
     <item>
       <title>What is a DisplayPort?</title>
       <link>https://techterminologies.com/definitions/displayport/</link>

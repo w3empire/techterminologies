@@ -6,7 +6,16 @@
     <description>Recent content in Articles by John Graham on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Dec 2022 20:33:29 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/john-graham/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Dec 2022 17:08:34 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/john-graham/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is x64 (64-bit Processor Architecture)?</title>
+      <link>https://techterminologies.com/definitions/64-bit-processor-architecture-x64/</link>
+      <pubDate>Sat, 31 Dec 2022 17:08:34 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/64-bit-processor-architecture-x64/</guid>
+      <description>x64, commonly referred to as x86-64 or AMD64, is a 64-bit version of the x86 instruction set architecture (ISA).</description>
+    </item>
+    
     <item>
       <title>What is CDFS (Compact Disc File System)?</title>
       <link>https://techterminologies.com/definitions/compact-disc-file-system-cdfs/</link>

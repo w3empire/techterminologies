@@ -744,6 +744,58 @@
                 href="https://techterminologies.com/pt/definitions/address-of-operator/"
                 />
   </url><url>
+    <loc>https://techterminologies.com/pt/topics/cybersecurity/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://techterminologies.com/topics/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://techterminologies.com/es/topics/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://techterminologies.com/zh-cn/topics/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://techterminologies.com/ja/topics/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://techterminologies.com/ru/topics/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://techterminologies.com/fr/topics/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://techterminologies.com/it/topics/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://techterminologies.com/de/topics/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://techterminologies.com/ko/topics/cybersecurity/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="https://techterminologies.com/pt/topics/cybersecurity/"
+                />
+  </url><url>
     <loc>https://techterminologies.com/pt/alphabetical-order/x/</loc>
     <xhtml:link
                 rel="alternate"
