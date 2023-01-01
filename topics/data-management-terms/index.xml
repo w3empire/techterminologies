@@ -6,7 +6,25 @@
     <description>Recent content in The Complete List of Data Management Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Dec 2022 10:53:57 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 17:03:47 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is SATA (Serial ATA)?</title>
+      <link>https://techterminologies.com/definitions/sata/</link>
+      <pubDate>Sun, 01 Jan 2023 17:03:47 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/sata/</guid>
+      <description>Serial ATA (SATA) is a computer bus interface that connects host bus adapters to mass storage devices such as hard drives and optical drives.</description>
+    </item>
+    
+    <item>
+      <title>What is Ultra DMA (Ultra Direct Memory Access)?</title>
+      <link>https://techterminologies.com/definitions/ultra-direct-memory-access-udma/</link>
+      <pubDate>Sun, 01 Jan 2023 16:45:34 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/ultra-direct-memory-access-udma/</guid>
+      <description>Ultra DMA (Ultra Direct Memory Access) is a data transfer technology used in computers to improve the speed of data transfer between the computer&amp;rsquo;s hard disk drive and the system memory.</description>
+    </item>
+    
     <item>
       <title>What is Torrent?</title>
       <link>https://techterminologies.com/definitions/torrent/</link>

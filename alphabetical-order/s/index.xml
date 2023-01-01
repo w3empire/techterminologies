@@ -6,7 +6,16 @@
     <description>Recent content in The complete list of tech terms starting with the letter &#39;S&#39; on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Dec 2022 09:05:04 -0300</lastBuildDate><atom:link href="https://techterminologies.com/alphabetical-order/s/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 17:03:47 -0300</lastBuildDate><atom:link href="https://techterminologies.com/alphabetical-order/s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is SATA (Serial ATA)?</title>
+      <link>https://techterminologies.com/definitions/sata/</link>
+      <pubDate>Sun, 01 Jan 2023 17:03:47 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/sata/</guid>
+      <description>Serial ATA (SATA) is a computer bus interface that connects host bus adapters to mass storage devices such as hard drives and optical drives.</description>
+    </item>
+    
     <item>
       <title>What is a Swap File?</title>
       <link>https://techterminologies.com/definitions/swap-file/</link>
