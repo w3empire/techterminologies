@@ -6,7 +6,16 @@
     <description>Recent content in Articles by John Graham on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Dec 2022 17:08:34 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/john-graham/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Jan 2023 13:15:12 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/john-graham/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Open Source?</title>
+      <link>https://techterminologies.com/definitions/open-source/</link>
+      <pubDate>Mon, 02 Jan 2023 13:15:12 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/open-source/</guid>
+      <description>Open source refers to a type of software whose source code is available to the public, meaning that anyone can view and modify the code.</description>
+    </item>
+    
     <item>
       <title>What is x64 (64-bit Processor Architecture)?</title>
       <link>https://techterminologies.com/definitions/64-bit-processor-architecture-x64/</link>
