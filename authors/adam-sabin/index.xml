@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Adam Sabin on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jan 2023 16:21:26 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jan 2023 13:46:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Portable Application?</title>
+      <link>https://techterminologies.com/definitions/portable-application/</link>
+      <pubDate>Tue, 03 Jan 2023 13:46:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/portable-application/</guid>
+      <description>A portable application is a software program that is designed to be easily transferred from one computer to another and run on any compatible device without the need for installation or setup.</description>
+    </item>
+    
     <item>
       <title>What is ZIF (Zero Insertion Force)?</title>
       <link>https://techterminologies.com/definitions/zero-insertion-force-zif/</link>
