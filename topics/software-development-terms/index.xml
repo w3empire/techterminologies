@@ -6,7 +6,34 @@
     <description>Recent content in The Complete List of Software Development Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Jan 2023 14:31:21 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/software-development-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 17:36:03 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/software-development-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Trojan (Trojan Horse)?</title>
+      <link>https://techterminologies.com/definitions/trojan-horse/</link>
+      <pubDate>Wed, 04 Jan 2023 17:36:03 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/trojan-horse/</guid>
+      <description>A Trojan horse, or Trojan, is a type of malicious software that is designed to deceive users into believing it is legitimate while actually performing undesirable or harmful actions on their systems.</description>
+    </item>
+    
+    <item>
+      <title>What is a Terminal?</title>
+      <link>https://techterminologies.com/definitions/terminal/</link>
+      <pubDate>Wed, 04 Jan 2023 14:33:12 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/terminal/</guid>
+      <description>The Terminal, also known as the command line or command prompt, is a powerful tool for interacting with your computer&amp;rsquo;s operating system.</description>
+    </item>
+    
+    <item>
+      <title>What is PowerShell?</title>
+      <link>https://techterminologies.com/definitions/powershell/</link>
+      <pubDate>Wed, 04 Jan 2023 13:55:00 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/powershell/</guid>
+      <description>PowerShell is a task automation and configuration management framework developed by Microsoft, consisting of a command-line shell and an associated scripting language.</description>
+    </item>
+    
     <item>
       <title>What is a Standalone App?</title>
       <link>https://techterminologies.com/definitions/standalone-app/</link>

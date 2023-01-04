@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Eli Roy on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jan 2023 17:03:47 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jan 2023 13:55:00 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is PowerShell?</title>
+      <link>https://techterminologies.com/definitions/powershell/</link>
+      <pubDate>Wed, 04 Jan 2023 13:55:00 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/powershell/</guid>
+      <description>PowerShell is a task automation and configuration management framework developed by Microsoft, consisting of a command-line shell and an associated scripting language.</description>
+    </item>
+    
     <item>
       <title>What is SATA (Serial ATA)?</title>
       <link>https://techterminologies.com/definitions/sata/</link>
