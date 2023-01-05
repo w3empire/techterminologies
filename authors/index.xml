@@ -6,7 +6,25 @@
     <description>Recent content in List of all contributors who write for the TechTerminologies website on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Jan 2023 17:36:03 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jan 2023 06:09:09 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles by Marvin Kaufman</title>
+      <link>https://techterminologies.com/authors/marvin-kaufman/</link>
+      <pubDate>Thu, 05 Jan 2023 06:09:09 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/authors/marvin-kaufman/</guid>
+      <description>Marvin is a seasoned computer science professional with expertise in a wide range of technologies and platforms.</description>
+    </item>
+    
+    <item>
+      <title>Articles by John Graham</title>
+      <link>https://techterminologies.com/authors/john-graham/</link>
+      <pubDate>Thu, 05 Jan 2023 05:13:31 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/authors/john-graham/</guid>
+      <description>John is a digital evangelist and computer scientist with a keen interest in improving cybersecurity and how search engines work.</description>
+    </item>
+    
     <item>
       <title>Articles by Daniel Gonzales</title>
       <link>https://techterminologies.com/authors/daniel-gonzales/</link>
@@ -50,24 +68,6 @@
       
       <guid>https://techterminologies.com/authors/adam-sabin/</guid>
       <description>Adam is a tech-savvy individual with a degree in computer science.</description>
-    </item>
-    
-    <item>
-      <title>Articles by Marvin Kaufman</title>
-      <link>https://techterminologies.com/authors/marvin-kaufman/</link>
-      <pubDate>Tue, 03 Jan 2023 13:29:30 -0300</pubDate>
-      
-      <guid>https://techterminologies.com/authors/marvin-kaufman/</guid>
-      <description>Marvin is a seasoned computer science professional with expertise in a wide range of technologies and platforms.</description>
-    </item>
-    
-    <item>
-      <title>Articles by John Graham</title>
-      <link>https://techterminologies.com/authors/john-graham/</link>
-      <pubDate>Mon, 02 Jan 2023 13:15:12 -0300</pubDate>
-      
-      <guid>https://techterminologies.com/authors/john-graham/</guid>
-      <description>John is a digital evangelist and computer scientist with a keen interest in improving cybersecurity and how search engines work.</description>
     </item>
     
   </channel>
