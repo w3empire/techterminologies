@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Adam Sabin on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Jan 2023 13:46:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 12:09:58 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is CEH (Certified Ethical Hacker)?</title>
+      <link>https://techterminologies.com/definitions/certified-ethical-hacker-ceh/</link>
+      <pubDate>Fri, 06 Jan 2023 12:09:58 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/certified-ethical-hacker-ceh/</guid>
+      <description>A Certified Ethical Hacker (CEH) is a professional who understands and knows how to find vulnerabilities and weaknesses in target systems and uses the same knowledge and tools as a malicious hacker, but instead using their skills and knowledge in a lawful and ethical manner to assess the security of target systems.</description>
+    </item>
+    
     <item>
       <title>What is a Portable Application?</title>
       <link>https://techterminologies.com/definitions/portable-application/</link>

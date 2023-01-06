@@ -6,7 +6,34 @@
     <description>Recent content in The Complete List of Cybersecurity Terms and Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jan 2023 06:09:09 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 12:47:10 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is E2EE (End-to-end encryption)?</title>
+      <link>https://techterminologies.com/definitions/end-to-end-encryption-e2ee/</link>
+      <pubDate>Fri, 06 Jan 2023 12:47:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/end-to-end-encryption-e2ee/</guid>
+      <description>End-to-end encryption (E2EE) is a method of transmitting data where only the sender and the intended recipient can read the messages.</description>
+    </item>
+    
+    <item>
+      <title>What is APT (Advanced Persistent Threat)?</title>
+      <link>https://techterminologies.com/definitions/advanced-persistent-threat-apt/</link>
+      <pubDate>Fri, 06 Jan 2023 12:29:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/advanced-persistent-threat-apt/</guid>
+      <description>An Advanced Persistent Threat (APT) is a type of cyberattack that is typically launched by a nation-state or other highly organized and funded group.</description>
+    </item>
+    
+    <item>
+      <title>What is CEH (Certified Ethical Hacker)?</title>
+      <link>https://techterminologies.com/definitions/certified-ethical-hacker-ceh/</link>
+      <pubDate>Fri, 06 Jan 2023 12:09:58 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/certified-ethical-hacker-ceh/</guid>
+      <description>A Certified Ethical Hacker (CEH) is a professional who understands and knows how to find vulnerabilities and weaknesses in target systems and uses the same knowledge and tools as a malicious hacker, but instead using their skills and knowledge in a lawful and ethical manner to assess the security of target systems.</description>
+    </item>
+    
     <item>
       <title>What is a Malicious Software?</title>
       <link>https://techterminologies.com/definitions/malicious-software/</link>

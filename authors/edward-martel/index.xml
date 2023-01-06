@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Edward Martel on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Jan 2023 14:31:21 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/edward-martel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Jan 2023 12:29:32 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/edward-martel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is APT (Advanced Persistent Threat)?</title>
+      <link>https://techterminologies.com/definitions/advanced-persistent-threat-apt/</link>
+      <pubDate>Fri, 06 Jan 2023 12:29:32 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/advanced-persistent-threat-apt/</guid>
+      <description>An Advanced Persistent Threat (APT) is a type of cyberattack that is typically launched by a nation-state or other highly organized and funded group.</description>
+    </item>
+    
     <item>
       <title>What is a Standalone App?</title>
       <link>https://techterminologies.com/definitions/standalone-app/</link>
