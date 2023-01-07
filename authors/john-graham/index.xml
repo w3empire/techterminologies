@@ -6,7 +6,16 @@
     <description>Recent content in Articles by John Graham on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jan 2023 05:13:31 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/john-graham/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 07:49:54 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/john-graham/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Data in Use?</title>
+      <link>https://techterminologies.com/definitions/data-in-use/</link>
+      <pubDate>Sat, 07 Jan 2023 07:49:54 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/data-in-use/</guid>
+      <description>Data in use refers to data that is actively being accessed and processed by a computer or device for a specific purpose.</description>
+    </item>
+    
     <item>
       <title>What is UML (Unified Modeling Language)?</title>
       <link>https://techterminologies.com/definitions/unified-modeling-language-uml/</link>

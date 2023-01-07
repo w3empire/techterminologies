@@ -6,7 +6,34 @@
     <description>Recent content in The Complete List of All Tech Terminologies and Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Jan 2023 12:47:10 -0300</lastBuildDate><atom:link href="https://techterminologies.com/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 07:49:54 -0300</lastBuildDate><atom:link href="https://techterminologies.com/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Data in Use?</title>
+      <link>https://techterminologies.com/definitions/data-in-use/</link>
+      <pubDate>Sat, 07 Jan 2023 07:49:54 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/data-in-use/</guid>
+      <description>Data in use refers to data that is actively being accessed and processed by a computer or device for a specific purpose.</description>
+    </item>
+    
+    <item>
+      <title>What is Shift Left Testing?</title>
+      <link>https://techterminologies.com/definitions/shift-left-testing/</link>
+      <pubDate>Sat, 07 Jan 2023 07:22:58 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/shift-left-testing/</guid>
+      <description>Shift left testing is a software testing approach that involves shifting testing activities to earlier stages of the software development process.</description>
+    </item>
+    
+    <item>
+      <title>What is Digital Forensics?</title>
+      <link>https://techterminologies.com/definitions/digital-forensics/</link>
+      <pubDate>Sat, 07 Jan 2023 07:00:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/digital-forensics/</guid>
+      <description>Digital forensics is the practice of identifying, preserving, analyzing, and presenting digital evidence in a manner that is legally admissible.</description>
+    </item>
+    
     <item>
       <title>What is E2EE (End-to-end encryption)?</title>
       <link>https://techterminologies.com/definitions/end-to-end-encryption-e2ee/</link>

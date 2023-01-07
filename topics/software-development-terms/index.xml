@@ -6,7 +6,16 @@
     <description>Recent content in The Complete List of Software Development Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jan 2023 05:13:31 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/software-development-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jan 2023 07:22:58 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/software-development-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Shift Left Testing?</title>
+      <link>https://techterminologies.com/definitions/shift-left-testing/</link>
+      <pubDate>Sat, 07 Jan 2023 07:22:58 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/shift-left-testing/</guid>
+      <description>Shift left testing is a software testing approach that involves shifting testing activities to earlier stages of the software development process.</description>
+    </item>
+    
     <item>
       <title>What is UML (Unified Modeling Language)?</title>
       <link>https://techterminologies.com/definitions/unified-modeling-language-uml/</link>
