@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Adam Sabin on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Jan 2023 12:09:58 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 09:13:29 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is MFA (Multi-Factor Authentication)?</title>
+      <link>https://techterminologies.com/definitions/multi-factor-authentication-mfa/</link>
+      <pubDate>Sun, 08 Jan 2023 09:13:29 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/multi-factor-authentication-mfa/</guid>
+      <description>Multi-Factor Authentication (MFA) is a security process that requires users to provide multiple pieces of evidence (or &amp;ldquo;factors&amp;rdquo;) to verify their identity before they can access a system or perform a task.</description>
+    </item>
+    
     <item>
       <title>What is CEH (Certified Ethical Hacker)?</title>
       <link>https://techterminologies.com/definitions/certified-ethical-hacker-ceh/</link>

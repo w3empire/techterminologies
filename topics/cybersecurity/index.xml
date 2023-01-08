@@ -6,7 +6,34 @@
     <description>Recent content in The Complete List of Cybersecurity Terms and Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Jan 2023 07:49:54 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Jan 2023 09:31:05 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a PIN (Personal Identification Number)?</title>
+      <link>https://techterminologies.com/definitions/personal-identification-number-pin/</link>
+      <pubDate>Sun, 08 Jan 2023 09:31:05 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/personal-identification-number-pin/</guid>
+      <description>A Personal Identification Number, or PIN, is a numerical code used to authenticate a user&amp;rsquo;s identity and protect against unauthorized access.</description>
+    </item>
+    
+    <item>
+      <title>What is MFA (Multi-Factor Authentication)?</title>
+      <link>https://techterminologies.com/definitions/multi-factor-authentication-mfa/</link>
+      <pubDate>Sun, 08 Jan 2023 09:13:29 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/multi-factor-authentication-mfa/</guid>
+      <description>Multi-Factor Authentication (MFA) is a security process that requires users to provide multiple pieces of evidence (or &amp;ldquo;factors&amp;rdquo;) to verify their identity before they can access a system or perform a task.</description>
+    </item>
+    
+    <item>
+      <title>What is Cloud Security Control?</title>
+      <link>https://techterminologies.com/definitions/cloud-security-control/</link>
+      <pubDate>Sun, 08 Jan 2023 08:43:06 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/cloud-security-control/</guid>
+      <description>Cloud security controls refer to the measures that organizations put in place to ensure the security and integrity of their data and systems when using cloud computing services.</description>
+    </item>
+    
     <item>
       <title>What is Data in Use?</title>
       <link>https://techterminologies.com/definitions/data-in-use/</link>
