@@ -6,7 +6,43 @@
     <description>Recent content in Tech Terminologies — 10000&#43; Tech Term Definitions, Explanations and Examples on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Jan 2023 05:59:44 -0300</lastBuildDate><atom:link href="https://techterminologies.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 07:03:53 -0300</lastBuildDate><atom:link href="https://techterminologies.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Run-length Encoding?</title>
+      <link>https://techterminologies.com/definitions/run-length-encoding/</link>
+      <pubDate>Tue, 10 Jan 2023 07:03:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/run-length-encoding/</guid>
+      <description>Run-length encoding is a simple method of compressing data by identifying and replacing repeated sequences of identical data with a single instance of that data, along with a count of how many times it appears in the original file.</description>
+    </item>
+    
+    <item>
+      <title>What is an Orphan File?</title>
+      <link>https://techterminologies.com/definitions/orphan-file/</link>
+      <pubDate>Tue, 10 Jan 2023 06:39:46 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/orphan-file/</guid>
+      <description>An orphan file, also known as a &amp;ldquo;stray file,&amp;rdquo; is a type of computer file that has been separated from its associated data or metadata.</description>
+    </item>
+    
+    <item>
+      <title>What is a Compressed File?</title>
+      <link>https://techterminologies.com/definitions/compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 06:03:31 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/compressed-file/</guid>
+      <description>A compressed file is a type of data file that has had its size reduced through a process known as data compression.</description>
+    </item>
+    
+    <item>
+      <title>What is the Binary Format?</title>
+      <link>https://techterminologies.com/definitions/binary-format/</link>
+      <pubDate>Tue, 10 Jan 2023 05:20:46 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/binary-format/</guid>
+      <description>The binary format is a method of encoding data in a computer system using only two values, typically represented as 0 and 1.</description>
+    </item>
+    
     <item>
       <title>What is a Binary File?</title>
       <link>https://techterminologies.com/definitions/binary-file/</link>

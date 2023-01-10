@@ -2,25 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://techterminologies.com/authors/daniel-gonzales/</loc>
-    <lastmod>2023-01-09T05:59:45-03:00</lastmod>
+    <loc>https://techterminologies.com/authors/edward-martel/</loc>
+    <lastmod>2023-01-10T07:03:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/</loc>
-    <lastmod>2023-01-09T05:59:45-03:00</lastmod>
+    <lastmod>2023-01-10T07:03:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/authors/</loc>
-    <lastmod>2023-01-09T05:59:45-03:00</lastmod>
+    <lastmod>2023-01-10T07:03:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/</loc>
-    <lastmod>2023-01-09T05:59:45-03:00</lastmod>
+    <lastmod>2023-01-10T07:03:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/</loc>
-    <lastmod>2023-01-09T05:59:45-03:00</lastmod>
+    <lastmod>2023-01-10T07:03:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/data-management-terms/</loc>
-    <lastmod>2023-01-09T05:59:45-03:00</lastmod>
+    <lastmod>2023-01-10T07:03:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/file-format-terms/</loc>
+    <lastmod>2023-01-10T07:03:55-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/software-terms/</loc>
+    <lastmod>2023-01-10T07:03:55-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/run-length-encoding/</loc>
+    <lastmod>2023-01-10T07:03:55-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
+    <lastmod>2023-01-10T06:39:48-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/orphan-file/</loc>
+    <lastmod>2023-01-10T06:39:48-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
+    <lastmod>2023-01-10T06:03:32-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/compressed-file/</loc>
+    <lastmod>2023-01-10T06:03:32-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/john-graham/</loc>
+    <lastmod>2023-01-10T05:20:48-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/binary-format/</loc>
+    <lastmod>2023-01-10T05:20:48-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/daniel-gonzales/</loc>
     <lastmod>2023-01-09T05:59:45-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/binary-file/</loc>
@@ -38,17 +65,11 @@
     <loc>https://techterminologies.com/definitions/file-extension/</loc>
     <lastmod>2023-01-09T04:52:04-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/edward-martel/</loc>
-    <lastmod>2023-01-08T09:31:07-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/topics/cybersecurity/</loc>
     <lastmod>2023-01-08T09:31:07-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/personal-identification-number-pin/</loc>
     <lastmod>2023-01-08T09:31:07-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
-    <lastmod>2023-01-08T09:13:31-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/technical-acronyms/</loc>
     <lastmod>2023-01-08T09:13:31-03:00</lastmod>
@@ -56,25 +77,16 @@
     <loc>https://techterminologies.com/definitions/multi-factor-authentication-mfa/</loc>
     <lastmod>2023-01-08T09:13:31-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
-    <lastmod>2023-01-08T08:43:08-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/topics/networking-terms/</loc>
     <lastmod>2023-01-08T08:43:08-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/cloud-security-control/</loc>
     <lastmod>2023-01-08T08:43:08-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/john-graham/</loc>
-    <lastmod>2023-01-07T07:49:56-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/data-in-use/</loc>
     <lastmod>2023-01-07T07:49:56-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/software-development-terms/</loc>
-    <lastmod>2023-01-07T07:23:00-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/topics/software-terms/</loc>
     <lastmod>2023-01-07T07:23:00-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/shift-left-testing/</loc>

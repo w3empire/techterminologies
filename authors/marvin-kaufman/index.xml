@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Marvin Kaufman on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2023 08:43:06 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jan 2023 06:03:31 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Compressed File?</title>
+      <link>https://techterminologies.com/definitions/compressed-file/</link>
+      <pubDate>Tue, 10 Jan 2023 06:03:31 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/compressed-file/</guid>
+      <description>A compressed file is a type of data file that has had its size reduced through a process known as data compression.</description>
+    </item>
+    
     <item>
       <title>What is Cloud Security Control?</title>
       <link>https://techterminologies.com/definitions/cloud-security-control/</link>
