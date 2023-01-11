@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Eli Roy on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jan 2023 03:51:50 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 16:26:19 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is QoS (Quality of Service)?</title>
+      <link>https://techterminologies.com/definitions/quality-of-service-qos/</link>
+      <pubDate>Wed, 11 Jan 2023 16:26:19 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/quality-of-service-qos/</guid>
+      <description>Quality of Service (QoS) refers to the capability of a network to provide better service to selected network traffic over various technologies.</description>
+    </item>
+    
     <item>
       <title>What is an IP subnet-based VLAN (Virtual Local Area Network)?</title>
       <link>https://techterminologies.com/definitions/ip-subnet-based-vlan/</link>

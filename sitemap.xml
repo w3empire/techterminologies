@@ -2,22 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://techterminologies.com/authors/daniel-gonzales/</loc>
-    <lastmod>2023-01-11T04:08:24-03:00</lastmod>
+    <loc>https://techterminologies.com/authors/eli-roy/</loc>
+    <lastmod>2023-01-11T16:26:22-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/</loc>
-    <lastmod>2023-01-11T04:08:24-03:00</lastmod>
+    <lastmod>2023-01-11T16:26:22-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/authors/</loc>
-    <lastmod>2023-01-11T04:08:24-03:00</lastmod>
+    <lastmod>2023-01-11T16:26:22-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/</loc>
-    <lastmod>2023-01-11T04:08:24-03:00</lastmod>
+    <lastmod>2023-01-11T16:26:22-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/</loc>
-    <lastmod>2023-01-11T04:08:24-03:00</lastmod>
+    <lastmod>2023-01-11T16:26:22-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/networking-terms/</loc>
+    <lastmod>2023-01-11T16:26:22-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/quality-of-service-qos/</loc>
+    <lastmod>2023-01-11T16:26:22-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/edward-martel/</loc>
+    <lastmod>2023-01-11T16:16:35-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/software-defined-wide-area-networking-sd-wan/</loc>
+    <lastmod>2023-01-11T16:16:35-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
+    <lastmod>2023-01-11T16:00:26-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/virtual-private-network-vpn/</loc>
+    <lastmod>2023-01-11T16:00:26-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
+    <lastmod>2023-01-11T15:49:52-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/multiprotocol-label-switching-mpls/</loc>
+    <lastmod>2023-01-11T15:49:52-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/john-graham/</loc>
+    <lastmod>2023-01-11T15:39:09-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/leased-line/</loc>
+    <lastmod>2023-01-11T15:39:09-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/daniel-gonzales/</loc>
     <lastmod>2023-01-11T04:08:24-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/private-wan-wide-area-network/</loc>
@@ -29,32 +59,17 @@
     <loc>https://techterminologies.com/definitions/public-wan-wide-area-network/</loc>
     <lastmod>2023-01-11T04:00:15-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/eli-roy/</loc>
-    <lastmod>2023-01-11T03:51:51-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/ip-subnet-based-vlan/</loc>
     <lastmod>2023-01-11T03:51:51-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/edward-martel/</loc>
-    <lastmod>2023-01-11T03:44:47-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/vlan-id/</loc>
     <lastmod>2023-01-11T03:44:47-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
-    <lastmod>2023-01-11T03:38:28-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/protocol-based-vlan/</loc>
     <lastmod>2023-01-11T03:38:28-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
-    <lastmod>2023-01-11T03:29:30-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/mac-based-vlan/</loc>
     <lastmod>2023-01-11T03:29:30-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/john-graham/</loc>
-    <lastmod>2023-01-11T03:20:26-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/port-based-vlan/</loc>
     <lastmod>2023-01-11T03:20:26-03:00</lastmod>

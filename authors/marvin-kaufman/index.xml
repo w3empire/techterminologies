@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Marvin Kaufman on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jan 2023 03:29:27 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 15:49:51 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is MPLS (Multiprotocol Label Switching)?</title>
+      <link>https://techterminologies.com/definitions/multiprotocol-label-switching-mpls/</link>
+      <pubDate>Wed, 11 Jan 2023 15:49:51 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/multiprotocol-label-switching-mpls/</guid>
+      <description>MPLS (Multiprotocol Label Switching) is a protocol for speeding up and shaping network traffic flow.</description>
+    </item>
+    
     <item>
       <title>What is a MAC-based VLAN (Virtual Local Area Network)?</title>
       <link>https://techterminologies.com/definitions/mac-based-vlan/</link>

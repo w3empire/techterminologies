@@ -6,7 +6,52 @@
     <description>Recent content in The Complete List of All Tech Terminologies and Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jan 2023 04:08:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 16:26:19 -0300</lastBuildDate><atom:link href="https://techterminologies.com/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is QoS (Quality of Service)?</title>
+      <link>https://techterminologies.com/definitions/quality-of-service-qos/</link>
+      <pubDate>Wed, 11 Jan 2023 16:26:19 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/quality-of-service-qos/</guid>
+      <description>Quality of Service (QoS) refers to the capability of a network to provide better service to selected network traffic over various technologies.</description>
+    </item>
+    
+    <item>
+      <title>What is a SD-WAN (Software-Defined Wide Area Networking)?</title>
+      <link>https://techterminologies.com/definitions/software-defined-wide-area-networking-sd-wan/</link>
+      <pubDate>Wed, 11 Jan 2023 16:16:34 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/software-defined-wide-area-networking-sd-wan/</guid>
+      <description>Software-Defined Wide Area Networking (SD-WAN) is a technology that allows businesses to improve the performance and security of their wide area network (WAN) connections by using software to control and direct network traffic.</description>
+    </item>
+    
+    <item>
+      <title>What is a VPN (Virtual Private Network)?</title>
+      <link>https://techterminologies.com/definitions/virtual-private-network-vpn/</link>
+      <pubDate>Wed, 11 Jan 2023 16:00:25 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/virtual-private-network-vpn/</guid>
+      <description>A virtual private network (VPN) is a technology that creates a secure, encrypted connection between a device and a network.</description>
+    </item>
+    
+    <item>
+      <title>What is MPLS (Multiprotocol Label Switching)?</title>
+      <link>https://techterminologies.com/definitions/multiprotocol-label-switching-mpls/</link>
+      <pubDate>Wed, 11 Jan 2023 15:49:51 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/multiprotocol-label-switching-mpls/</guid>
+      <description>MPLS (Multiprotocol Label Switching) is a protocol for speeding up and shaping network traffic flow.</description>
+    </item>
+    
+    <item>
+      <title>What is a Leased Line?</title>
+      <link>https://techterminologies.com/definitions/leased-line/</link>
+      <pubDate>Wed, 11 Jan 2023 15:39:07 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/leased-line/</guid>
+      <description>A &amp;ldquo;leased line&amp;rdquo; is a dedicated communication line that is rented by a customer from a telecommunications provider.</description>
+    </item>
+    
     <item>
       <title>What is a Private WAN (Wide Area Network)?</title>
       <link>https://techterminologies.com/definitions/private-wan-wide-area-network/</link>
