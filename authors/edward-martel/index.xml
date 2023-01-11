@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Edward Martel on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 07:03:53 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/edward-martel/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 03:44:37 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/edward-martel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a VLAN ID?</title>
+      <link>https://techterminologies.com/definitions/vlan-id/</link>
+      <pubDate>Wed, 11 Jan 2023 03:44:37 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/vlan-id/</guid>
+      <description>A VLAN (Virtual Local Area Network) ID is a 12-bit number used to identify a VLAN.</description>
+    </item>
+    
     <item>
       <title>What is Run-length Encoding?</title>
       <link>https://techterminologies.com/definitions/run-length-encoding/</link>

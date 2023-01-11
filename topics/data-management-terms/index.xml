@@ -6,7 +6,16 @@
     <description>Recent content in The Complete List of Data Management Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 07:03:53 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 02:49:35 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Trunk Port?</title>
+      <link>https://techterminologies.com/definitions/trunk-port/</link>
+      <pubDate>Wed, 11 Jan 2023 02:49:35 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/trunk-port/</guid>
+      <description>A trunk port is a network port that is capable of carrying traffic for multiple VLANs (Virtual Local Area Networks).</description>
+    </item>
+    
     <item>
       <title>What is Run-length Encoding?</title>
       <link>https://techterminologies.com/definitions/run-length-encoding/</link>

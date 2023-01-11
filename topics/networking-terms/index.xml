@@ -6,7 +6,97 @@
     <description>Recent content in The Complete List of Networking Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2023 08:43:06 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/networking-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 04:08:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/networking-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Private WAN (Wide Area Network)?</title>
+      <link>https://techterminologies.com/definitions/private-wan-wide-area-network/</link>
+      <pubDate>Wed, 11 Jan 2023 04:08:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/private-wan-wide-area-network/</guid>
+      <description>A private WAN (Wide Area Network) is a communications network that is owned and operated by a single organization.</description>
+    </item>
+    
+    <item>
+      <title>What is a Public WAN (Wide Area Network)?</title>
+      <link>https://techterminologies.com/definitions/public-wan-wide-area-network/</link>
+      <pubDate>Wed, 11 Jan 2023 04:00:13 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/public-wan-wide-area-network/</guid>
+      <description>A public wide area network (WAN) is a type of telecommunications network that is designed to connect multiple locations together over a large geographical area, such as a state or country.</description>
+    </item>
+    
+    <item>
+      <title>What is an IP subnet-based VLAN (Virtual Local Area Network)?</title>
+      <link>https://techterminologies.com/definitions/ip-subnet-based-vlan/</link>
+      <pubDate>Wed, 11 Jan 2023 03:51:50 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/ip-subnet-based-vlan/</guid>
+      <description>An IP subnet-based VLAN is a type of virtual LAN (VLAN) that is created based on the IP subnet of the hosts.</description>
+    </item>
+    
+    <item>
+      <title>What is a VLAN ID?</title>
+      <link>https://techterminologies.com/definitions/vlan-id/</link>
+      <pubDate>Wed, 11 Jan 2023 03:44:37 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/vlan-id/</guid>
+      <description>A VLAN (Virtual Local Area Network) ID is a 12-bit number used to identify a VLAN.</description>
+    </item>
+    
+    <item>
+      <title>What is a Protocol-based VLAN (Virtual Local Area Network)?</title>
+      <link>https://techterminologies.com/definitions/protocol-based-vlan/</link>
+      <pubDate>Wed, 11 Jan 2023 03:38:24 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/protocol-based-vlan/</guid>
+      <description>A protocol-based virtual LAN (VLAN) is a type of VLAN that is created based on the protocol category of the network traffic.</description>
+    </item>
+    
+    <item>
+      <title>What is a MAC-based VLAN (Virtual Local Area Network)?</title>
+      <link>https://techterminologies.com/definitions/mac-based-vlan/</link>
+      <pubDate>Wed, 11 Jan 2023 03:29:27 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/mac-based-vlan/</guid>
+      <description>A MAC-based VLAN is a type of virtual LAN (VLAN) that is created based on the MAC addresses of network devices.</description>
+    </item>
+    
+    <item>
+      <title>What is a Port-based VLAN (Virtual Local Area Network)?</title>
+      <link>https://techterminologies.com/definitions/port-based-vlan/</link>
+      <pubDate>Wed, 11 Jan 2023 03:20:23 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/port-based-vlan/</guid>
+      <description>A port-based VLAN is a type of virtual LAN (VLAN) in which network membership is determined by the switch port to which a device is connected.</description>
+    </item>
+    
+    <item>
+      <title>What is a VLAN (Virtual Local Area Network)?</title>
+      <link>https://techterminologies.com/definitions/virtual-local-area-network-vlan/</link>
+      <pubDate>Wed, 11 Jan 2023 03:09:55 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/virtual-local-area-network-vlan/</guid>
+      <description>A Virtual Local Area Network (VLAN) is a logical group of devices on a physical network that behave as if they are on a separate network.</description>
+    </item>
+    
+    <item>
+      <title>What is a WAN (Wide Area Network)?</title>
+      <link>https://techterminologies.com/definitions/wide-area-network-wan/</link>
+      <pubDate>Wed, 11 Jan 2023 03:02:51 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/wide-area-network-wan/</guid>
+      <description>A Wide Area Network (WAN) is a telecommunications network that extends over a large geographical area and connects multiple Local Area Networks (LANs) or Metro Area Networks (MANs).</description>
+    </item>
+    
+    <item>
+      <title>What is a Trunk Port?</title>
+      <link>https://techterminologies.com/definitions/trunk-port/</link>
+      <pubDate>Wed, 11 Jan 2023 02:49:35 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/trunk-port/</guid>
+      <description>A trunk port is a network port that is capable of carrying traffic for multiple VLANs (Virtual Local Area Networks).</description>
+    </item>
+    
     <item>
       <title>What is Cloud Security Control?</title>
       <link>https://techterminologies.com/definitions/cloud-security-control/</link>

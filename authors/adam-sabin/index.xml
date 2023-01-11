@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Adam Sabin on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 06:39:46 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 03:38:24 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Protocol-based VLAN (Virtual Local Area Network)?</title>
+      <link>https://techterminologies.com/definitions/protocol-based-vlan/</link>
+      <pubDate>Wed, 11 Jan 2023 03:38:24 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/protocol-based-vlan/</guid>
+      <description>A protocol-based virtual LAN (VLAN) is a type of VLAN that is created based on the protocol category of the network traffic.</description>
+    </item>
+    
     <item>
       <title>What is an Orphan File?</title>
       <link>https://techterminologies.com/definitions/orphan-file/</link>

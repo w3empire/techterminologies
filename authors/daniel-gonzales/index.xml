@@ -6,7 +6,25 @@
     <description>Recent content in Articles by Daniel Gonzales on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Jan 2023 05:59:44 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/daniel-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 04:08:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/daniel-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Private WAN (Wide Area Network)?</title>
+      <link>https://techterminologies.com/definitions/private-wan-wide-area-network/</link>
+      <pubDate>Wed, 11 Jan 2023 04:08:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/private-wan-wide-area-network/</guid>
+      <description>A private WAN (Wide Area Network) is a communications network that is owned and operated by a single organization.</description>
+    </item>
+    
+    <item>
+      <title>What is a VLAN (Virtual Local Area Network)?</title>
+      <link>https://techterminologies.com/definitions/virtual-local-area-network-vlan/</link>
+      <pubDate>Wed, 11 Jan 2023 03:09:55 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/virtual-local-area-network-vlan/</guid>
+      <description>A Virtual Local Area Network (VLAN) is a logical group of devices on a physical network that behave as if they are on a separate network.</description>
+    </item>
+    
     <item>
       <title>What is a Binary File?</title>
       <link>https://techterminologies.com/definitions/binary-file/</link>

@@ -6,7 +6,25 @@
     <description>Recent content in Articles by Willie Dillon on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Jan 2023 05:33:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/willie-dillon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 04:00:13 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/willie-dillon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Public WAN (Wide Area Network)?</title>
+      <link>https://techterminologies.com/definitions/public-wan-wide-area-network/</link>
+      <pubDate>Wed, 11 Jan 2023 04:00:13 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/public-wan-wide-area-network/</guid>
+      <description>A public wide area network (WAN) is a type of telecommunications network that is designed to connect multiple locations together over a large geographical area, such as a state or country.</description>
+    </item>
+    
+    <item>
+      <title>What is a WAN (Wide Area Network)?</title>
+      <link>https://techterminologies.com/definitions/wide-area-network-wan/</link>
+      <pubDate>Wed, 11 Jan 2023 03:02:51 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/wide-area-network-wan/</guid>
+      <description>A Wide Area Network (WAN) is a telecommunications network that extends over a large geographical area and connects multiple Local Area Networks (LANs) or Metro Area Networks (MANs).</description>
+    </item>
+    
     <item>
       <title>What is a File (Computer File)?</title>
       <link>https://techterminologies.com/definitions/file/</link>

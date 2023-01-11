@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Marvin Kaufman on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 06:03:31 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 03:29:27 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a MAC-based VLAN (Virtual Local Area Network)?</title>
+      <link>https://techterminologies.com/definitions/mac-based-vlan/</link>
+      <pubDate>Wed, 11 Jan 2023 03:29:27 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/mac-based-vlan/</guid>
+      <description>A MAC-based VLAN is a type of virtual LAN (VLAN) that is created based on the MAC addresses of network devices.</description>
+    </item>
+    
     <item>
       <title>What is a Compressed File?</title>
       <link>https://techterminologies.com/definitions/compressed-file/</link>

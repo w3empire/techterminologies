@@ -6,7 +6,25 @@
     <description>Recent content in Articles by Eli Roy on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Jan 2023 04:52:02 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jan 2023 03:51:50 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an IP subnet-based VLAN (Virtual Local Area Network)?</title>
+      <link>https://techterminologies.com/definitions/ip-subnet-based-vlan/</link>
+      <pubDate>Wed, 11 Jan 2023 03:51:50 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/ip-subnet-based-vlan/</guid>
+      <description>An IP subnet-based VLAN is a type of virtual LAN (VLAN) that is created based on the IP subnet of the hosts.</description>
+    </item>
+    
+    <item>
+      <title>What is a Trunk Port?</title>
+      <link>https://techterminologies.com/definitions/trunk-port/</link>
+      <pubDate>Wed, 11 Jan 2023 02:49:35 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/trunk-port/</guid>
+      <description>A trunk port is a network port that is capable of carrying traffic for multiple VLANs (Virtual Local Area Networks).</description>
+    </item>
+    
     <item>
       <title>What is a File Extension?</title>
       <link>https://techterminologies.com/definitions/file-extension/</link>
