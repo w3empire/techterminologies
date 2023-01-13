@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>What is the OSI Model (Open Systems Interconnection)? - Definition from TechTerminologies</title>
+    <script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script><meta name="description" content="TechTerminologies is the largest online database for technical terms. Explore the meanings of over 10,000 technical jargon." />
+    <meta name="keywords" content="tech terms, tech jargons, tech definitions, computer terms, tech dictionary, computer dictionary, tech glossary, tech encyclopedia, information technology terms" />
+
+    <meta itemprop="name" content="What is the OSI Model (Open Systems Interconnection)? - Definition from TechTerminologies">
+    <meta itemprop="description" content="TechTerminologies is the largest online database for technical terms. Explore the meanings of over 10,000 technical jargon."><meta itemprop="image" content="https://techterminologies.com/img/osi-definition_hu3d03a01dcc18bc5be0e67db3d8d209a6_335303_1920x1080_fill_q75_box_center.jpg">
+
+    
+    <meta property="og:title" content="What is the OSI Model (Open Systems Interconnection)? - Definition from TechTerminologies" />
+    <meta property="og:image" content="https://techterminologies.com/img/osi-definition_hu3d03a01dcc18bc5be0e67db3d8d209a6_335303_1920x1080_fill_q75_box_center.jpg" />
+    <meta property="og:description" content="TechTerminologies is the largest online database for technical terms. Explore the meanings of over 10,000 technical jargon." />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://techterminologies.com/definitions/open-systems-interconnection-osi/" /><meta property="article:section" content="definitions" />
+
+    
+    <meta name="twitter:card" value="summary">
+    <meta name="twitter:title" content="What is the OSI Model (Open Systems Interconnection)? - Definition from TechTerminologies"/>
+    <meta name=twitter:image content="https://techterminologies.com/img/osi-definition_hu3d03a01dcc18bc5be0e67db3d8d209a6_335303_1920x1080_fill_q75_box_center.jpg" />
+    <meta name="twitter:description" content="TechTerminologies is the largest online database for technical terms. Explore the meanings of over 10,000 technical jargon."/>
+
+
+    
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//fonts.gstatic.com"><link href="https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap" rel="stylesheet">
+    
+    
+
+    <link rel="stylesheet" href="/css/style.min.css">
+    
+
+    
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+
+    
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Z3REC24Q7R"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        
+        gtag('config', 'G-Z3REC24Q7R');
+    </script>
+
+    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3427355473051563" crossorigin="anonymous"></script></head>
+<body class="body">
+    <div class="container container--outer">
+        <header class="header">
+    <div class="container header__container">
+        
+<nav class="menu">
+    <button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
+        <span class="menu__btn-title" tabindex="-1">Menu</span>
+    </button>
+    <ul class="menu__list">
+        <li class="menu__item">
+            <a class="menu__link" href="/topics/internet-terms/">
+                
+                <span class="menu__text">Internet</span>
+                
+            </a>
+        </li>
+        <li class="menu__item">
+            <a class="menu__link" href="/topics/hardware-terms/">
+                
+                <span class="menu__text">Hardware</span>
+                
+            </a>
+        </li>
+        <li class="menu__item">
+            <a class="menu__link" href="/topics/software-terms/">
+                
+                <span class="menu__text">Software</span>
+                
+            </a>
+        </li>
+        <li class="menu__item">
+            <a class="menu__link" href="/topics/data-management-terms/">
+                
+                <span class="menu__text">Data Management</span>
+                
+            </a>
+        </li>
+        <li class="menu__item">
+            <a class="menu__link" href="/topics/technical-acronyms/">
+                
+                <span class="menu__text">Technical Acronyms</span>
+                
+            </a>
+        </li>
+        <li class="menu__item">
+            <a class="menu__link" href="/topics/">
+                
+                <span class="menu__text">More...</span>
+                
+            </a>
+        </li>
+    </ul>
+</nav>
+
+        
+    <div class="logo">
+        <a class="logo__link" href="/" title="Tech Terminologies" rel="home" title="Go back to homepage">
+            
+
+            <div class="logo__text">
+                <div class="logo_left_text">Tech</div>
+                <div class="logo_right_text">Terminologies</div>
+            </div>
+        </a>
+
+        
+        <div class="search-container">
+            <div class="widget-search widget">
+    <div class="widget-search__form">
+        <input class="widget-search__field" type="search" placeholder="Search…" value="" name="q" aria-label="Search…" id="search-input">
+        <a class="widget-search__button menu__item flex-center" id="search-button" title="Search…">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="#ffffff"><path d="M9.145 18.29c-5.042 0-9.145-4.102-9.145-9.145s4.103-9.145 9.145-9.145 9.145 4.103 9.145 9.145-4.102 9.145-9.145 9.145zm0-15.167c-3.321 0-6.022 2.702-6.022 6.022s2.702 6.022 6.022 6.022 6.023-2.702 6.023-6.022-2.702-6.022-6.023-6.022zm9.263 12.443c-.817 1.176-1.852 2.188-3.046 2.981l5.452 5.453 3.014-3.013-5.42-5.421z"/></svg>
+        </a>
+    </div>
+</div></div>
+    </div>
+    </div>
+</header>
+            <div class="message warning">
+    This site is user funded. When possible, we use affiliate links. <a href="https://support.techterminologies.com/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener">Learn more</a>
+</div>
+        <div class="wrapper flex">
+            <div class="primary">
+            
+<main class="main" role="main"><div id="breadcrumbs"><a href="https://techterminologies.com/" class="breadcrumb-item">Home</a><span class="breadcrumb-div">&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="https://techterminologies.com/definitions/" class="breadcrumb-item">Tech Terms</a><span class="breadcrumb-div">&nbsp;&nbsp;/&nbsp;&nbsp;</span><a href="https://techterminologies.com/topics/networking-terms/" class="breadcrumb-item">Networking terms</a>
+        <span class="breadcrumb-div">&nbsp;&nbsp;/&nbsp;&nbsp;</span>
+
+    <span class="breadcrumb-item active">OSI Model (Open Systems Interconnection)</span></div><article class="post">
+        <header class="post__header">
+            <h1 class="post__title">What Does &#39;OSI Model (Open Systems Interconnection)&#39; Mean?</h1>
+            <div class="post__meta meta"><div class="meta__item-author meta__item">
+        <img class="meta-author__avatar lazy-img" data-src="/img/authors/willie-dillon-avatar_hu69c68f0f9ba3757b965e66c678becaef_434429_33x0_resize_q75_box.jpg" alt="Willie Dillon" width="33" height="33" />
+
+        <span class="meta-author-name">
+            <span class="author__prefix">author</span>
+            <a href="https://techterminologies.com/authors/willie-dillon/" class="meta-author__name-link">Willie Dillon</a>
+        </span>
+    </div></div>
+        </header>
+
+            <figure class="post__thumbnail">
+                <img data-src="https://techterminologies.com/img/osi-definition_hu3d03a01dcc18bc5be0e67db3d8d209a6_335303_800x450_fill_q90_box_center.jpg" alt="What is the OSI Model (Open Systems Interconnection)?" title="What is the OSI Model (Open Systems Interconnection)?" class="lazy-img"><figcaption>Image by <a href='https://www.pexels.com/photo/serious-ethnic-field-engineer-examining-hardware-and-working-on-laptop-442152/' target='_blank' rel='nofollow noopener'>Field Engineer</a> on <a href='https://www.pexels.com/' target='_blank' rel='nofollow noopener'>Pexels</a></figcaption>
+            </figure><div class="content post__content clearfix">
+            <p>The OSI (Open Systems Interconnection) Model is a framework that helps to understand how information is transmitted across a network. It is divided into seven layers, each of which has a specific function. The layers are:</p>
+<p><strong>Physical Layer (layer 1):</strong> This layer deals with the physical connection of devices, including cables, switches, hubs, and other hardware. It defines the electrical, mechanical, and functional characteristics of the interface between the devices. The data is transmitted over the physical medium in the form of bits. This layer also defines the topology, for example, bus or star topology, and the transmission method, such as synchronous or asynchronous.</p>
+<p><strong>Data Link Layer (layer 2):</strong> This layer deals with how data is transmitted over a physical link, including error detection and correction. It provides a means of establishing and maintaining a link between two devices on the same physical network. It is responsible for the creation of a logical link between devices, called a link-layer protocol data unit (LPDU), which includes addressing information and error detection codes. This layer also defines the media access control (MAC) method, like CSMA/CD, which is used to control access to the shared medium.</p>
+<p><strong>Network Layer (layer 3):</strong> This layer deals with how data is routed through a network, including addressing and routing decisions. It provides a means of addressing devices on the network and directing data packets to their destinations. The &ldquo;Network&rdquo; layer provides logical addressing (IP addresses) and routing between networks. It also provides for fragmentation and reassembly of packets, which is necessary when packets must traverse networks with different maximum transmission units (MTU) sizes.</p>
+<p><strong>Transport Layer (layer 4):</strong> This layer deals with the reliable delivery of data, including flow control and error recovery. It provides a means of establishing and maintaining a logical connection between applications on different devices and ensuring that data is delivered reliably and in the correct order. It provides end-to-end error recovery and flow control. It also segments and reassembles data into smaller units, called segments, for transport across the network.</p>
+<p><strong>Session Layer (layer 5):</strong> This layer establishes and maintains connections between applications. It provides a means of initiating, maintaining, modifying, and terminating a connection between applications on different devices. It also provides for the synchronization of data between applications, such as in the case of a file transfer.</p>
+<p><strong>Presentation Layer (layer 6):</strong> This layer deals with the format of the data, including encryption and compression. It provides a means of translating between the data format used by the application and the data format used on the network. It also provides for encryption and decryption of data, as well as compression and decompression of data.</p>
+<p><strong>Application Layer (layer 7):</strong> This layer provides an interface to the user and applications. It provides a means for the application to access the services of the other layers. It defines the protocols and interfaces that applications use to access network services. This layer also contains all application-specific protocols, including HTTP, FTP, SMTP, and DNS.</p>
+<h2 id="faq">FAQ</h2>
+<h3 id="what-is-the-osi-model-and-what-is-its-purpose">What is the OSI model, and what is its purpose?</h3>
+<p>The OSI model, or Open Systems Interconnection model, is a framework for understanding how data is transmitted over a network. It consists of seven layers, each with a specific function, that work together to transmit data between devices.</p>
+<p>The purpose of the OSI model is to provide a consistent and standardized approach to designing, implementing, and troubleshooting communication systems, making it easier for different systems and devices to communicate with one another.</p>
+<h3 id="how-many-layers-does-the-osi-model-have-and-what-are-their-functions">How many layers does the OSI model have, and what are their functions?</h3>
+<p>The OSI model has seven layers, starting with the &ldquo;Physical&rdquo; layer at the bottom and going up to the &ldquo;Application&rdquo; layer at the top. The functions of each layer are as follows:</p>
+<ol>
+<li><strong>Physical Layer:</strong> responsible for transmitting raw data bits over a communication channel.</li>
+<li><strong>Data Link Layer:</strong> responsible for providing reliable data transfer across a physical link.</li>
+<li><strong>Network Layer:</strong> responsible for routing data packets through the network.</li>
+<li><strong>Transport Layer:</strong> responsible for providing end-to-end data transfer services and ensuring reliable data transmission.</li>
+<li><strong>Session Layer:</strong> responsible for establishing, maintaining, and terminating sessions between applications.</li>
+<li><strong>Presentation Layer:</strong> responsible for the syntax and semantics of the information exchanged between systems.</li>
+<li><strong>Application Layer:</strong> responsible for providing network services to application processes.</li>
+</ol>
+<h3 id="how-does-the-osi-model-relate-to-the-tcpip-model">How does the OSI model relate to the TCP/IP model?</h3>
+<p>The OSI model and the TCP/IP model are both frameworks for understanding how data is transmitted over a network. The main difference between the two is that the OSI model is more theoretical and is mainly used as a reference model, while the TCP/IP model is used in practice and is the basis of the Internet Protocol Suite, which is the foundation of the Internet. Additionally, while the OSI model is divided into seven layers, the TCP/IP model is divided into four layers: the &ldquo;Link&rdquo; layer, &ldquo;Internet&rdquo; layer, &ldquo;Transport&rdquo; layer, and &ldquo;Application&rdquo; layer.</p>
+<h3 id="can-you-provide-an-example-of-how-data-is-transmitted-through-the-different-layers-of-the-osi-model">Can you provide an example of how data is transmitted through the different layers of the OSI model?</h3>
+<p>For example, a user wants to access a webpage on the Internet. The &ldquo;Application&rdquo; layer at the user&rsquo;s device sends a request for the webpage to the &ldquo;Transport&rdquo; layer, which segments the data into smaller packets and adds a source and destination port number to each packet.</p>
+<p>The &ldquo;Network&rdquo; layer then adds a source and destination IP address to each packet and routes the packets through the network to the destination device. The &ldquo;Data Link&rdquo; layer at the destination device receives the packets and uses the destination MAC address to deliver the packets to the correct device. The &ldquo;Physical&rdquo; layer then transmits the bits of data over the communication channel.</p>
+<h3 id="how-does-the-osi-model-help-with-troubleshooting-network-issues">How does the OSI model help with troubleshooting network issues?</h3>
+<p>The OSI model can help with troubleshooting network issues by providing a clear and consistent framework for understanding how data is transmitted over a network. By breaking down the process of transmitting data into seven distinct layers, it becomes easier to identify where a problem may be occurring and to isolate the cause of the issue.</p>
+<p>For example, if data is not being transmitted properly, the problem could be at the Physical layer, the Data Link layer, the Network layer, or the Transport layer. By identifying the specific layer where the problem is occurring, it becomes easier to troubleshoot and resolve the issue.</p>
+<h3 id="how-does-the-osi-model-relate-to-real-world-networking-protocols-and-technologies">How does the OSI model relate to real-world networking protocols and technologies?</h3>
+<p>Each layer of the OSI model corresponds to a set of real-world networking protocols and technologies that provide the functionality required by that layer.</p>
+<p>For example, the Physical layer corresponds to technologies such as Ethernet, WiFi, and Bluetooth, while the Data Link layer corresponds to protocols such as ARP, RARP, and LLC.</p>
+<p>The Network layer corresponds to protocols such as IP, ICMP, and IGMP. The Transport layer corresponds to protocols such as TCP and UDP. The Session, Presentation, and Application layers correspond to protocols such as Telnet, FTP, HTTP, and DNS.</p>
+<p>It bears mentioning that, while the OSI model provides a theoretical framework for understanding how data is transmitted over a network, it is not a strict mapping to real-world protocols and technologies. In practice, different protocols and technologies may provide functionality that spans multiple layers of the OSI model.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>The OSI model helps to understand how different protocols and technologies fit together and interact at different layers in a network. Each layer communicates with the layers immediately above and below it, provides services to the layer above it, and receives services from the layer below it. This modular architecture allows for the replacement of protocols and technologies at any one layer without affecting the other layers.</p>
+
+
+
+        </div>
+        <footer class="post__footer">
+            
+<div class="post__tags tags clearfix">
+    <svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+
+    <ul class="tags__list">
+        <li class="tags__item"><a class="tags__link btn" href="https://techterminologies.com/topics/networking-terms/" rel="tag">Networking terms</a></li>
+        <li class="tags__item"><a class="tags__link btn" href="https://techterminologies.com/topics/technical-acronyms/" rel="tag">Technical acronyms</a></li>
+        <li class="tags__item"><a class="tags__link btn" href="https://techterminologies.com/topics/data-management-terms/" rel="tag">Data management terms</a></li>
+    </ul>
+</div>
+        </footer>
+    </article>
+</main>
+
+
+<h3>About the author</h3><div class="authorbox clearfix">
+        <figure class="authorbox__avatar">
+            <img class="avatar lazy-img" data-src="/img/authors/willie-dillon-avatar_hu69c68f0f9ba3757b965e66c678becaef_434429_90x0_resize_q85_box.jpg" alt="Willie Dillon" width="90" height="90" />
+        </figure>
+        <div class="authorbox__header">
+            <span class="authorbox__name">
+                <a class="meta-author__name-link" href="https://techterminologies.com/authors/willie-dillon/">Willie Dillon</a>
+            </span>
+        </div>
+        <div class="authorbox__description">
+            Willie is a tech enthusiast with a passion for computer and mobile technologies. He loves staying up-to-date on the latest gadgets and software and is always eager to learn more about how technology can improve our daily lives.
+        </div></div>
+
+<nav class="pager flex">
+	<div class="pager__item pager__item--prev">
+		<a class="pager__link" href="/definitions/quality-of-service-qos/" rel="prev">
+			<span class="pager__subtitle">«&thinsp;Previous</span>
+			<p class="pager__title">What is QoS (Quality of Service)?</p>
+		</a>
+	</div>
+	<div class="pager__item pager__item--next">
+		<a class="pager__link" href="/definitions/ip-address/" rel="next">
+			<span class="pager__subtitle">Next&thinsp;»</span>
+			<p class="pager__title">What is an IP Address?</p>
+		</a>
+	</div>
+</nav>
+
+            </div>
+            <aside class="sidebar"><div class="widget-recent widget">
+        <h4 class="widget__title">Related Terms</h4>
+        <div class="widget__content">
+            <ul class="widget__list">
+                <li class="widget__item"><a class="widget__image-link" href="/definitions/ip-address/">
+                                <img data-src="https://techterminologies.com/img/ip-address-definition_hu3d03a01dcc18bc5be0e67db3d8d209a6_237712_35ff4e84b05f954d0dff808b51d27c15.jpg" alt="What is an IP Address?" class="lazy-img widget__image">
+                            </a><div class="widget__text-content">
+                        <a class="widget__link" href="/definitions/ip-address/">What is an IP Address?</a>
+
+                        <ul class="widget__meta"><li class="widget__meta-item">Networking Terms
+                            </li><li class="widget__meta-item">5 min read
+                            </li></ul>
+                    </div>
+
+                </li>
+                <li class="widget__item"><a class="widget__image-link" href="/definitions/404-error/">
+                                <img data-src="https://techterminologies.com/img/404-error-definition_hu7d6159aec8e29eb2c9f2b00c8f4fb27d_284263_72de4724c775fac2894c661f1f148629.jpg" alt="What is the 404 Error (Not Found)?" class="lazy-img widget__image">
+                            </a><div class="widget__text-content">
+                        <a class="widget__link" href="/definitions/404-error/">What is the 404 Error (Not Found)?</a>
+
+                        <ul class="widget__meta"><li class="widget__meta-item">Internet Terms
+                            </li><li class="widget__meta-item">7 min read
+                            </li></ul>
+                    </div>
+
+                </li>
+                <li class="widget__item"><a class="widget__image-link" href="/definitions/403-error/">
+                                <img data-src="https://techterminologies.com/img/403-error-definition_hud86f8f002d38b811f05881be6f25ae71_448039_2d93588cd28d987e609ad10325c3d91e.jpg" alt="What is the 403 Error (Forbidden)?" class="lazy-img widget__image">
+                            </a><div class="widget__text-content">
+                        <a class="widget__link" href="/definitions/403-error/">What is the 403 Error (Forbidden)?</a>
+
+                        <ul class="widget__meta"><li class="widget__meta-item">Internet Terms
+                            </li><li class="widget__meta-item">7 min read
+                            </li></ul>
+                    </div>
+
+                </li>
+                <li class="widget__item"><a class="widget__image-link" href="/definitions/content-delivery-network-cdn/">
+                                <img data-src="https://techterminologies.com/img/cdn-definition_huba870e38200ffeea094be736ca61aac4_337821_c2ba366a05e91ccccc671c62c9b05475.jpg" alt="What is CDN (Content Delivery Network)?" class="lazy-img widget__image">
+                            </a><div class="widget__text-content">
+                        <a class="widget__link" href="/definitions/content-delivery-network-cdn/">What is CDN (Content Delivery Network)?</a>
+
+                        <ul class="widget__meta"><li class="widget__meta-item">Networking Terms
+                            </li><li class="widget__meta-item">2 min read
+                            </li></ul>
+                    </div>
+
+                </li>
+                <li class="widget__item"><a class="widget__image-link" href="/definitions/information-and-communications-technology-ict/">
+                                <img data-src="https://techterminologies.com/img/ict-definition_hu40b328e6849d4bfa380fd50d759b3deb_358954_33fe3435c263cbba999fe8d35900646c.jpg" alt="What is ICT (Information and Communications Technology)?" class="lazy-img widget__image">
+                            </a><div class="widget__text-content">
+                        <a class="widget__link" href="/definitions/information-and-communications-technology-ict/">What is ICT (Information and Communications Technology)?</a>
+
+                        <ul class="widget__meta"><li class="widget__meta-item">Networking Terms
+                            </li><li class="widget__meta-item">2 min read
+                            </li></ul>
+                    </div>
+
+                </li>
+                <li class="widget__item"><a class="widget__image-link" href="/definitions/layer-2-tunneling-protocol-l2tp/">
+                                <img data-src="https://techterminologies.com/img/l2tp-definition_hu7a28e0cd8287d698f6ff3a02615f7805_2920877_2f5a11f1f2ddb2939fd61502a2796db6.jpg" alt="What is L2TP (Layer 2 Tunneling Protocol)?" class="lazy-img widget__image">
+                            </a><div class="widget__text-content">
+                        <a class="widget__link" href="/definitions/layer-2-tunneling-protocol-l2tp/">What is L2TP (Layer 2 Tunneling Protocol)?</a>
+
+                        <ul class="widget__meta"><li class="widget__meta-item">Networking Terms
+                            </li><li class="widget__meta-item">5 min read
+                            </li></ul>
+                    </div>
+
+                </li>
+                <li class="widget__item"><a class="widget__image-link" href="/definitions/trunk-port/">
+                                <img data-src="https://techterminologies.com/img/trunk-port-definition_hu0f4231f3425d9b4f529d6d720420097c_2036593_3911b27a705f9d8c4743dc7d89e3be12.jpg" alt="What is a Trunk Port?" class="lazy-img widget__image">
+                            </a><div class="widget__text-content">
+                        <a class="widget__link" href="/definitions/trunk-port/">What is a Trunk Port?</a>
+
+                        <ul class="widget__meta"><li class="widget__meta-item">Networking Terms
+                            </li><li class="widget__meta-item">4 min read
+                            </li></ul>
+                    </div>
+
+                </li>
+                <li class="widget__item"><a class="widget__image-link" href="/definitions/cloud-security-control/">
+                                <img data-src="https://techterminologies.com/img/cloud-security-control-definition_huee79f9636774f3499e4f15cb07aaf48f_906073_a9ad38af064a2b1aa3469810f2839426.jpg" alt="What is Cloud Security Control?" class="lazy-img widget__image">
+                            </a><div class="widget__text-content">
+                        <a class="widget__link" href="/definitions/cloud-security-control/">What is Cloud Security Control?</a>
+
+                        <ul class="widget__meta"><li class="widget__meta-item">Cybersecurity Terms
+                            </li><li class="widget__meta-item">4 min read
+                            </li></ul>
+                    </div>
+
+                </li>
+                <li class="widget__item"><a class="widget__image-link" href="/definitions/sata/">
+                                <img data-src="https://techterminologies.com/img/sata-definition_hu0b05ae2905c8818217c5530380f6ef85_200523_b4df79c3b91f6beda35cc79c9eb71c21.jpg" alt="What is SATA (Serial ATA)?" class="lazy-img widget__image">
+                            </a><div class="widget__text-content">
+                        <a class="widget__link" href="/definitions/sata/">What is SATA (Serial ATA)?</a>
+
+                        <ul class="widget__meta"><li class="widget__meta-item">Hardware Terms
+                            </li><li class="widget__meta-item">3 min read
+                            </li></ul>
+                    </div>
+
+                </li>
+                <li class="widget__item"><a class="widget__image-link" href="/definitions/ultra-direct-memory-access-udma/">
+                                <img data-src="https://techterminologies.com/img/ultra-dma-definition_hub00ab74fa079f75e034f720e6c91ed14_226873_9e95c8118a13e38a9811b9f59617bb33.jpg" alt="What is Ultra DMA (Ultra Direct Memory Access)?" class="lazy-img widget__image">
+                            </a><div class="widget__text-content">
+                        <a class="widget__link" href="/definitions/ultra-direct-memory-access-udma/">What is Ultra DMA (Ultra Direct Memory Access)?</a>
+
+                        <ul class="widget__meta"><li class="widget__meta-item">Hardware Terms
+                            </li><li class="widget__meta-item">3 min read
+                            </li></ul>
+                    </div>
+
+                </li>
+            </ul>
+        </div>
+    </div>
+</aside>
+        </div>
+        <footer class="footer">
+    <div class="container">
+        <div class="footer__disclaimer">This site is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Amazon and the Amazon logo are trademarks of Amazon.com, Inc. or its affiliates.</div>
+
+
+
+        <hr class="footer-hr">
+        
+<div class="footer__links">
+    <a class="footer__link" href="https://support.techterminologies.com/en/institutional/about/" target="_blank" rel="noopener">About us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer__link" href="https://support.techterminologies.com/en/institutional/terms/" target="_blank" rel="noopener">Terms of use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer__link" href="https://support.techterminologies.com/en/institutional/privacy-policy/" target="_blank" rel="noopener">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer__link" href="https://support.techterminologies.com/en/institutional/cookie-policy/" target="_blank" rel="noopener">Cookie policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="footer__link" href="https://support.techterminologies.com/en/institutional/affiliate-disclosure/" target="_blank" rel="noopener">Affiliate disclosure</a>
+</div>
+
+        <div class="footer__copyright">
+            
+
+            &copy; <script>document.write( (new Date()).getFullYear() )</script> Tech Terminologies, a w3empire property. all rights reserved.
+        </div>
+    </div>
+</footer>
+    </div>
+<script async defer src="/js/menu.js"></script>
+<script src="/js/search.js"></script><script src="/js/vendor/jquery@3.x/jquery.min.js"></script>
+
+<script src="/js/vendor/jquery.lazy@1.7.9/jquery.lazy.min.js"></script>
+<script src="/js/vendor/jquery.lazy@1.7.9/jquery.lazy.youtube.min.js"></script>
+<script src="/js/vendor/jquery.lazy@1.7.9/jquery.lazy.picture.min.js"></script>
+<script src="/js/app.js"></script></body>
+</html>

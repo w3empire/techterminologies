@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Daniel Gonzales on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jan 2023 04:08:22 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/daniel-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 13:56:15 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/daniel-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an IP Address?</title>
+      <link>https://techterminologies.com/definitions/ip-address/</link>
+      <pubDate>Fri, 13 Jan 2023 13:56:15 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/ip-address/</guid>
+      <description>An IP address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.</description>
+    </item>
+    
     <item>
       <title>What is a Private WAN (Wide Area Network)?</title>
       <link>https://techterminologies.com/definitions/private-wan-wide-area-network/</link>

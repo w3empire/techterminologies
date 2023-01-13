@@ -6,7 +6,34 @@
     <description>Recent content in The Complete List of Networking Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jan 2023 16:26:19 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/networking-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 14:25:00 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/networking-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is L2TP (Layer 2 Tunneling Protocol)?</title>
+      <link>https://techterminologies.com/definitions/layer-2-tunneling-protocol-l2tp/</link>
+      <pubDate>Fri, 13 Jan 2023 14:25:00 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/layer-2-tunneling-protocol-l2tp/</guid>
+      <description>Layer 2 Tunneling Protocol (L2TP) is a protocol used to support virtual private networks (VPNs).</description>
+    </item>
+    
+    <item>
+      <title>What is an IP Address?</title>
+      <link>https://techterminologies.com/definitions/ip-address/</link>
+      <pubDate>Fri, 13 Jan 2023 13:56:15 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/ip-address/</guid>
+      <description>An IP address is a unique numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.</description>
+    </item>
+    
+    <item>
+      <title>What is the OSI Model (Open Systems Interconnection)?</title>
+      <link>https://techterminologies.com/definitions/open-systems-interconnection-osi/</link>
+      <pubDate>Fri, 13 Jan 2023 13:36:04 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/open-systems-interconnection-osi/</guid>
+      <description>The OSI (Open Systems Interconnection) Model is a framework that helps to understand how information is transmitted across a network.</description>
+    </item>
+    
     <item>
       <title>What is QoS (Quality of Service)?</title>
       <link>https://techterminologies.com/definitions/quality-of-service-qos/</link>

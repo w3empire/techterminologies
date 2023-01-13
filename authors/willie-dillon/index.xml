@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Willie Dillon on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jan 2023 04:00:13 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/willie-dillon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 13 Jan 2023 13:36:04 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/willie-dillon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is the OSI Model (Open Systems Interconnection)?</title>
+      <link>https://techterminologies.com/definitions/open-systems-interconnection-osi/</link>
+      <pubDate>Fri, 13 Jan 2023 13:36:04 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/open-systems-interconnection-osi/</guid>
+      <description>The OSI (Open Systems Interconnection) Model is a framework that helps to understand how information is transmitted across a network.</description>
+    </item>
+    
     <item>
       <title>What is a Public WAN (Wide Area Network)?</title>
       <link>https://techterminologies.com/definitions/public-wan-wide-area-network/</link>
