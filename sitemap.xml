@@ -2,22 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://techterminologies.com/authors/john-graham/</loc>
-    <lastmod>2023-01-13T14:25:03-03:00</lastmod>
+    <loc>https://techterminologies.com/authors/edward-martel/</loc>
+    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/</loc>
-    <lastmod>2023-01-13T14:25:03-03:00</lastmod>
+    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/authors/</loc>
-    <lastmod>2023-01-13T14:25:03-03:00</lastmod>
+    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/</loc>
-    <lastmod>2023-01-13T14:25:03-03:00</lastmod>
+    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/</loc>
-    <lastmod>2023-01-13T14:25:03-03:00</lastmod>
+    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/networking-terms/</loc>
+    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/customer-provisioned-vpn-cpvpn/</loc>
+    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
+    <lastmod>2023-01-14T07:29:26-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/provider-provisioned-vpn-ppvpn/</loc>
+    <lastmod>2023-01-14T07:29:26-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
+    <lastmod>2023-01-14T07:05:51-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/virtual-private-lan-service-vpls/</loc>
+    <lastmod>2023-01-14T07:05:51-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/john-graham/</loc>
     <lastmod>2023-01-13T14:25:03-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/technical-acronyms/</loc>
@@ -47,20 +65,11 @@
     <loc>https://techterminologies.com/definitions/quality-of-service-qos/</loc>
     <lastmod>2023-01-11T16:26:22-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/edward-martel/</loc>
-    <lastmod>2023-01-11T16:16:35-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/software-defined-wide-area-networking-sd-wan/</loc>
     <lastmod>2023-01-11T16:16:35-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
-    <lastmod>2023-01-11T16:00:26-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/virtual-private-network-vpn/</loc>
     <lastmod>2023-01-11T16:00:26-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
-    <lastmod>2023-01-11T15:49:52-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/multiprotocol-label-switching-mpls/</loc>
     <lastmod>2023-01-11T15:49:52-03:00</lastmod>

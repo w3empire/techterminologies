@@ -6,7 +6,34 @@
     <description>Recent content in The Complete List of Networking Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Jan 2023 14:25:00 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/networking-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 07:51:17 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/networking-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is CPVPN (Customer-Provisioned VPN)?</title>
+      <link>https://techterminologies.com/definitions/customer-provisioned-vpn-cpvpn/</link>
+      <pubDate>Sat, 14 Jan 2023 07:51:17 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/customer-provisioned-vpn-cpvpn/</guid>
+      <description>A customer-provisioned VPN (CPVPN) is a virtual private network (VPN) that is set up and maintained by the customer rather than the service provider.</description>
+    </item>
+    
+    <item>
+      <title>What is PPVPN (Provider-Provisioned VPN)?</title>
+      <link>https://techterminologies.com/definitions/provider-provisioned-vpn-ppvpn/</link>
+      <pubDate>Sat, 14 Jan 2023 07:29:25 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/provider-provisioned-vpn-ppvpn/</guid>
+      <description>A Provider-Provisioned VPN (PPVPN) is a type of virtual private network (VPN) that is provided and maintained by a service provider.</description>
+    </item>
+    
+    <item>
+      <title>What is VPLS (Virtual Private LAN Service)?</title>
+      <link>https://techterminologies.com/definitions/virtual-private-lan-service-vpls/</link>
+      <pubDate>Sat, 14 Jan 2023 07:05:50 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/virtual-private-lan-service-vpls/</guid>
+      <description>A Virtual Private LAN Service (VPLS) is a type of network service that makes possible the creation of a virtual private local area network (LAN) over a shared public infrastructure, such as the internet.</description>
+    </item>
+    
     <item>
       <title>What is L2TP (Layer 2 Tunneling Protocol)?</title>
       <link>https://techterminologies.com/definitions/layer-2-tunneling-protocol-l2tp/</link>

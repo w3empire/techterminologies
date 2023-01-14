@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Marvin Kaufman on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jan 2023 15:49:51 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 07:05:50 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is VPLS (Virtual Private LAN Service)?</title>
+      <link>https://techterminologies.com/definitions/virtual-private-lan-service-vpls/</link>
+      <pubDate>Sat, 14 Jan 2023 07:05:50 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/virtual-private-lan-service-vpls/</guid>
+      <description>A Virtual Private LAN Service (VPLS) is a type of network service that makes possible the creation of a virtual private local area network (LAN) over a shared public infrastructure, such as the internet.</description>
+    </item>
+    
     <item>
       <title>What is MPLS (Multiprotocol Label Switching)?</title>
       <link>https://techterminologies.com/definitions/multiprotocol-label-switching-mpls/</link>

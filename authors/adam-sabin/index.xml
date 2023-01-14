@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Adam Sabin on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jan 2023 16:00:25 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 14 Jan 2023 07:29:25 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is PPVPN (Provider-Provisioned VPN)?</title>
+      <link>https://techterminologies.com/definitions/provider-provisioned-vpn-ppvpn/</link>
+      <pubDate>Sat, 14 Jan 2023 07:29:25 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/provider-provisioned-vpn-ppvpn/</guid>
+      <description>A Provider-Provisioned VPN (PPVPN) is a type of virtual private network (VPN) that is provided and maintained by a service provider.</description>
+    </item>
+    
     <item>
       <title>What is a VPN (Virtual Private Network)?</title>
       <link>https://techterminologies.com/definitions/virtual-private-network-vpn/</link>
