@@ -6,7 +6,25 @@
     <description>Recent content in The Complete List of File Format Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 07:03:53 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/file-format-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2023 11:32:23 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/file-format-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is DLL Hell?</title>
+      <link>https://techterminologies.com/definitions/dll-hell/</link>
+      <pubDate>Tue, 17 Jan 2023 11:32:23 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/dll-hell/</guid>
+      <description>&amp;ldquo;DLL Hell&amp;rdquo; is a term used to describe the problems that can arise when multiple versions of the same Dynamic Link Library (DLL) file are installed on a computer.</description>
+    </item>
+    
+    <item>
+      <title>What is a DLL (Dynamic Link Library)?</title>
+      <link>https://techterminologies.com/definitions/dynamic-link-library-dll/</link>
+      <pubDate>Tue, 17 Jan 2023 10:58:47 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/dynamic-link-library-dll/</guid>
+      <description>A DLL (Dynamic Link Library) file is a type of file that contains a set of instructions or functions that can be called upon by other programs.</description>
+    </item>
+    
     <item>
       <title>What is Run-length Encoding?</title>
       <link>https://techterminologies.com/definitions/run-length-encoding/</link>
