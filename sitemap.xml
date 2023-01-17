@@ -2,22 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://techterminologies.com/authors/edward-martel/</loc>
-    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
+    <loc>https://techterminologies.com/authors/daniel-gonzales/</loc>
+    <lastmod>2023-01-17T05:08:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/</loc>
-    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
+    <lastmod>2023-01-17T05:08:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/authors/</loc>
-    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
+    <lastmod>2023-01-17T05:08:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/</loc>
-    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
+    <lastmod>2023-01-17T05:08:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/</loc>
-    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
+    <lastmod>2023-01-17T05:08:55-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/data-management-terms/</loc>
+    <lastmod>2023-01-17T05:08:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/networking-terms/</loc>
+    <lastmod>2023-01-17T05:08:55-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/bandwidth-allocation/</loc>
+    <lastmod>2023-01-17T05:08:55-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/willie-dillon/</loc>
+    <lastmod>2023-01-17T04:44:43-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/packet-prioritization/</loc>
+    <lastmod>2023-01-17T04:44:43-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/eli-roy/</loc>
+    <lastmod>2023-01-17T04:25:02-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/traffic-shaping/</loc>
+    <lastmod>2023-01-17T04:25:02-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/edward-martel/</loc>
     <lastmod>2023-01-14T07:51:18-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/customer-provisioned-vpn-cpvpn/</loc>
@@ -44,23 +65,11 @@
     <loc>https://techterminologies.com/definitions/layer-2-tunneling-protocol-l2tp/</loc>
     <lastmod>2023-01-13T14:25:03-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/daniel-gonzales/</loc>
-    <lastmod>2023-01-13T13:56:16-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/topics/data-management-terms/</loc>
-    <lastmod>2023-01-13T13:56:16-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/ip-address/</loc>
     <lastmod>2023-01-13T13:56:16-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/willie-dillon/</loc>
-    <lastmod>2023-01-13T13:36:05-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/open-systems-interconnection-osi/</loc>
     <lastmod>2023-01-13T13:36:05-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/eli-roy/</loc>
-    <lastmod>2023-01-11T16:26:22-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/quality-of-service-qos/</loc>
     <lastmod>2023-01-11T16:26:22-03:00</lastmod>

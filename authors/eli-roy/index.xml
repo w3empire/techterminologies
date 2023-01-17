@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Eli Roy on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jan 2023 16:26:19 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Jan 2023 04:25:01 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Traffic Shaping?</title>
+      <link>https://techterminologies.com/definitions/traffic-shaping/</link>
+      <pubDate>Tue, 17 Jan 2023 04:25:01 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/traffic-shaping/</guid>
+      <description>Traffic shaping is a method of controlling and managing the flow of network traffic to ensure that it conforms to certain predefined policies.</description>
+    </item>
+    
     <item>
       <title>What is QoS (Quality of Service)?</title>
       <link>https://techterminologies.com/definitions/quality-of-service-qos/</link>
