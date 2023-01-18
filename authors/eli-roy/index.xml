@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Eli Roy on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jan 2023 04:25:01 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jan 2023 08:04:46 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Temporary File?</title>
+      <link>https://techterminologies.com/definitions/temporary-file/</link>
+      <pubDate>Wed, 18 Jan 2023 08:04:46 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/temporary-file/</guid>
+      <description>A temporary file, also known as a &amp;ldquo;temp file&amp;rdquo; or &amp;ldquo;temp,&amp;rdquo; is a type of computer file that is created to store information temporarily.</description>
+    </item>
+    
     <item>
       <title>What is Traffic Shaping?</title>
       <link>https://techterminologies.com/definitions/traffic-shaping/</link>

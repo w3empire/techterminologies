@@ -2,28 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://techterminologies.com/authors/willie-dillon/</loc>
+    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/</loc>
+    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/</loc>
+    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/</loc>
+    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/</loc>
+    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/file-format-terms/</loc>
+    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/programming-language-terms/</loc>
+    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/software-development-terms/</loc>
+    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/makefile/</loc>
+    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/eli-roy/</loc>
+    <lastmod>2023-01-18T08:04:47-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/software-terms/</loc>
+    <lastmod>2023-01-18T08:04:47-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/temporary-file/</loc>
+    <lastmod>2023-01-18T08:04:47-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/edward-martel/</loc>
+    <lastmod>2023-01-18T07:21:04-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/networking-terms/</loc>
+    <lastmod>2023-01-18T07:21:04-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/network-administrator/</loc>
+    <lastmod>2023-01-18T07:21:04-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
+    <lastmod>2023-01-18T07:17:40-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/technical-acronyms/</loc>
+    <lastmod>2023-01-18T07:17:40-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/voice-over-internet-protocol-voip/</loc>
+    <lastmod>2023-01-18T07:17:40-03:00</lastmod>
+  </url><url>
     <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
     <lastmod>2023-01-17T11:32:25-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/topics/</loc>
-    <lastmod>2023-01-17T11:32:25-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/</loc>
-    <lastmod>2023-01-17T11:32:25-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/</loc>
-    <lastmod>2023-01-17T11:32:25-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/definitions/</loc>
-    <lastmod>2023-01-17T11:32:25-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/topics/data-management-terms/</loc>
-    <lastmod>2023-01-17T11:32:25-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/topics/file-format-terms/</loc>
-    <lastmod>2023-01-17T11:32:25-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/topics/technical-acronyms/</loc>
     <lastmod>2023-01-17T11:32:25-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/dll-hell/</loc>
@@ -32,41 +68,23 @@
     <loc>https://techterminologies.com/authors/john-graham/</loc>
     <lastmod>2023-01-17T10:58:48-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/topics/software-development-terms/</loc>
-    <lastmod>2023-01-17T10:58:48-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/dynamic-link-library-dll/</loc>
     <lastmod>2023-01-17T10:58:48-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/authors/daniel-gonzales/</loc>
     <lastmod>2023-01-17T05:08:55-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/topics/networking-terms/</loc>
-    <lastmod>2023-01-17T05:08:55-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/bandwidth-allocation/</loc>
     <lastmod>2023-01-17T05:08:55-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/willie-dillon/</loc>
-    <lastmod>2023-01-17T04:44:43-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/packet-prioritization/</loc>
     <lastmod>2023-01-17T04:44:43-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/eli-roy/</loc>
-    <lastmod>2023-01-17T04:25:02-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/traffic-shaping/</loc>
     <lastmod>2023-01-17T04:25:02-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/edward-martel/</loc>
-    <lastmod>2023-01-14T07:51:18-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/customer-provisioned-vpn-cpvpn/</loc>
     <lastmod>2023-01-14T07:51:18-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
-    <lastmod>2023-01-14T07:29:26-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/provider-provisioned-vpn-ppvpn/</loc>
     <lastmod>2023-01-14T07:29:26-03:00</lastmod>
@@ -130,9 +148,6 @@
   </url><url>
     <loc>https://techterminologies.com/definitions/trunk-port/</loc>
     <lastmod>2023-01-11T02:49:37-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/topics/software-terms/</loc>
-    <lastmod>2023-01-10T07:03:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/run-length-encoding/</loc>
     <lastmod>2023-01-10T07:03:55-03:00</lastmod>
@@ -271,9 +286,6 @@
   </url><url>
     <loc>https://techterminologies.com/definitions/swap-file/</loc>
     <lastmod>2022-12-26T09:05:05-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/topics/programming-language-terms/</loc>
-    <lastmod>2022-12-26T08:51:50-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/postscript/</loc>
     <lastmod>2022-12-26T08:51:50-03:00</lastmod>

@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Willie Dillon on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jan 2023 04:44:41 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/willie-dillon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jan 2023 08:20:40 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/willie-dillon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Makefile?</title>
+      <link>https://techterminologies.com/definitions/makefile/</link>
+      <pubDate>Wed, 18 Jan 2023 08:20:40 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/makefile/</guid>
+      <description>A Makefile is a simple text file that is used to build and manage projects, typically those written in C or C++.</description>
+    </item>
+    
     <item>
       <title>What is Packet Prioritization?</title>
       <link>https://techterminologies.com/definitions/packet-prioritization/</link>
