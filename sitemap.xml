@@ -3,19 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://techterminologies.com/authors/willie-dillon/</loc>
-    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+    <lastmod>2023-01-21T23:05:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/</loc>
-    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+    <lastmod>2023-01-21T23:05:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/authors/</loc>
-    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+    <lastmod>2023-01-21T23:05:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/</loc>
-    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+    <lastmod>2023-01-21T23:05:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/</loc>
-    <lastmod>2023-01-18T08:20:41-03:00</lastmod>
+    <lastmod>2023-01-21T23:05:55-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/software-terms/</loc>
+    <lastmod>2023-01-21T23:05:55-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/android-operating-system/</loc>
+    <lastmod>2023-01-21T23:05:55-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/eli-roy/</loc>
+    <lastmod>2023-01-21T22:54:04-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/ios/</loc>
+    <lastmod>2023-01-21T22:54:04-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/edward-martel/</loc>
+    <lastmod>2023-01-21T22:42:49-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/macos/</loc>
+    <lastmod>2023-01-21T22:42:49-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
+    <lastmod>2023-01-21T22:27:58-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/linux/</loc>
+    <lastmod>2023-01-21T22:27:58-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
+    <lastmod>2023-01-21T22:13:54-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/windows/</loc>
+    <lastmod>2023-01-21T22:13:54-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/john-graham/</loc>
+    <lastmod>2023-01-21T22:05:48-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/technical-acronyms/</loc>
+    <lastmod>2023-01-21T22:05:48-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/operating-system-os/</loc>
+    <lastmod>2023-01-21T22:05:48-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/daniel-gonzales/</loc>
+    <lastmod>2023-01-21T21:54:46-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/operating-system/</loc>
+    <lastmod>2023-01-21T21:54:46-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/file-format-terms/</loc>
     <lastmod>2023-01-18T08:20:41-03:00</lastmod>
@@ -29,17 +74,8 @@
     <loc>https://techterminologies.com/definitions/makefile/</loc>
     <lastmod>2023-01-18T08:20:41-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/eli-roy/</loc>
-    <lastmod>2023-01-18T08:04:47-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/topics/software-terms/</loc>
-    <lastmod>2023-01-18T08:04:47-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/temporary-file/</loc>
     <lastmod>2023-01-18T08:04:47-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/edward-martel/</loc>
-    <lastmod>2023-01-18T07:21:04-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/networking-terms/</loc>
     <lastmod>2023-01-18T07:21:04-03:00</lastmod>
@@ -47,17 +83,8 @@
     <loc>https://techterminologies.com/definitions/network-administrator/</loc>
     <lastmod>2023-01-18T07:21:04-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
-    <lastmod>2023-01-18T07:17:40-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/topics/technical-acronyms/</loc>
-    <lastmod>2023-01-18T07:17:40-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/voice-over-internet-protocol-voip/</loc>
     <lastmod>2023-01-18T07:17:40-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
-    <lastmod>2023-01-17T11:32:25-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/data-management-terms/</loc>
     <lastmod>2023-01-17T11:32:25-03:00</lastmod>
@@ -65,14 +92,8 @@
     <loc>https://techterminologies.com/definitions/dll-hell/</loc>
     <lastmod>2023-01-17T11:32:25-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/authors/john-graham/</loc>
-    <lastmod>2023-01-17T10:58:48-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/dynamic-link-library-dll/</loc>
     <lastmod>2023-01-17T10:58:48-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/daniel-gonzales/</loc>
-    <lastmod>2023-01-17T05:08:55-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/bandwidth-allocation/</loc>
     <lastmod>2023-01-17T05:08:55-03:00</lastmod>
