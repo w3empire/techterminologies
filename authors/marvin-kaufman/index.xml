@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Marvin Kaufman on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Jan 2023 22:13:52 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 08:08:06 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/marvin-kaufman/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Multi-tasking Operating System?</title>
+      <link>https://techterminologies.com/definitions/multi-tasking-operating-system/</link>
+      <pubDate>Sun, 22 Jan 2023 08:08:06 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/multi-tasking-operating-system/</guid>
+      <description>A multi-tasking operating system is a type of operating system that allows multiple processes or tasks to be executed simultaneously.</description>
+    </item>
+    
     <item>
       <title>What is Windows (Operating System)?</title>
       <link>https://techterminologies.com/definitions/windows/</link>

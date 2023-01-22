@@ -6,7 +6,34 @@
     <description>Recent content in List of all contributors who write for the TechTerminologies website on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Jan 2023 23:05:54 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Jan 2023 08:08:06 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Articles by Marvin Kaufman</title>
+      <link>https://techterminologies.com/authors/marvin-kaufman/</link>
+      <pubDate>Sun, 22 Jan 2023 08:08:06 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/authors/marvin-kaufman/</guid>
+      <description>Marvin is a seasoned computer science professional with expertise in a wide range of technologies and platforms.</description>
+    </item>
+    
+    <item>
+      <title>Articles by John Graham</title>
+      <link>https://techterminologies.com/authors/john-graham/</link>
+      <pubDate>Sun, 22 Jan 2023 07:54:58 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/authors/john-graham/</guid>
+      <description>John is a digital evangelist and computer scientist with a keen interest in improving cybersecurity and how search engines work.</description>
+    </item>
+    
+    <item>
+      <title>Articles by Daniel Gonzales</title>
+      <link>https://techterminologies.com/authors/daniel-gonzales/</link>
+      <pubDate>Sun, 22 Jan 2023 07:40:40 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/authors/daniel-gonzales/</guid>
+      <description>Daniel is a self-taught professional in the field of information technology, with a focus on business and IT developments.</description>
+    </item>
+    
     <item>
       <title>Articles by Willie Dillon</title>
       <link>https://techterminologies.com/authors/willie-dillon/</link>
@@ -41,33 +68,6 @@
       
       <guid>https://techterminologies.com/authors/adam-sabin/</guid>
       <description>Adam is a tech-savvy individual with a degree in computer science.</description>
-    </item>
-    
-    <item>
-      <title>Articles by Marvin Kaufman</title>
-      <link>https://techterminologies.com/authors/marvin-kaufman/</link>
-      <pubDate>Sat, 21 Jan 2023 22:13:52 -0300</pubDate>
-      
-      <guid>https://techterminologies.com/authors/marvin-kaufman/</guid>
-      <description>Marvin is a seasoned computer science professional with expertise in a wide range of technologies and platforms.</description>
-    </item>
-    
-    <item>
-      <title>Articles by John Graham</title>
-      <link>https://techterminologies.com/authors/john-graham/</link>
-      <pubDate>Sat, 21 Jan 2023 22:05:47 -0300</pubDate>
-      
-      <guid>https://techterminologies.com/authors/john-graham/</guid>
-      <description>John is a digital evangelist and computer scientist with a keen interest in improving cybersecurity and how search engines work.</description>
-    </item>
-    
-    <item>
-      <title>Articles by Daniel Gonzales</title>
-      <link>https://techterminologies.com/authors/daniel-gonzales/</link>
-      <pubDate>Sat, 21 Jan 2023 21:54:45 -0300</pubDate>
-      
-      <guid>https://techterminologies.com/authors/daniel-gonzales/</guid>
-      <description>Daniel is a self-taught professional in the field of information technology, with a focus on business and IT developments.</description>
     </item>
     
   </channel>
