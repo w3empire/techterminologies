@@ -6,7 +6,43 @@
     <description>Recent content in Articles by Adam Sabin on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Jan 2023 22:27:57 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2023 16:44:59 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/adam-sabin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is AWS DeepRacer?</title>
+      <link>https://techterminologies.com/definitions/aws-deepracer/</link>
+      <pubDate>Fri, 23 Jun 2023 16:44:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/aws-deepracer/</guid>
+      <description>In simple terms, &amp;ldquo;AWS DeepRacer&amp;rdquo; refers to an innovative machine learning project developed by Amazon Web Services (AWS) that combines the excitement of racing with the power of artificial intelligence (AI).</description>
+    </item>
+    
+    <item>
+      <title>What is a Phishing Attack?</title>
+      <link>https://techterminologies.com/definitions/phishing-attack/</link>
+      <pubDate>Fri, 07 Apr 2023 11:23:40 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/phishing-attack/</guid>
+      <description>A phishing attack is a type of cybercrime in which an attacker attempts to deceive individuals into revealing sensitive information, such as login credentials, credit card numbers, or personal data, by masquerading as a trustworthy entity.</description>
+    </item>
+    
+    <item>
+      <title>What is Email Phishing?</title>
+      <link>https://techterminologies.com/definitions/email-phishing/</link>
+      <pubDate>Fri, 07 Apr 2023 11:19:35 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/email-phishing/</guid>
+      <description>Email phishing is a type of online scam where a cybercriminal sends an email to trick you into revealing personal information, such as passwords or credit card numbers.</description>
+    </item>
+    
+    <item>
+      <title>What is Encryption?</title>
+      <link>https://techterminologies.com/definitions/encryption/</link>
+      <pubDate>Tue, 31 Jan 2023 23:37:47 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/encryption/</guid>
+      <description>Encryption is the process of encoding information in a way that it can be accessible only to the intended recipient who has the decryption key.</description>
+    </item>
+    
     <item>
       <title>What is Linux (Operating System)?</title>
       <link>https://techterminologies.com/definitions/linux/</link>

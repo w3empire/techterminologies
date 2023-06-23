@@ -6,7 +6,25 @@
     <description>Recent content in Articles by Daniel Gonzales on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Jan 2023 07:40:40 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/daniel-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2023 17:33:09 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/daniel-gonzales/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an Automatic Backup System (ABS)?</title>
+      <link>https://techterminologies.com/definitions/automatic-backup-system-abs/</link>
+      <pubDate>Fri, 23 Jun 2023 17:33:09 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/automatic-backup-system-abs/</guid>
+      <description>Nowadays, where our lives are increasingly intertwined with technology, safeguarding our valuable digital data has become crucial.</description>
+    </item>
+    
+    <item>
+      <title>What is Average Hold Time (AHT)?</title>
+      <link>https://techterminologies.com/definitions/average-hold-time-aht/</link>
+      <pubDate>Fri, 23 Jun 2023 16:38:26 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/average-hold-time-aht/</guid>
+      <description>Average Hold Time (AHT) represents the average amount of time a customer spends waiting in a queue before their call is answered by a customer service representative.</description>
+    </item>
+    
     <item>
       <title>What is a Single-tasking Operating System?</title>
       <link>https://techterminologies.com/definitions/single-tasking-operating-system/</link>
@@ -266,6 +284,24 @@
       
       <guid>https://techterminologies.com/definitions/3d-printer/</guid>
       <description>A 3D printer is a machine that creates physical objects from digital designs.</description>
+    </item>
+    
+    <item>
+      <title>What is an Operator (Computer Programing)?</title>
+      <link>https://techterminologies.com/definitions/operator-programming/</link>
+      <pubDate>Mon, 12 Dec 2022 08:42:22 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/operator-programming/</guid>
+      <description>In computer programming, an operator is a symbol that represents a specific operation that can be performed on one or more values or variables.</description>
+    </item>
+    
+    <item>
+      <title>What is &amp; (Address-of Operator)?</title>
+      <link>https://techterminologies.com/definitions/address-of-operator/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/address-of-operator/</guid>
+      <description>In most programming languages, the address-of operator &amp;amp; is used to get the memory address of a variable.</description>
     </item>
     
     <item>

@@ -6,7 +6,25 @@
     <description>Recent content in The Complete List of Networking Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Jan 2023 07:21:02 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/networking-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2023 17:21:11 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/networking-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Automatic Repeat reQuest (ARQ)?</title>
+      <link>https://techterminologies.com/definitions/automatic-repeat-request-arq/</link>
+      <pubDate>Fri, 23 Jun 2023 17:21:11 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/automatic-repeat-request-arq/</guid>
+      <description>&amp;ldquo;Automatic Repeat reQuest (ARQ)&amp;rdquo; is a vital error-control protocol. Put simply, ARQ is a mechanism that ensures the reliable delivery of data packets or frames by automatically initiating a call to retransmit any flawed or incorrect data.</description>
+    </item>
+    
+    <item>
+      <title>What is Average Hold Time (AHT)?</title>
+      <link>https://techterminologies.com/definitions/average-hold-time-aht/</link>
+      <pubDate>Fri, 23 Jun 2023 16:38:26 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/average-hold-time-aht/</guid>
+      <description>Average Hold Time (AHT) represents the average amount of time a customer spends waiting in a queue before their call is answered by a customer service representative.</description>
+    </item>
+    
     <item>
       <title>What is a Network Administrator?</title>
       <link>https://techterminologies.com/definitions/network-administrator/</link>

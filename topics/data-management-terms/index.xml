@@ -6,7 +6,34 @@
     <description>Recent content in The Complete List of Data Management Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Jan 2023 11:32:23 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Jun 2023 17:33:09 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/data-management-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an Automatic Backup System (ABS)?</title>
+      <link>https://techterminologies.com/definitions/automatic-backup-system-abs/</link>
+      <pubDate>Fri, 23 Jun 2023 17:33:09 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/automatic-backup-system-abs/</guid>
+      <description>Nowadays, where our lives are increasingly intertwined with technology, safeguarding our valuable digital data has become crucial.</description>
+    </item>
+    
+    <item>
+      <title>What is the Azure Service Platform?</title>
+      <link>https://techterminologies.com/definitions/azure-service-platform/</link>
+      <pubDate>Fri, 23 Jun 2023 17:04:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/azure-service-platform/</guid>
+      <description>In today&amp;rsquo;s digital era, cloud computing has become an essential pillar for businesses and individuals alike.</description>
+    </item>
+    
+    <item>
+      <title>What is Encryption?</title>
+      <link>https://techterminologies.com/definitions/encryption/</link>
+      <pubDate>Tue, 31 Jan 2023 23:37:47 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/encryption/</guid>
+      <description>Encryption is the process of encoding information in a way that it can be accessible only to the intended recipient who has the decryption key.</description>
+    </item>
+    
     <item>
       <title>What is DLL Hell?</title>
       <link>https://techterminologies.com/definitions/dll-hell/</link>
@@ -392,6 +419,15 @@
       
       <guid>https://techterminologies.com/definitions/microsoft-access/</guid>
       <description>Microsoft Access is a database management system (DBMS) that is part of the Microsoft Office suite of productivity software.</description>
+    </item>
+    
+    <item>
+      <title>What is &amp; (Address-of Operator)?</title>
+      <link>https://techterminologies.com/definitions/address-of-operator/</link>
+      <pubDate>Mon, 12 Dec 2022 07:19:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/address-of-operator/</guid>
+      <description>In most programming languages, the address-of operator &amp;amp; is used to get the memory address of a variable.</description>
     </item>
     
     <item>
