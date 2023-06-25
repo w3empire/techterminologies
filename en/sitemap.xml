@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
-    <lastmod>2023-06-23T17:37:38-03:00</lastmod>
+    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
+    <lastmod>2023-06-25T17:08:26-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/</loc>
-    <lastmod>2023-06-23T17:37:38-03:00</lastmod>
+    <lastmod>2023-06-25T17:08:26-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -19,7 +19,7 @@
                 />
   </url><url>
     <loc>https://techterminologies.com/authors/</loc>
-    <lastmod>2023-06-23T17:37:38-03:00</lastmod>
+    <lastmod>2023-06-25T17:08:26-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -32,7 +32,7 @@
                 />
   </url><url>
     <loc>https://techterminologies.com/</loc>
-    <lastmod>2023-06-23T17:37:38-03:00</lastmod>
+    <lastmod>2023-06-25T17:08:26-03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -45,16 +45,46 @@
                 />
   </url><url>
     <loc>https://techterminologies.com/definitions/</loc>
-    <lastmod>2023-06-23T17:37:38-03:00</lastmod>
+    <lastmod>2023-06-25T17:08:26-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/artificial-intelligence-terms/</loc>
+    <lastmod>2023-06-25T17:08:26-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/mlops-machine-learning-operations/</loc>
+    <lastmod>2023-06-25T17:08:26-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/explainable-ai-xai/</loc>
+    <lastmod>2023-06-25T17:03:20-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/daniel-gonzales/</loc>
+    <lastmod>2023-06-25T16:57:33-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/hyperparameter/</loc>
+    <lastmod>2023-06-25T16:57:33-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/authors/marvin-kaufman/</loc>
+    <lastmod>2023-06-25T15:06:59-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/it-business-terms/</loc>
+    <lastmod>2023-06-25T15:06:59-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/digital-twin/</loc>
+    <lastmod>2023-06-25T15:06:59-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/programming-language-terms/</loc>
+    <lastmod>2023-06-25T14:59:54-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/topics/software-development-terms/</loc>
+    <lastmod>2023-06-25T14:59:54-03:00</lastmod>
+  </url><url>
+    <loc>https://techterminologies.com/definitions/julia-programming-language/</loc>
+    <lastmod>2023-06-25T14:59:54-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/hardware-terms/</loc>
     <lastmod>2023-06-23T17:37:38-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/augmented-reality-headset-ar-headset/</loc>
     <lastmod>2023-06-23T17:37:38-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/daniel-gonzales/</loc>
-    <lastmod>2023-06-23T17:33:09-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/topics/data-management-terms/</loc>
     <lastmod>2023-06-23T17:33:09-03:00</lastmod>
@@ -83,9 +113,6 @@
     <loc>https://techterminologies.com/authors/edward-martel/</loc>
     <lastmod>2023-06-23T17:15:23-03:00</lastmod>
   </url><url>
-    <loc>https://techterminologies.com/topics/software-development-terms/</loc>
-    <lastmod>2023-06-23T17:15:23-03:00</lastmod>
-  </url><url>
     <loc>https://techterminologies.com/definitions/automatic-machine-learning-automl/</loc>
     <lastmod>2023-06-23T17:15:23-03:00</lastmod>
   </url><url>
@@ -103,9 +130,6 @@
   </url><url>
     <loc>https://techterminologies.com/definitions/azerty-keyboard/</loc>
     <lastmod>2023-06-23T16:50:19-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/authors/adam-sabin/</loc>
-    <lastmod>2023-06-23T16:44:59-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/aws-deepracer/</loc>
     <lastmod>2023-06-23T16:44:59-03:00</lastmod>
@@ -163,9 +187,6 @@
   </url><url>
     <loc>https://techterminologies.com/definitions/operating-system/</loc>
     <lastmod>2023-01-21T21:54:46-03:00</lastmod>
-  </url><url>
-    <loc>https://techterminologies.com/topics/programming-language-terms/</loc>
-    <lastmod>2023-06-23T13:02:54-03:00</lastmod>
   </url><url>
     <loc>https://techterminologies.com/definitions/makefile/</loc>
     <lastmod>2023-01-18T08:20:41-03:00</lastmod>
@@ -731,6 +752,20 @@
     <loc>https://techterminologies.com/definitions/asap/</loc>
     <lastmod>2023-06-23T13:02:54-03:00</lastmod>
   </url><url>
+    <loc>https://techterminologies.com/topics/misc-tech-terms/</loc>
+  </url><url>
     <loc>https://techterminologies.com/search/</loc>
+  </url><url>
+    <loc>https://techterminologies.com/topics/cloud-computing-terms/</loc>
+  </url><url>
+    <loc>https://techterminologies.com/topics/cryptocurrency-terms/</loc>
+  </url><url>
+    <loc>https://techterminologies.com/topics/devops-terms/</loc>
+  </url><url>
+    <loc>https://techterminologies.com/topics/gaming-terms/</loc>
+  </url><url>
+    <loc>https://techterminologies.com/topics/personal-tech-terms/</loc>
+  </url><url>
+    <loc>https://techterminologies.com/topics/privacy-and-compliance-terms/</loc>
   </url>
 </urlset>

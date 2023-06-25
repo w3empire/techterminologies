@@ -6,7 +6,52 @@
     <description>Recent content in The Complete List of All Tech Terminologies and Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Jun 2023 17:37:38 -0300</lastBuildDate><atom:link href="https://techterminologies.com/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jun 2023 17:08:26 -0300</lastBuildDate><atom:link href="https://techterminologies.com/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is MLOps (Machine Learning Operations)?</title>
+      <link>https://techterminologies.com/definitions/mlops-machine-learning-operations/</link>
+      <pubDate>Sun, 25 Jun 2023 17:08:26 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/mlops-machine-learning-operations/</guid>
+      <description>MLOps, short for Machine Learning Operations, refers to the set of practices, processes, and technologies used to manage the entire lifecycle of machine learning models.</description>
+    </item>
+    
+    <item>
+      <title>What is Explainable Artificial Intelligence (XAI)?</title>
+      <link>https://techterminologies.com/definitions/explainable-ai-xai/</link>
+      <pubDate>Sun, 25 Jun 2023 17:03:20 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/explainable-ai-xai/</guid>
+      <description>At its core, Explainable AI (XAI) refers to the ability of an AI system to provide understandable explanations for its decision-making processes.</description>
+    </item>
+    
+    <item>
+      <title>What is Hyperparameter?</title>
+      <link>https://techterminologies.com/definitions/hyperparameter/</link>
+      <pubDate>Sun, 25 Jun 2023 16:57:33 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/hyperparameter/</guid>
+      <description>In the realm of machine learning, the term &amp;ldquo;hyperparameter&amp;rdquo; refers to a crucial element that plays a vital role in the training process of an algorithm.</description>
+    </item>
+    
+    <item>
+      <title>What is a Digital Twin?</title>
+      <link>https://techterminologies.com/definitions/digital-twin/</link>
+      <pubDate>Sun, 25 Jun 2023 15:06:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/digital-twin/</guid>
+      <description>Simply put, a digital twin refers to a virtual representation of a real-world entity or system.</description>
+    </item>
+    
+    <item>
+      <title>What is Julia Programming Language?</title>
+      <link>https://techterminologies.com/definitions/julia-programming-language/</link>
+      <pubDate>Sun, 25 Jun 2023 14:59:54 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/julia-programming-language/</guid>
+      <description>The Julia Programming Language is an open-source high-level programming language developed at MIT that combines the ease of use and expressiveness of dynamic scripting languages with the performance of statically typed languages.</description>
+    </item>
+    
     <item>
       <title>What is an Augmented Reality Headset (AR Headset)?</title>
       <link>https://techterminologies.com/definitions/augmented-reality-headset-ar-headset/</link>

@@ -6,7 +6,16 @@
     <description>Recent content in The Complete List of Programming Language Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Jan 2023 08:20:40 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/programming-language-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Jun 2023 14:59:54 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/programming-language-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Julia Programming Language?</title>
+      <link>https://techterminologies.com/definitions/julia-programming-language/</link>
+      <pubDate>Sun, 25 Jun 2023 14:59:54 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/julia-programming-language/</guid>
+      <description>The Julia Programming Language is an open-source high-level programming language developed at MIT that combines the ease of use and expressiveness of dynamic scripting languages with the performance of statically typed languages.</description>
+    </item>
+    
     <item>
       <title>What is a Makefile?</title>
       <link>https://techterminologies.com/definitions/makefile/</link>
