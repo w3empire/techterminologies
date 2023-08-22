@@ -6,7 +6,16 @@
     <description>Recent content in Articles by Eli Roy on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Jun 2023 17:10:46 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Aug 2023 13:05:30 -0300</lastBuildDate><atom:link href="https://techterminologies.com/authors/eli-roy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an Address Record (A Record)?</title>
+      <link>https://techterminologies.com/definitions/address-record/</link>
+      <pubDate>Mon, 14 Aug 2023 13:05:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/address-record/</guid>
+      <description>An &amp;ldquo;Address Record&amp;rdquo; is a critical component of the DNS, a system that acts as the internet&amp;rsquo;s phonebook.</description>
+    </item>
+    
     <item>
       <title>What is an Anti-Virus Killer (AV Killer)?</title>
       <link>https://techterminologies.com/definitions/anti-virus-killer/</link>

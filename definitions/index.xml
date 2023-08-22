@@ -6,7 +6,97 @@
     <description>Recent content in The Complete List of All Tech Terminologies and Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Jun 2023 17:08:26 -0300</lastBuildDate><atom:link href="https://techterminologies.com/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Aug 2023 17:55:10 -0300</lastBuildDate><atom:link href="https://techterminologies.com/definitions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is Java 2 Platform, Enterprise Edition (J2EE)?</title>
+      <link>https://techterminologies.com/definitions/java-2-platform-enterprise-edition/</link>
+      <pubDate>Tue, 22 Aug 2023 17:55:10 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/java-2-platform-enterprise-edition/</guid>
+      <description>&amp;ldquo;Java 2 Platform, Enterprise Edition&amp;rdquo; (J2EE) is a technology that helps developers build powerful and reliable software for big and complex tasks, like managing online stores or banking systems.</description>
+    </item>
+    
+    <item>
+      <title>What is a Generic Access Network (GAN)?</title>
+      <link>https://techterminologies.com/definitions/generic-access-network/</link>
+      <pubDate>Tue, 22 Aug 2023 17:44:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/generic-access-network/</guid>
+      <description>A Generic Access Network (GAN) serves as a bridge between different communication devices, allowing cellular device users to connect and interact with a wide array of devices beyond the conventional realm of smartphones and tablets.</description>
+    </item>
+    
+    <item>
+      <title>What is Generative AI?</title>
+      <link>https://techterminologies.com/definitions/generative-ai/</link>
+      <pubDate>Tue, 22 Aug 2023 16:00:53 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/generative-ai/</guid>
+      <description>Generative AI refers to a category of artificial intelligence that possesses the ability to produce content autonomously, replicating the creative processes inherent in human imagination.</description>
+    </item>
+    
+    <item>
+      <title>What is Blockchain (Distributed Ledger)?</title>
+      <link>https://techterminologies.com/definitions/blockchain-distributed-ledger/</link>
+      <pubDate>Tue, 22 Aug 2023 15:49:06 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/blockchain-distributed-ledger/</guid>
+      <description>A blockchain is a decentralized and immutable digital ledger used to validate, record, and store transactions across a network of computers.</description>
+    </item>
+    
+    <item>
+      <title>What is Digital VHS (D-VHS)?</title>
+      <link>https://techterminologies.com/definitions/digital-vhs/</link>
+      <pubDate>Tue, 22 Aug 2023 15:36:02 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/digital-vhs/</guid>
+      <description>Digital VHS (D-VHS) refers to a videocassette format that ushered in a new era of media storage and playback by blending analog nostalgia with digital efficiency.</description>
+    </item>
+    
+    <item>
+      <title>What is Background Intelligent Transfer Service (BITS)?</title>
+      <link>https://techterminologies.com/definitions/background-intelligent-transfer-service/</link>
+      <pubDate>Tue, 22 Aug 2023 15:31:33 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/background-intelligent-transfer-service/</guid>
+      <description>Background Intelligent Transfer Service is a technology developed by Microsoft that enables the efficient and reliable transfer of files in the background without disrupting a user&amp;rsquo;s computing experience.</description>
+    </item>
+    
+    <item>
+      <title>What is a Back End System?</title>
+      <link>https://techterminologies.com/definitions/back-end-system/</link>
+      <pubDate>Tue, 22 Aug 2023 15:21:37 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/back-end-system/</guid>
+      <description>A back-end system serves as the backbone of any digital service or application, working diligently behind the scenes to power the functionalities we interact with.</description>
+    </item>
+    
+    <item>
+      <title>What is an Address Record (A Record)?</title>
+      <link>https://techterminologies.com/definitions/address-record/</link>
+      <pubDate>Mon, 14 Aug 2023 13:05:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/address-record/</guid>
+      <description>An &amp;ldquo;Address Record&amp;rdquo; is a critical component of the DNS, a system that acts as the internet&amp;rsquo;s phonebook.</description>
+    </item>
+    
+    <item>
+      <title>What is a Web Crawler?</title>
+      <link>https://techterminologies.com/definitions/web-crawler/</link>
+      <pubDate>Mon, 14 Aug 2023 04:20:18 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/web-crawler/</guid>
+      <description>A &amp;ldquo;Web Crawler&amp;rdquo; is a computer program that explores the internet, visiting websites and collecting information from them.</description>
+    </item>
+    
+    <item>
+      <title>What is an Archive Site?</title>
+      <link>https://techterminologies.com/definitions/archive-site/</link>
+      <pubDate>Mon, 14 Aug 2023 04:09:41 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/archive-site/</guid>
+      <description>An Archive Site is a digital haven that preserves the essence of the past, housing obsolete or seemingly forgotten content from the vast realm of the internet.</description>
+    </item>
+    
     <item>
       <title>What is MLOps (Machine Learning Operations)?</title>
       <link>https://techterminologies.com/definitions/mlops-machine-learning-operations/</link>

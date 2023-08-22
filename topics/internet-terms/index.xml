@@ -6,7 +6,34 @@
     <description>Recent content in The Complete List of Internet Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Dec 2022 16:44:03 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/internet-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Aug 2023 13:05:30 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/internet-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is an Address Record (A Record)?</title>
+      <link>https://techterminologies.com/definitions/address-record/</link>
+      <pubDate>Mon, 14 Aug 2023 13:05:30 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/address-record/</guid>
+      <description>An &amp;ldquo;Address Record&amp;rdquo; is a critical component of the DNS, a system that acts as the internet&amp;rsquo;s phonebook.</description>
+    </item>
+    
+    <item>
+      <title>What is a Web Crawler?</title>
+      <link>https://techterminologies.com/definitions/web-crawler/</link>
+      <pubDate>Mon, 14 Aug 2023 04:20:18 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/web-crawler/</guid>
+      <description>A &amp;ldquo;Web Crawler&amp;rdquo; is a computer program that explores the internet, visiting websites and collecting information from them.</description>
+    </item>
+    
+    <item>
+      <title>What is an Archive Site?</title>
+      <link>https://techterminologies.com/definitions/archive-site/</link>
+      <pubDate>Mon, 14 Aug 2023 04:09:41 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/archive-site/</guid>
+      <description>An Archive Site is a digital haven that preserves the essence of the past, housing obsolete or seemingly forgotten content from the vast realm of the internet.</description>
+    </item>
+    
     <item>
       <title>What is a Zone File?</title>
       <link>https://techterminologies.com/definitions/zone-file/</link>

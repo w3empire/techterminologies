@@ -6,7 +6,25 @@
     <description>Recent content in The Complete List of Networking Terms And Their Definitions on Tech Terminologies</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Jun 2023 17:21:11 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/networking-terms/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Aug 2023 17:44:59 -0300</lastBuildDate><atom:link href="https://techterminologies.com/topics/networking-terms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is a Generic Access Network (GAN)?</title>
+      <link>https://techterminologies.com/definitions/generic-access-network/</link>
+      <pubDate>Tue, 22 Aug 2023 17:44:59 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/generic-access-network/</guid>
+      <description>A Generic Access Network (GAN) serves as a bridge between different communication devices, allowing cellular device users to connect and interact with a wide array of devices beyond the conventional realm of smartphones and tablets.</description>
+    </item>
+    
+    <item>
+      <title>What is a Back End System?</title>
+      <link>https://techterminologies.com/definitions/back-end-system/</link>
+      <pubDate>Tue, 22 Aug 2023 15:21:37 -0300</pubDate>
+      
+      <guid>https://techterminologies.com/definitions/back-end-system/</guid>
+      <description>A back-end system serves as the backbone of any digital service or application, working diligently behind the scenes to power the functionalities we interact with.</description>
+    </item>
+    
     <item>
       <title>What is a Automatic Repeat reQuest (ARQ)?</title>
       <link>https://techterminologies.com/definitions/automatic-repeat-request-arq/</link>
